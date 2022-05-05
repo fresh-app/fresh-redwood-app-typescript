@@ -2311,7 +2311,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@graphql-codegen/typescript@npm:2.4.8, @graphql-codegen/typescript@npm:^2.4.8":
+"@graphql-codegen/typescript@npm:2.4.8":
   version: 2.4.8
   resolution: "@graphql-codegen/typescript@npm:2.4.8"
   dependencies:
@@ -2323,6 +2323,21 @@ __metadata:
   peerDependencies:
     graphql: ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0 || ^16.0.0
   checksum: 23f069dbe830e67d9b3267327ba09e50f7a01968a24d90323f268b417d1fcb135ee31b78e92c82c3277dbe856f2ce03c13723c1127cce5042a5fdaf94eab43dd
+  languageName: node
+  linkType: hard
+
+"@graphql-codegen/typescript@npm:^2.4.8":
+  version: 2.4.9
+  resolution: "@graphql-codegen/typescript@npm:2.4.9"
+  dependencies:
+    "@graphql-codegen/plugin-helpers": ^2.4.0
+    "@graphql-codegen/schema-ast": ^2.4.1
+    "@graphql-codegen/visitor-plugin-common": 2.7.5
+    auto-bind: ~4.0.0
+    tslib: ~2.4.0
+  peerDependencies:
+    graphql: ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0 || ^16.0.0
+  checksum: e4d6cf0035137b981ed43b937dd69217e61c33f45bf9fe409645dfad68b8358aeebdf2f6b8ae65768589542d1ae848d27be1071ed31a7f90f9dbc5d1adf1a665
   languageName: node
   linkType: hard
 
@@ -2343,6 +2358,26 @@ __metadata:
   peerDependencies:
     graphql: ^0.8.0 || ^0.9.0 || ^0.10.0 || ^0.11.0 || ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0 || ^16.0.0
   checksum: 12009a549fe6ba33197c5dddfa05a95b3d9b2d43693979f80066b94c6931706d3e39f73361c28ff825f2da3e44502c6b4f13a440bc4d5c0fc5af86b6ac93e6da
+  languageName: node
+  linkType: hard
+
+"@graphql-codegen/visitor-plugin-common@npm:2.7.5":
+  version: 2.7.5
+  resolution: "@graphql-codegen/visitor-plugin-common@npm:2.7.5"
+  dependencies:
+    "@graphql-codegen/plugin-helpers": ^2.4.0
+    "@graphql-tools/optimize": ^1.0.1
+    "@graphql-tools/relay-operation-optimizer": ^6.3.7
+    "@graphql-tools/utils": ^8.3.0
+    auto-bind: ~4.0.0
+    change-case-all: 1.0.14
+    dependency-graph: ^0.11.0
+    graphql-tag: ^2.11.0
+    parse-filepath: ^1.0.2
+    tslib: ~2.4.0
+  peerDependencies:
+    graphql: ^0.8.0 || ^0.9.0 || ^0.10.0 || ^0.11.0 || ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0 || ^16.0.0
+  checksum: 9d282c48391e4b55af7a4fa53a5314b3ff6e139c592bb22b31edd0f270a01ae2b85db8afc671fe9390139458b649c0b9e822762065ca10f1941cd4cf92bc7a8a
   languageName: node
   linkType: hard
 
@@ -9446,14 +9481,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cookie@npm:0.5.0":
+"cookie@npm:0.5.0, cookie@npm:^0.5.0":
   version: 0.5.0
   resolution: "cookie@npm:0.5.0"
   checksum: c01ca3ef8d7b8187bae434434582288681273b5a9ed27521d4d7f9f7928fe0c920df0decd9f9d3bbd2d14ac432b8c8cf42b98b3bdd5bfe0e6edddeebebe8b61d
   languageName: node
   linkType: hard
 
-"cookie@npm:^0.4.0, cookie@npm:^0.4.2":
+"cookie@npm:^0.4.2":
   version: 0.4.2
   resolution: "cookie@npm:0.4.2"
   checksum: beab41fbd7c20175e3a2799ba948c1dcc71ef69f23fe14eeeff59fc09f50c517b0f77098db87dbb4c55da802f9d86ee86cdc1cd3efd87760341551838d53fca2
@@ -10745,9 +10780,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.118":
-  version: 1.4.132
-  resolution: "electron-to-chromium@npm:1.4.132"
-  checksum: 7746636b637ab2bbfe65aab1df6dfe4473b17c69ab1fcba606584fdc58f9f32d92a9fffb8377ba28607f062ce33132452bdb28ba2f3399876b0f0f9e85797852
+  version: 1.4.133
+  resolution: "electron-to-chromium@npm:1.4.133"
+  checksum: 5fa1e43b953e645c7f2652fe55cf9e60536d8c3262012ac95b3bc83aa78205cc65c2c4e3a7c98cdfc2d14229e347878829621db4ca7874932c690234716025fe
   languageName: node
   linkType: hard
 
@@ -16006,14 +16041,14 @@ __metadata:
   linkType: hard
 
 "light-my-request@npm:^4.2.0":
-  version: 4.9.0
-  resolution: "light-my-request@npm:4.9.0"
+  version: 4.10.1
+  resolution: "light-my-request@npm:4.10.1"
   dependencies:
     ajv: ^8.1.0
-    cookie: ^0.4.0
+    cookie: ^0.5.0
     process-warning: ^1.0.0
     set-cookie-parser: ^2.4.1
-  checksum: 109b0e3ecee144bfe3077f26a003d1a7cf3a3ccfffe18e944fc5318407c66b12a1c11c2b2b08ca901e211321e3ab57d78afd36869feba66ed98a0a0c45f09038
+  checksum: 1d8f4af92ccc53b17132f431500dd109371c8faa3166b3117bcb9c380ef019b6140a1ba6852f5c4dfa358fd33b8a212795b6fab39b4e07ea785aa7fb5591d873
   languageName: node
   linkType: hard
 

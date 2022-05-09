@@ -13098,11 +13098,11 @@ __metadata:
   linkType: hard
 
 "globals@npm:^13.6.0, globals@npm:^13.9.0":
-  version: 13.13.0
-  resolution: "globals@npm:13.13.0"
+  version: 13.14.0
+  resolution: "globals@npm:13.14.0"
   dependencies:
     type-fest: ^0.20.2
-  checksum: e83a1a60b3b2b36b39350b39504a34082419498c34efc73b257ce25e32fe4ce0381f4be54ee1b3cf0122da50c9c4956644fdb68d5c2bdd181f5cdf6c054ada50
+  checksum: 35f34bdf2466d4932b040605b8650ecdf88292ee3789c62e61f071d086699b741089f4ee445b0de448bb2a0e436a6533ab75430dec12d37e703c211f23f22f1d
   languageName: node
   linkType: hard
 

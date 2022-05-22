@@ -3377,16 +3377,16 @@ __metadata:
   linkType: hard
 
 "@mswjs/interceptors@npm:^0.15.1":
-  version: 0.15.2
-  resolution: "@mswjs/interceptors@npm:0.15.2"
+  version: 0.15.3
+  resolution: "@mswjs/interceptors@npm:0.15.3"
   dependencies:
     "@open-draft/until": ^1.0.3
     "@xmldom/xmldom": ^0.7.5
     debug: ^4.3.3
     headers-polyfill: ^3.0.4
     outvariant: ^1.2.1
-    strict-event-emitter: ^0.2.4
-  checksum: e90225c90e3ae9c13a7f2ca22f083b7b876ce04dca1c5ffd4f838a3b882ac979baf8a690333f32fe1488326e110d3ac487634832a8efcc8258a9c2945bdf22f5
+    strict-event-emitter: ^0.2.0
+  checksum: 40e179b3d273559f57e46b870a7b29fe0b6a6071ca35f862371303c2430505014184c7928f6185ec05562e7a9fd56322f08c53c29cd0b8d1358c1284ac4185a9
   languageName: node
   linkType: hard
 
@@ -18095,9 +18095,9 @@ __metadata:
   linkType: hard
 
 "object-inspect@npm:^1.12.0, object-inspect@npm:^1.9.0":
-  version: 1.12.0
-  resolution: "object-inspect@npm:1.12.0"
-  checksum: 5ea7837f39f8da87b7cf25e81d14d21c45aae87ecbf0a5997a4d1950eacff363b85d39eab9ef6677ea36e862c708a4fe880ca2ffae1492acacdcbc963f2ee239
+  version: 1.12.1
+  resolution: "object-inspect@npm:1.12.1"
+  checksum: 5cb4ab6c400c825278be8c8a6954933e62649dafbbbf91ce3638c2bd87e59b87102760c0dba041a69a69442513e5f359a0b1823c753893deaed2617494887d54
   languageName: node
   linkType: hard
 
@@ -22005,7 +22005,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"strict-event-emitter@npm:^0.2.0, strict-event-emitter@npm:^0.2.4":
+"strict-event-emitter@npm:^0.2.0":
   version: 0.2.4
   resolution: "strict-event-emitter@npm:0.2.4"
   dependencies:

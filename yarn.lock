@@ -18028,11 +18028,11 @@ __metadata:
   linkType: hard
 
 "nth-check@npm:^2.0.1":
-  version: 2.1.0
-  resolution: "nth-check@npm:2.1.0"
+  version: 2.1.1
+  resolution: "nth-check@npm:2.1.1"
   dependencies:
     boolbase: ^1.0.0
-  checksum: b394ee8fd785c533bc28a3e1033ebb2c226e22d317a8ca4f5751784429673e3e70b00c42329eae087ad079bf0a42538a5e2f470a079a26a0c85fafab5c8aff14
+  checksum: 5fee7ff309727763689cfad844d979aedd2204a817fbaaf0e1603794a7c20db28548d7b024692f953557df6ce4a0ee4ae46cd8ebd9b36cfb300b9226b567c479
   languageName: node
   linkType: hard
 

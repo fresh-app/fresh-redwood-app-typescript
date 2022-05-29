@@ -5864,9 +5864,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 17.0.35
-  resolution: "@types/node@npm:17.0.35"
-  checksum: 7200dd8d1076088bc7a19823852007460106954f4c72c0bc46ee49869395b18eff2d3098dc4c009117a53026b0a5d8b8ee5c61e5dc76927a5fbbc35ebe4e14d3
+  version: 17.0.36
+  resolution: "@types/node@npm:17.0.36"
+  checksum: cafd1e1f84835d0b2649d2d6ef59a8f1757e2a4a2285d0d4beb2f10f497514ef585a0959282a1147c78428cb7c29cc6572c4d488690d1c9714e7efcc4ca4c03c
   languageName: node
   linkType: hard
 
@@ -5906,9 +5906,9 @@ __metadata:
   linkType: hard
 
 "@types/prettier@npm:^2.1.5":
-  version: 2.6.1
-  resolution: "@types/prettier@npm:2.6.1"
-  checksum: 2161c9c00b8545d49ca0f45eff1825d7b87a28bb1031fc2b03afaba254f5697810814db16ab4aa1814e41c0cb6963881758f26deef88cb7098ac874c7bbad8f2
+  version: 2.6.3
+  resolution: "@types/prettier@npm:2.6.3"
+  checksum: ac51e59ef24793d7e747483c417706d62408ef406962e077ff89d10f009e42ab7bf0452d9a406493fd5bc37b4f1b71f507b045d775083d6987526bc7a74f01ea
   languageName: node
   linkType: hard
 
@@ -16897,11 +16897,11 @@ __metadata:
   linkType: hard
 
 "memfs@npm:^3.1.2, memfs@npm:^3.2.2, memfs@npm:^3.4.3":
-  version: 3.4.3
-  resolution: "memfs@npm:3.4.3"
+  version: 3.4.4
+  resolution: "memfs@npm:3.4.4"
   dependencies:
     fs-monkey: 1.0.3
-  checksum: 5f1f3ab95b476f01a9d52b13dfff989c5a991f3cca2b3c6f40f63f34f85da5801cd2833ffa952bef6ce7af369b23398eb56363f081ce95423cf8b244af2e3885
+  checksum: 4d4e800dc2fc3b77a5a8dab551ca06bf2a60bba7adabce5ddd0e9140940e0cf2d80a526a48f1198a5343e7734741e3235f40d02ac5c37db5427305238adef847
   languageName: node
   linkType: hard
 
@@ -19757,8 +19757,8 @@ __metadata:
   linkType: hard
 
 "react-docgen@npm:^5.0.0":
-  version: 5.4.0
-  resolution: "react-docgen@npm:5.4.0"
+  version: 5.4.1
+  resolution: "react-docgen@npm:5.4.1"
   dependencies:
     "@babel/core": ^7.7.5
     "@babel/generator": ^7.12.11
@@ -19772,7 +19772,7 @@ __metadata:
     strip-indent: ^3.0.0
   bin:
     react-docgen: bin/react-docgen.js
-  checksum: 9163705247736ca0ea2a0d18544b86801e47c4cac82e2d309c39b82bc9caa5e8a0b3f98fa3129cc1bb7fc50288993a12d719fa10834c5f7b2f2939d5b5e93611
+  checksum: 91772477545aea3c66ec682feea2af8b843975a52d308a6f98046e1de65f314c9abde4c54c57af54ad2e9ab14067aeb5f0a7c457e89f6488ad40b4eac8cefbaa
   languageName: node
   linkType: hard
 

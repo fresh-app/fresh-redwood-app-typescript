@@ -5874,16 +5874,23 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 17.0.36
-  resolution: "@types/node@npm:17.0.36"
-  checksum: cafd1e1f84835d0b2649d2d6ef59a8f1757e2a4a2285d0d4beb2f10f497514ef585a0959282a1147c78428cb7c29cc6572c4d488690d1c9714e7efcc4ca4c03c
+  version: 17.0.38
+  resolution: "@types/node@npm:17.0.38"
+  checksum: e85ce557a5d9516801c15cd63efd0b255778b519cda719bd07c51481952f5f04585311592fc3e2a24fde106b2ec65663c607a98dbdfd54bbc3006b0e0a7b7cdd
   languageName: node
   linkType: hard
 
-"@types/node@npm:16.11.36, @types/node@npm:^14.0.10 || ^16.0.0, @types/node@npm:^14.14.20 || ^16.0.0":
+"@types/node@npm:16.11.36":
   version: 16.11.36
   resolution: "@types/node@npm:16.11.36"
   checksum: fbb1febc365549455a8566bbc3a3fb4521f08e2a1aac9d55bcfee67501383435c3a4d05c16759a0d6988bdcf6d8c145738aed61b043ec257fa76e8179984af20
+  languageName: node
+  linkType: hard
+
+"@types/node@npm:^14.0.10 || ^16.0.0, @types/node@npm:^14.14.20 || ^16.0.0":
+  version: 16.11.38
+  resolution: "@types/node@npm:16.11.38"
+  checksum: 16617890ac59c05791678cb8c8c656c3bbe70f597052213cac4f38a2d599d53814b62b2f8c380753df6a548337b8730cd30025d8441ecf116917683021084cb9
   languageName: node
   linkType: hard
 
@@ -5969,13 +5976,13 @@ __metadata:
   linkType: hard
 
 "@types/react@npm:*":
-  version: 18.0.9
-  resolution: "@types/react@npm:18.0.9"
+  version: 18.0.10
+  resolution: "@types/react@npm:18.0.10"
   dependencies:
     "@types/prop-types": "*"
     "@types/scheduler": "*"
     csstype: ^3.0.2
-  checksum: bf9fadddcf45e9228dc81ce5438dd7278e475a8b0e19a481a9ea2fee42a4c6b65f6e50b03f8f4fd84c2b62604d71f810a4e875a88ac4d9cda4777a4c6116c41c
+  checksum: 03f7fc0cda2bc943b962b56ba65c57e9f4193689bfb5fff90958a3453dd01745ce09e8c7d0012802b858992779077cc7bcdc80c7df227d58cb815739143fb458
   languageName: node
   linkType: hard
 
@@ -10772,9 +10779,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.118":
-  version: 1.4.142
-  resolution: "electron-to-chromium@npm:1.4.142"
-  checksum: 135ab229819e084d185d5df98029c2f893c1c92948791ef8a30a8490e4b3f8f08efe9a360371959c1f94062169469e98bf20c84ce68d92e11c2d0f472eccab88
+  version: 1.4.143
+  resolution: "electron-to-chromium@npm:1.4.143"
+  checksum: b74e837336a9552c4bed7efd555d0d7e29a719beb7f813be251a5ac2e918fc45ba718c19ded51ef7c260280aca3354b822bd766777ff881ec28d49e55b3c2659
   languageName: node
   linkType: hard
 
@@ -21358,13 +21365,13 @@ __metadata:
   linkType: hard
 
 "socks-proxy-agent@npm:^6.1.1":
-  version: 6.2.0
-  resolution: "socks-proxy-agent@npm:6.2.0"
+  version: 6.2.1
+  resolution: "socks-proxy-agent@npm:6.2.1"
   dependencies:
     agent-base: ^6.0.2
     debug: ^4.3.3
     socks: ^2.6.2
-  checksum: d1aa894b61fd9f741b23ed6d55f8a94fc38a561493d24698419cabb9c6c803ee094d43bb96d6a5a7559b8b850592c42a5b55a840965c053c04356132349f42b3
+  checksum: d75c1cf1fdd7f8309a43a77f84409b793fc0f540742ef915154e70ac09a08b0490576fe85d4f8d68bbf80e604a62957a17ab5ef50d312fe1442b0ab6f8f6e6f6
   languageName: node
   linkType: hard
 
@@ -22975,9 +22982,9 @@ __metadata:
   linkType: hard
 
 "undici@npm:^5.0.0, undici@npm:^5.1.0":
-  version: 5.3.0
-  resolution: "undici@npm:5.3.0"
-  checksum: 9ca912e4eeb3b4aca8da9862240d61c0ff51ecc54ccec3adba78e724f76e43f6617b2d5e567c05cca4faa986b06e29e214c7c7a43fa88852286e745b06cb9096
+  version: 5.4.0
+  resolution: "undici@npm:5.4.0"
+  checksum: e3641956642e31408be52125f4292cdc0e09f3a5c098302f82ac3fff70abfa2da553b025774b5aee65cef980e0c60672123afbad681112bfaa549cc366ebee3b
   languageName: node
   linkType: hard
 

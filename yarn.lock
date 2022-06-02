@@ -5756,7 +5756,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/jest@npm:*, @types/jest@npm:27.5.1":
+"@types/jest@npm:*":
+  version: 28.1.0
+  resolution: "@types/jest@npm:28.1.0"
+  dependencies:
+    jest-matcher-utils: ^27.0.0
+    pretty-format: ^27.0.0
+  checksum: 4a7895537e39ba9f8ec3dbc189de4a4a80bf167dd5f4a2c9474473a05d841f9b0ceca5e533214be4a99bc4d0e08eda406f1cca08b7a5b67c2956071412bf9415
+  languageName: node
+  linkType: hard
+
+"@types/jest@npm:27.5.1":
   version: 27.5.1
   resolution: "@types/jest@npm:27.5.1"
   dependencies:
@@ -6088,11 +6098,11 @@ __metadata:
   linkType: hard
 
 "@types/uglify-js@npm:*":
-  version: 3.13.2
-  resolution: "@types/uglify-js@npm:3.13.2"
+  version: 3.13.3
+  resolution: "@types/uglify-js@npm:3.13.3"
   dependencies:
     source-map: ^0.6.1
-  checksum: dd563a1d7e40e36aeb8777c5e04a3a0b850d9153dfa2ed10344066b61e860ed9717d0cfe794ac60d6a87d13217e40083616ba0591e06a15262bd7c34680ceb70
+  checksum: f5318594d065199a274942ff4a0b28bd8c1f94915341e7a65fc229b60f1e645f1e79875f1d7f22909df61d9adef8f35c30361a8ceaf063f4369e6e0b85f2a2ed
   languageName: node
   linkType: hard
 
@@ -9532,19 +9542,19 @@ __metadata:
   linkType: hard
 
 "core-js-compat@npm:^3.18.0, core-js-compat@npm:^3.19.1, core-js-compat@npm:^3.20.0, core-js-compat@npm:^3.21.0, core-js-compat@npm:^3.22.1, core-js-compat@npm:^3.8.1":
-  version: 3.22.7
-  resolution: "core-js-compat@npm:3.22.7"
+  version: 3.22.8
+  resolution: "core-js-compat@npm:3.22.8"
   dependencies:
     browserslist: ^4.20.3
     semver: 7.0.0
-  checksum: 871ac6b45cf3cc33b569f302fcefad569fb72057d83e818cd2f49294f9b226b5c5f4ad63b4eee38a2d92f3becdf679fba9ae1c51d7ad0e690e1b17822ced1622
+  checksum: a569000114822f20827d41c63f7f59a095656087d82103a9c677c286f09899278b7b8f27cee96402b1d622af111d7158f09c8ab5920432a0bdd91af6d9a5662a
   languageName: node
   linkType: hard
 
 "core-js-pure@npm:^3.19.0, core-js-pure@npm:^3.20.2, core-js-pure@npm:^3.8.1":
-  version: 3.22.7
-  resolution: "core-js-pure@npm:3.22.7"
-  checksum: 2574553ad3fe6f545c5c25f14fa0bec5a90cdaabd81fbc6c50dad23232f654d8c897557e988d8d56f67e9b52f44b7b8a62b78eb9df22e9f92ab596688a0eab65
+  version: 3.22.8
+  resolution: "core-js-pure@npm:3.22.8"
+  checksum: d0cf739883850bd88e1c13b2fb28091ccdd60b8c7eec63dac11440e678e793e38dd4ff519c735a6b859002fcc83f613196c1583ec0c1b6b4b0fc4c01ecd2dd5f
   languageName: node
   linkType: hard
 
@@ -9556,9 +9566,9 @@ __metadata:
   linkType: hard
 
 "core-js@npm:^3.0.4, core-js@npm:^3.19.0, core-js@npm:^3.6.5, core-js@npm:^3.8.2":
-  version: 3.22.7
-  resolution: "core-js@npm:3.22.7"
-  checksum: 0f9daff33656f4b9a1664c35f2ce151746e8a198ae9f32d81465a0a63b5b5f15e81cc0e43f073f2733f23d842d75b946d02c1ee05ba4e805c90417e1c7ee7d82
+  version: 3.22.8
+  resolution: "core-js@npm:3.22.8"
+  checksum: 431fa4c9028bd2fdaffaba490e6dc2b9fcebef50a62d4ef15d37f04b98a7ae7adda370811db61a439a2068d75da7314ba0532b1e4ee00b39bda3b01af89c282a
   languageName: node
   linkType: hard
 
@@ -22342,13 +22352,13 @@ __metadata:
   linkType: hard
 
 "terser-webpack-plugin@npm:^5.0.3, terser-webpack-plugin@npm:^5.1.3":
-  version: 5.3.1
-  resolution: "terser-webpack-plugin@npm:5.3.1"
+  version: 5.3.2
+  resolution: "terser-webpack-plugin@npm:5.3.2"
   dependencies:
+    "@jridgewell/trace-mapping": ^0.3.7
     jest-worker: ^27.4.5
     schema-utils: ^3.1.1
     serialize-javascript: ^6.0.0
-    source-map: ^0.6.1
     terser: ^5.7.2
   peerDependencies:
     webpack: ^5.1.0
@@ -22359,7 +22369,7 @@ __metadata:
       optional: true
     uglify-js:
       optional: true
-  checksum: e23d849d40b1f062c839ba56b2c8af4837d8edf57fc8cbe2ebce7983476d20c687bdb201d38f1f001c3e40c800f7d7826397434ea36aab4f0fad671218902b6c
+  checksum: b77381f3aaec395c5631ce0a120f85831b149a6027d72110f75106325d9f89c63df41a4464beb7151035c938e81d572869e3a837ab214b1e01c93aa35ee3cd6d
   languageName: node
   linkType: hard
 

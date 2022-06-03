@@ -8490,8 +8490,8 @@ __metadata:
   linkType: hard
 
 "cacache@npm:^16.1.0":
-  version: 16.1.0
-  resolution: "cacache@npm:16.1.0"
+  version: 16.1.1
+  resolution: "cacache@npm:16.1.1"
   dependencies:
     "@npmcli/fs": ^2.1.0
     "@npmcli/move-file": ^2.0.0
@@ -8511,7 +8511,7 @@ __metadata:
     ssri: ^9.0.0
     tar: ^6.1.11
     unique-filename: ^1.1.1
-  checksum: bdbd1aad47f99b025ba4712d03062777b9b8380e1df642cd821b2d61f44b8e2af97af0748c316894c57c602fc2763f993f20850ea2784da6dae7dae95f68ffc7
+  checksum: 8f257699d9bfe41c40340522cb4920ce88b35d07ea7733f92c5e56ead390ae43468035627385a3d6019ad89dd96e8bc3eeca646980290921406ec1fa9199ba7d
   languageName: node
   linkType: hard
 
@@ -8632,9 +8632,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001332":
-  version: 1.0.30001344
-  resolution: "caniuse-lite@npm:1.0.30001344"
-  checksum: 9c17542f7d098d0d0da25d594635c624908381be78e8b4b78df3ddde81d5408ea56ad4fe4bc0b259b5a638b6c7ac82c342b5b2faded0ddf529f33a58221403a7
+  version: 1.0.30001346
+  resolution: "caniuse-lite@npm:1.0.30001346"
+  checksum: 73bcc63cc9ac18babc3070d98330e1574f1b668a87d83eee2b6774be5b623778ed71f5b6f9f0dc58c800f4ede980e65524c6c58624ca3d227854b968c81a6bf6
   languageName: node
   linkType: hard
 
@@ -10789,9 +10789,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.118":
-  version: 1.4.143
-  resolution: "electron-to-chromium@npm:1.4.143"
-  checksum: b74e837336a9552c4bed7efd555d0d7e29a719beb7f813be251a5ac2e918fc45ba718c19ded51ef7c260280aca3354b822bd766777ff881ec28d49e55b3c2659
+  version: 1.4.144
+  resolution: "electron-to-chromium@npm:1.4.144"
+  checksum: 6da48ee9a0ab1bbf0c999eca1fe4843643cc809c898cab43adf5e04bd6180d4753add3564acbeb92982e2fa5e5696b377bcd66da6f6950c9a7390af833dea4ce
   languageName: node
   linkType: hard
 
@@ -16744,8 +16744,8 @@ __metadata:
   linkType: hard
 
 "make-fetch-happen@npm:^10.0.3":
-  version: 10.1.6
-  resolution: "make-fetch-happen@npm:10.1.6"
+  version: 10.1.7
+  resolution: "make-fetch-happen@npm:10.1.7"
   dependencies:
     agentkeepalive: ^4.2.1
     cacache: ^16.1.0
@@ -16761,9 +16761,9 @@ __metadata:
     minipass-pipeline: ^1.2.4
     negotiator: ^0.6.3
     promise-retry: ^2.0.1
-    socks-proxy-agent: ^6.1.1
+    socks-proxy-agent: ^7.0.0
     ssri: ^9.0.0
-  checksum: 8a6e74392cc9f0b8f1c11687b249197d95da93d64ff4ed66fb18b0ea0e07bd32370e7d64d22b3663678eba3bb89fe4593b9f1c293fb707f88c4ccfb3bf0ae674
+  checksum: abd65aac5d4cfa3de08e534ccbb1af22e62820de30d2d7996956fdae78a8a44acc8ba823d8d604e7a9ea7e5a48dab005478412a7aa1e4299607cb52883c31427
   languageName: node
   linkType: hard
 
@@ -21374,14 +21374,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"socks-proxy-agent@npm:^6.1.1":
-  version: 6.2.1
-  resolution: "socks-proxy-agent@npm:6.2.1"
+"socks-proxy-agent@npm:^7.0.0":
+  version: 7.0.0
+  resolution: "socks-proxy-agent@npm:7.0.0"
   dependencies:
     agent-base: ^6.0.2
     debug: ^4.3.3
     socks: ^2.6.2
-  checksum: d75c1cf1fdd7f8309a43a77f84409b793fc0f540742ef915154e70ac09a08b0490576fe85d4f8d68bbf80e604a62957a17ab5ef50d312fe1442b0ab6f8f6e6f6
+  checksum: b859f7eb8e96ec2c4186beea233ae59c02404094f3eb009946836af27d6e5c1627d1975a69b4d2e20611729ed543b6db3ae8481eb38603433c50d0345c987600
   languageName: node
   linkType: hard
 
@@ -22352,8 +22352,8 @@ __metadata:
   linkType: hard
 
 "terser-webpack-plugin@npm:^5.0.3, terser-webpack-plugin@npm:^5.1.3":
-  version: 5.3.2
-  resolution: "terser-webpack-plugin@npm:5.3.2"
+  version: 5.3.3
+  resolution: "terser-webpack-plugin@npm:5.3.3"
   dependencies:
     "@jridgewell/trace-mapping": ^0.3.7
     jest-worker: ^27.4.5
@@ -22369,7 +22369,7 @@ __metadata:
       optional: true
     uglify-js:
       optional: true
-  checksum: b77381f3aaec395c5631ce0a120f85831b149a6027d72110f75106325d9f89c63df41a4464beb7151035c938e81d572869e3a837ab214b1e01c93aa35ee3cd6d
+  checksum: deb1e4ebc7dd832acfb63b4c9e81e4120493464f6178c8539337f6a7b5d4c25171e8ce20397b35b5f95b6b39d183991e87733e7f73cd77656da81ec22afbbd66
   languageName: node
   linkType: hard
 
@@ -23614,12 +23614,12 @@ __metadata:
   linkType: hard
 
 "watchpack@npm:^2.2.0, watchpack@npm:^2.3.1":
-  version: 2.3.1
-  resolution: "watchpack@npm:2.3.1"
+  version: 2.4.0
+  resolution: "watchpack@npm:2.4.0"
   dependencies:
     glob-to-regexp: ^0.4.1
     graceful-fs: ^4.1.2
-  checksum: 00e44f5cc6ca299dd1ff52bf926a70a23ae1aeb6b399b7e32569d6d31ef1fc9bc3f5570ade6fef220dd6d74ee70259c9621b79cf487552caf1ea2727aa40f984
+  checksum: c5e35f9fb9338d31d2141d9835643c0f49b5f9c521440bb648181059e5940d93dd8ed856aa8a33fbcdd4e121dad63c7e8c15c063cf485429cd9d427be197fe62
   languageName: node
   linkType: hard
 
@@ -23982,7 +23982,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"webpack@npm:5.72.1, webpack@npm:>=4.43.0 <6.0.0, webpack@npm:^5, webpack@npm:^5.9.0":
+"webpack@npm:5.72.1":
   version: 5.72.1
   resolution: "webpack@npm:5.72.1"
   dependencies:
@@ -24016,6 +24016,43 @@ __metadata:
   bin:
     webpack: bin/webpack.js
   checksum: bdba33268930448eb84347c2da383de8d71f46b2a199c5abf56f6619c86a081de802a4c297c8389c9a888eec0613d5069427c12af0a878058e4be3790875d536
+  languageName: node
+  linkType: hard
+
+"webpack@npm:>=4.43.0 <6.0.0, webpack@npm:^5, webpack@npm:^5.9.0":
+  version: 5.73.0
+  resolution: "webpack@npm:5.73.0"
+  dependencies:
+    "@types/eslint-scope": ^3.7.3
+    "@types/estree": ^0.0.51
+    "@webassemblyjs/ast": 1.11.1
+    "@webassemblyjs/wasm-edit": 1.11.1
+    "@webassemblyjs/wasm-parser": 1.11.1
+    acorn: ^8.4.1
+    acorn-import-assertions: ^1.7.6
+    browserslist: ^4.14.5
+    chrome-trace-event: ^1.0.2
+    enhanced-resolve: ^5.9.3
+    es-module-lexer: ^0.9.0
+    eslint-scope: 5.1.1
+    events: ^3.2.0
+    glob-to-regexp: ^0.4.1
+    graceful-fs: ^4.2.9
+    json-parse-even-better-errors: ^2.3.1
+    loader-runner: ^4.2.0
+    mime-types: ^2.1.27
+    neo-async: ^2.6.2
+    schema-utils: ^3.1.0
+    tapable: ^2.1.1
+    terser-webpack-plugin: ^5.1.3
+    watchpack: ^2.3.1
+    webpack-sources: ^3.2.3
+  peerDependenciesMeta:
+    webpack-cli:
+      optional: true
+  bin:
+    webpack: bin/webpack.js
+  checksum: 761add2395e37c7bd0b0727bea327496b8a2f5a702b29bd4907f9e80f6e7ea17ecdeefabf0683fdefe1148f725cd51eb81c4a73b4646eda9eb1a8d1a74ac8cae
   languageName: node
   linkType: hard
 

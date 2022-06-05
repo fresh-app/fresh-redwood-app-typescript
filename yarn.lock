@@ -1988,13 +1988,13 @@ __metadata:
   linkType: hard
 
 "@envelop/core@npm:^2.0.0":
-  version: 2.3.2
-  resolution: "@envelop/core@npm:2.3.2"
+  version: 2.3.3
+  resolution: "@envelop/core@npm:2.3.3"
   dependencies:
-    "@envelop/types": 2.2.0
+    "@envelop/types": 2.2.1
   peerDependencies:
     graphql: ^14.0.0 || ^15.0.0 || ^16.0.0
-  checksum: f5bd16d48a9155878933b8f1712fbb42c5bf67ff69988fe912f70df941d0ce8021474a5e6d77a95a119b14f56b7067cef1d89ee23d6ae0373625321bf32da4e0
+  checksum: 2e6ec3f0fb4a24bc1064465282b85628efbdbfe5d6ae2eac0f5929dddfd52f829703f9d5d88d78f52115d20b6fd3aa7b6449af2d9f959ac6a1ce1f9296a09891
   languageName: node
   linkType: hard
 
@@ -2030,7 +2030,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@envelop/parser-cache@npm:4.3.2, @envelop/parser-cache@npm:^4.0.0":
+"@envelop/parser-cache@npm:4.3.2":
   version: 4.3.2
   resolution: "@envelop/parser-cache@npm:4.3.2"
   dependencies:
@@ -2042,16 +2042,28 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@envelop/types@npm:2.2.0":
-  version: 2.2.0
-  resolution: "@envelop/types@npm:2.2.0"
+"@envelop/parser-cache@npm:^4.0.0":
+  version: 4.3.3
+  resolution: "@envelop/parser-cache@npm:4.3.3"
+  dependencies:
+    tiny-lru: 7.0.6
   peerDependencies:
+    "@envelop/core": ^2.3.3
     graphql: ^14.0.0 || ^15.0.0 || ^16.0.0
-  checksum: 2e270b704da52bcdfa408c2e0046ec93303a338c3f68e77447655835c331b60ab2e18beda9f36f2e151dfb755c5566ac90ab49c4b3be03da9850020b0a6f9ca3
+  checksum: 07f8cb810f7f7b0cf31ec0a03e1b465a958ac04a88e4ba3c3401e04d17a2ba2b6888eaaf63bf116abe4f836ebd4b850826a2e50834db3d6eba5738d579497b78
   languageName: node
   linkType: hard
 
-"@envelop/validation-cache@npm:4.3.2, @envelop/validation-cache@npm:^4.0.0":
+"@envelop/types@npm:2.2.1":
+  version: 2.2.1
+  resolution: "@envelop/types@npm:2.2.1"
+  peerDependencies:
+    graphql: ^14.0.0 || ^15.0.0 || ^16.0.0
+  checksum: 475c371bbd1d87ec861adfb5cf315f951308df90dcf56bff87195968994466aaaa6fe37eff2062cf9fde357ad81694ad87c3a8e60272e69bc7f945b8cc100b9d
+  languageName: node
+  linkType: hard
+
+"@envelop/validation-cache@npm:4.3.2":
   version: 4.3.2
   resolution: "@envelop/validation-cache@npm:4.3.2"
   dependencies:
@@ -2060,6 +2072,18 @@ __metadata:
     "@envelop/core": ^2.3.2
     graphql: ^14.0.0 || ^15.0.0 || ^16.0.0
   checksum: fee24316667e1fb53aae652a5fecce98b5507e20afd97e9609f50db63834f2b29fb24142be616f98d1a8b59ab0cb3a7413659fe3246908b50aaae98128078453
+  languageName: node
+  linkType: hard
+
+"@envelop/validation-cache@npm:^4.0.0":
+  version: 4.3.3
+  resolution: "@envelop/validation-cache@npm:4.3.3"
+  dependencies:
+    tiny-lru: 7.0.6
+  peerDependencies:
+    "@envelop/core": ^2.3.3
+    graphql: ^14.0.0 || ^15.0.0 || ^16.0.0
+  checksum: 2f0898df9ff39b4c1cee5f36bd0cd66538fd938e30eb1bd6907b3c37eaad829bb0a166b94764e46ece656302a444219f8dc31793cea3b282ed5824499b9343b3
   languageName: node
   linkType: hard
 
@@ -5757,12 +5781,12 @@ __metadata:
   linkType: hard
 
 "@types/jest@npm:*":
-  version: 28.1.0
-  resolution: "@types/jest@npm:28.1.0"
+  version: 28.1.1
+  resolution: "@types/jest@npm:28.1.1"
   dependencies:
     jest-matcher-utils: ^27.0.0
     pretty-format: ^27.0.0
-  checksum: 4a7895537e39ba9f8ec3dbc189de4a4a80bf167dd5f4a2c9474473a05d841f9b0ceca5e533214be4a99bc4d0e08eda406f1cca08b7a5b67c2956071412bf9415
+  checksum: c384b33ec2c010124f4e7622feda2bf00d8fea03d9c9c6ce6b4c612055d7c98543f198baa151c407d454d252214b1cc293774f66d7b9408d8a2fa5d34ac104b9
   languageName: node
   linkType: hard
 
@@ -5986,13 +6010,13 @@ __metadata:
   linkType: hard
 
 "@types/react@npm:*":
-  version: 18.0.10
-  resolution: "@types/react@npm:18.0.10"
+  version: 18.0.11
+  resolution: "@types/react@npm:18.0.11"
   dependencies:
     "@types/prop-types": "*"
     "@types/scheduler": "*"
     csstype: ^3.0.2
-  checksum: 03f7fc0cda2bc943b962b56ba65c57e9f4193689bfb5fff90958a3453dd01745ce09e8c7d0012802b858992779077cc7bcdc80c7df227d58cb815739143fb458
+  checksum: 2cbb6e7dce5fb5cb60d381f01d14797e6a372cac60dd84d34603f1824a89b873abaeb472e0c871aa283b214d3bf696c0ffa025574a3e006f013d03a4fba3ff61
   languageName: node
   linkType: hard
 
@@ -9766,8 +9790,8 @@ __metadata:
   linkType: hard
 
 "cross-undici-fetch@npm:^0.4.0, cross-undici-fetch@npm:^0.4.2":
-  version: 0.4.3
-  resolution: "cross-undici-fetch@npm:0.4.3"
+  version: 0.4.5
+  resolution: "cross-undici-fetch@npm:0.4.5"
   dependencies:
     abort-controller: ^3.0.0
     busboy: ^1.6.0
@@ -9776,7 +9800,7 @@ __metadata:
     node-fetch: ^2.6.7
     undici: ^5.1.0
     web-streams-polyfill: ^3.2.0
-  checksum: 76212722889fff27fc43cfa987e62333adc3fa4cafac320258e845d5b6310edbe799d810428418a76ecdba7da94593fb6b644f7175a0666fa0e4af53c5fcc57a
+  checksum: ba87a9299b9c08de013c292350fb408dee5816c37edd20fcc90dafe2382cf77226e3f8725fa36eba283d453ae6162240efde9adfd594b84b0543b8193ed672ac
   languageName: node
   linkType: hard
 
@@ -21115,9 +21139,9 @@ __metadata:
   linkType: hard
 
 "set-cookie-parser@npm:^2.4.1, set-cookie-parser@npm:^2.4.6":
-  version: 2.4.8
-  resolution: "set-cookie-parser@npm:2.4.8"
-  checksum: 2ada2102dda9b1d2c1b7d4bfeafc80b2f0952b1f9d9069b65312db573b7e73bc41ee30e83d702eb18c5346b5ec455c2d62096150d7ab5be4121aacc2bcbfec4e
+  version: 2.5.0
+  resolution: "set-cookie-parser@npm:2.5.0"
+  checksum: dae765c1d21619aee094d00c5fa890a07ca104f4f53c95f838442c403829ba7364b0e9a0479a026e71d35575cfba7dcff88e05ce1e0cc714c8e668b30bef8e77
   languageName: node
   linkType: hard
 
@@ -21483,9 +21507,9 @@ __metadata:
   linkType: hard
 
 "source-map@npm:^0.7.3":
-  version: 0.7.3
-  resolution: "source-map@npm:0.7.3"
-  checksum: 7d2ddb51f3d2451847692a9ac7808da2b2b3bf7aef92ece33128919040a7e74d9a5edfde7a781f035c974deff876afaf83f2e30484faffffb86484e7408f5d7c
+  version: 0.7.4
+  resolution: "source-map@npm:0.7.4"
+  checksum: dc0cf3768fe23c345ea8760487f8c97ef6fca8a73c83cd7c9bf2fde8bc2c34adb9c0824d6feb14bc4f9e37fb522e18af621543f1289038a66ac7586da29aa7dc
   languageName: node
   linkType: hard
 

@@ -5908,9 +5908,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 17.0.39
-  resolution: "@types/node@npm:17.0.39"
-  checksum: 8a41b09a0cf54278ac05a8537d5035197bc39f04ba6fe988690b970dad47b35edb789633cc427825e96f99196e59c2eabd4be7105fda44ee4ecbc5412642b54b
+  version: 17.0.40
+  resolution: "@types/node@npm:17.0.40"
+  checksum: 0c5ce65a3bcb5864c023271ea1ebdd01dfb68c53f8ac3793df0c3b56df8d22c1e613a8c79cd1ef0d21d326d536db775598f138ddd5808ae8c1d97dfd0335646d
   languageName: node
   linkType: hard
 
@@ -6010,13 +6010,13 @@ __metadata:
   linkType: hard
 
 "@types/react@npm:*":
-  version: 18.0.11
-  resolution: "@types/react@npm:18.0.11"
+  version: 18.0.12
+  resolution: "@types/react@npm:18.0.12"
   dependencies:
     "@types/prop-types": "*"
     "@types/scheduler": "*"
     csstype: ^3.0.2
-  checksum: 2cbb6e7dce5fb5cb60d381f01d14797e6a372cac60dd84d34603f1824a89b873abaeb472e0c871aa283b214d3bf696c0ffa025574a3e006f013d03a4fba3ff61
+  checksum: 9b98b06533baac67b08354139c9ffde994b15b872945b86e34eb89596bdd7e6eead8b3c39f78b12e13b06620ba00e212306d09ebeaf58f54119a9efe3d9f149e
   languageName: node
   linkType: hard
 
@@ -11016,11 +11016,11 @@ __metadata:
   linkType: hard
 
 "error-stack-parser@npm:^2.0.6":
-  version: 2.0.7
-  resolution: "error-stack-parser@npm:2.0.7"
+  version: 2.1.1
+  resolution: "error-stack-parser@npm:2.1.1"
   dependencies:
-    stackframe: ^1.1.1
-  checksum: 3cb82dbc0832d4767e1e3cca5c297ddaa2d8675733d342edadc481c914be8d28a2e0b138143e5682edc5b85792b18ac0441f5be4af727528ed612ca18e47e766
+    stackframe: ^1.3.0
+  checksum: d53d7d17b79382a1a3e33a308bfdba7e6eb3676b9b99b3b0725dc577828873cf4da8b317e6d306d750696dc6c84a76bb70e24e3a72145ba233a420375a4b6a01
   languageName: node
   linkType: hard
 
@@ -21663,10 +21663,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"stackframe@npm:^1.1.1":
-  version: 1.2.1
-  resolution: "stackframe@npm:1.2.1"
-  checksum: b6b1a516c3e89a9f18dc3ae70178a0140046afb64a0c7f4c1caa87fb5d697828145bdbef13a01f7d76b497e3ce1007b5a4d16dfa95e8224f9aa35e8e727cfe20
+"stackframe@npm:^1.3.0":
+  version: 1.3.2
+  resolution: "stackframe@npm:1.3.2"
+  checksum: 544b1c7402f92c65808a5f0b7d4dd2a6d28301798158a43b28de4c388535bacf7f9673632ed3d2be1567c5a80d70e740b14a5b63cc99bcbc3e7685fd522dce16
   languageName: node
   linkType: hard
 

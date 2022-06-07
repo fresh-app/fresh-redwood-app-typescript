@@ -10813,9 +10813,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.118":
-  version: 1.4.146
-  resolution: "electron-to-chromium@npm:1.4.146"
-  checksum: 12922902013745a19bf5a192f339354773041538d2b15866827c68c479d48511b6c11c7def348c973b899bd07b085fd52f28bbff507eec2c0cc9f18e1b546410
+  version: 1.4.147
+  resolution: "electron-to-chromium@npm:1.4.147"
+  checksum: 8b886caf4c500eb5f8e4fc82a0196cb4b953701e3f4bade0cdb4835f8bd4f6d0d1148e8f56a0695ab91ea0895e08a7aa0fb49473e79a7165673eb6ffcb6900c6
   languageName: node
   linkType: hard
 
@@ -11016,11 +11016,11 @@ __metadata:
   linkType: hard
 
 "error-stack-parser@npm:^2.0.6":
-  version: 2.1.1
-  resolution: "error-stack-parser@npm:2.1.1"
+  version: 2.1.4
+  resolution: "error-stack-parser@npm:2.1.4"
   dependencies:
-    stackframe: ^1.3.0
-  checksum: d53d7d17b79382a1a3e33a308bfdba7e6eb3676b9b99b3b0725dc577828873cf4da8b317e6d306d750696dc6c84a76bb70e24e3a72145ba233a420375a4b6a01
+    stackframe: ^1.3.4
+  checksum: 7679b780043c98b01fc546725484e0cfd3071bf5c906bbe358722972f04abf4fc3f0a77988017665bab367f6ef3fc2d0185f7528f45966b83e7c99c02d5509b9
   languageName: node
   linkType: hard
 
@@ -19669,12 +19669,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"qs@npm:6.10.3, qs@npm:^6.10.0":
+"qs@npm:6.10.3":
   version: 6.10.3
   resolution: "qs@npm:6.10.3"
   dependencies:
     side-channel: ^1.0.4
   checksum: c6684df925fd2c6f0940b8fbfe5d8b5a8634dc96c0908309655cbe61a3fbf94cedc6b11e669fca1971b53459b6f732cccd4eeb6484b5b77b405ad0cfb936e6fe
+  languageName: node
+  linkType: hard
+
+"qs@npm:^6.10.0":
+  version: 6.10.5
+  resolution: "qs@npm:6.10.5"
+  dependencies:
+    side-channel: ^1.0.4
+  checksum: 37480ff889e02b14a3a5e8639c44bbf66b28e202e26ce49e0cec7e092e5f2d058c6e508db367b7a9f79d98a37cd92b8bed46fc53c2ac961d42e6f9cc48f32d82
   languageName: node
   linkType: hard
 
@@ -20490,9 +20499,9 @@ __metadata:
   linkType: hard
 
 "reselect@npm:^4.0.0":
-  version: 4.1.5
-  resolution: "reselect@npm:4.1.5"
-  checksum: 1737bc8ee7da3c07761ec84fd44281604144210ef35f7704e93170260303c2ba2f9afaa165a0421d8ef578a41c5204dedc18572f27df45cd65da6bd8d5716b12
+  version: 4.1.6
+  resolution: "reselect@npm:4.1.6"
+  checksum: 2ae845ba4c423153822ad91f301ddb41494a86ad15dee4fb49fcf48aada0af9b06e59241159385dbce1bd56d1475c7a86b039f43281f7a992fd0a3137372d46b
   languageName: node
   linkType: hard
 
@@ -21663,10 +21672,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"stackframe@npm:^1.3.0":
-  version: 1.3.2
-  resolution: "stackframe@npm:1.3.2"
-  checksum: 544b1c7402f92c65808a5f0b7d4dd2a6d28301798158a43b28de4c388535bacf7f9673632ed3d2be1567c5a80d70e740b14a5b63cc99bcbc3e7685fd522dce16
+"stackframe@npm:^1.3.4":
+  version: 1.3.4
+  resolution: "stackframe@npm:1.3.4"
+  checksum: 18410f7a1e0c5d211a4effa83bdbf24adbe8faa8c34db52e1cd3e89837518c592be60b60d8b7270ac53eeeb8b807cd11b399a41667f6c9abb41059c3ccc8a989
   languageName: node
   linkType: hard
 
@@ -22967,11 +22976,11 @@ __metadata:
   linkType: hard
 
 "uglify-js@npm:^3.1.4":
-  version: 3.15.5
-  resolution: "uglify-js@npm:3.15.5"
+  version: 3.16.0
+  resolution: "uglify-js@npm:3.16.0"
   bin:
     uglifyjs: bin/uglifyjs
-  checksum: 5054f91984121dfd3ca5254d075e8cc9b09ec641754ede20dbfd0d4db12d463b37cc06735e81cec5aecf388d08b65a422caacd16c17ad393d88eaa059cd195f9
+  checksum: e04de56a24857fac7516a27d8d546dc129198f634823a15ec3c7ce9120a1859fb9cb9087743b8c8d1284b691cbb783edcc35f418e06b3397d672099797f5ac4c
   languageName: node
   linkType: hard
 

@@ -47,6 +47,35 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@ardatan/relay-compiler@npm:12.0.0":
+  version: 12.0.0
+  resolution: "@ardatan/relay-compiler@npm:12.0.0"
+  dependencies:
+    "@babel/core": ^7.14.0
+    "@babel/generator": ^7.14.0
+    "@babel/parser": ^7.14.0
+    "@babel/runtime": ^7.0.0
+    "@babel/traverse": ^7.14.0
+    "@babel/types": ^7.0.0
+    babel-preset-fbjs: ^3.4.0
+    chalk: ^4.0.0
+    fb-watchman: ^2.0.0
+    fbjs: ^3.0.0
+    glob: ^7.1.1
+    immutable: ~3.7.6
+    invariant: ^2.2.4
+    nullthrows: ^1.1.1
+    relay-runtime: 12.0.0
+    signedsource: ^1.0.0
+    yargs: ^15.3.1
+  peerDependencies:
+    graphql: "*"
+  bin:
+    relay-compiler: bin/relay-compiler
+  checksum: 7207d65dd39d3a6202fcee81b03338409642a0ff4e7f799b4a074025429ce2b17b6c71c9579a6328b0f4548763ba4efbff0436cddbcad934af00cc4dbc7ac4e1
+  languageName: node
+  linkType: hard
+
 "@babel/cli@npm:7.16.7":
   version: 7.16.7
   resolution: "@babel/cli@npm:7.16.7"
@@ -2619,15 +2648,15 @@ __metadata:
   linkType: hard
 
 "@graphql-tools/relay-operation-optimizer@npm:^6.3.7":
-  version: 6.4.13
-  resolution: "@graphql-tools/relay-operation-optimizer@npm:6.4.13"
+  version: 6.4.14
+  resolution: "@graphql-tools/relay-operation-optimizer@npm:6.4.14"
   dependencies:
+    "@ardatan/relay-compiler": 12.0.0
     "@graphql-tools/utils": 8.6.13
-    relay-compiler: 12.0.0
     tslib: ^2.4.0
   peerDependencies:
     graphql: ^14.0.0 || ^15.0.0 || ^16.0.0 || ^17.0.0
-  checksum: 5d122f19b1f85c0ca0697df91a89d6a09f9789325c8dc3bfd2e662b3c507710cf1e090252cfaf9fa55e5dcc159f8a3233a529413d2557aa13466c9baa65b43a0
+  checksum: 4a712ac046c00814454e2d88fce4fb1ef97622fe0ae4dc6e9536d79e29f214cf71e590004bee9ae6022b41bef91f03118c00bac60a2e612c690dd972a9005b5b
   languageName: node
   linkType: hard
 
@@ -8691,9 +8720,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001349":
-  version: 1.0.30001351
-  resolution: "caniuse-lite@npm:1.0.30001351"
-  checksum: 36f2fabb699b5cb2da065caf69f1875178c0742dbb0ae963e753b75913dacf27bdfac254630ce4bb66491d59ba8831b0b542808d73287649cbea6163821a7b52
+  version: 1.0.30001352
+  resolution: "caniuse-lite@npm:1.0.30001352"
+  checksum: 8ef195fbf7d8d3be7275b5915d517d4a25196a8ab7ce2b4412f39d9d3d2a0128f61936068e5022004f58724414d575516a4eacc6f3245bdcd1d86b11a0b900da
   languageName: node
   linkType: hard
 
@@ -9887,11 +9916,11 @@ __metadata:
   linkType: hard
 
 "css-declaration-sorter@npm:^6.2.2":
-  version: 6.2.2
-  resolution: "css-declaration-sorter@npm:6.2.2"
+  version: 6.3.0
+  resolution: "css-declaration-sorter@npm:6.3.0"
   peerDependencies:
     postcss: ^8.0.9
-  checksum: 108f97dc86ee59141d41a8adda75bd64be269ccf58f008c6b9cbbfac25c99d87ba064480a69ddd08e6ee15b2955a3d4790f7e80f8839cc70d31e51e641232649
+  checksum: 57dfcccd44955a098412b354c749e5544cecca94d640f835752fde7b0b6bf7fa2ba14cd31dbf3afb7e5c5590ff315b67df434ec3bc70c2cf6286db15f578de45
   languageName: node
   linkType: hard
 
@@ -10848,9 +10877,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.147":
-  version: 1.4.149
-  resolution: "electron-to-chromium@npm:1.4.149"
-  checksum: ede9164061e0ce5c5a43088be22057f4eebb5eda3e71a85bf95e1d24986c4f54ef32628ed47e4db50b33df8fc79a723bbe22f2924bc6e3f18a87b45fdd2f5e65
+  version: 1.4.151
+  resolution: "electron-to-chromium@npm:1.4.151"
+  checksum: 9f0b13cbf3fe38906acf1fc9531c5602ca5c5f17334881ef0875b7937514ccedf671a71a16638dffa8871004e9670137edc260c014d322c0fa7622cf2d769cac
   languageName: node
   linkType: hard
 
@@ -13438,11 +13467,11 @@ __metadata:
   linkType: hard
 
 "graphql-ws@npm:^5.4.1":
-  version: 5.8.2
-  resolution: "graphql-ws@npm:5.8.2"
+  version: 5.9.0
+  resolution: "graphql-ws@npm:5.9.0"
   peerDependencies:
     graphql: ">=0.11 <=16"
-  checksum: f474ec50ebbd67ac14f998d08b37f10cecc157ad86213f3bc0d5e460a0dfac6c1d490c858a0584ef4e0c89a213d99e201a4b47d3dfe85615e339e075fa78cc2b
+  checksum: b7044c147c0e62ed806c93a643eeb81c2e44c7b2a5cc293f09f8d112322c95271f03079d55c49545e9f86c6b7bd2fc103785038af25ff8e94a3309cef7c4b112
   languageName: node
   linkType: hard
 
@@ -20294,35 +20323,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"relay-compiler@npm:12.0.0":
-  version: 12.0.0
-  resolution: "relay-compiler@npm:12.0.0"
-  dependencies:
-    "@babel/core": ^7.14.0
-    "@babel/generator": ^7.14.0
-    "@babel/parser": ^7.14.0
-    "@babel/runtime": ^7.0.0
-    "@babel/traverse": ^7.14.0
-    "@babel/types": ^7.0.0
-    babel-preset-fbjs: ^3.4.0
-    chalk: ^4.0.0
-    fb-watchman: ^2.0.0
-    fbjs: ^3.0.0
-    glob: ^7.1.1
-    immutable: ~3.7.6
-    invariant: ^2.2.4
-    nullthrows: ^1.1.1
-    relay-runtime: 12.0.0
-    signedsource: ^1.0.0
-    yargs: ^15.3.1
-  peerDependencies:
-    graphql: ^15.0.0
-  bin:
-    relay-compiler: bin/relay-compiler
-  checksum: b63be99eaf32eb74bfad7bc3dc7c80a0a3bbb6a9e2f6b9ecfa50b8d7c4f7f28d5dd152f5b0c119b54023ef0002b07764f83cce763a3863d6c2569984fac7de5c
-  languageName: node
-  linkType: hard
-
 "relay-runtime@npm:12.0.0":
   version: 12.0.0
   resolution: "relay-runtime@npm:12.0.0"
@@ -24363,8 +24363,8 @@ __metadata:
   linkType: hard
 
 "ws@npm:^8.2.3, ws@npm:^8.3.0, ws@npm:^8.4.2":
-  version: 8.7.0
-  resolution: "ws@npm:8.7.0"
+  version: 8.8.0
+  resolution: "ws@npm:8.8.0"
   peerDependencies:
     bufferutil: ^4.0.1
     utf-8-validate: ^5.0.2
@@ -24373,7 +24373,7 @@ __metadata:
       optional: true
     utf-8-validate:
       optional: true
-  checksum: 40d71af9604d86962a5039b533ce083a3d94631b92f2f923be099981b9ea908a51212cc441185c10f981ee9b83e72ffa32b2c9e53f9d15dc84e363ed3ea24abd
+  checksum: c7843c2321cba2c7e234bca2d0fa9babb7ff6c4bcf131423f2af50577b6f80b3ee862296de79efb9116b46834b19ca78e8292c75eeef7000fc02ff8a9a57948f
   languageName: node
   linkType: hard
 

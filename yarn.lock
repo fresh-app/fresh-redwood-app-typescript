@@ -2366,17 +2366,17 @@ __metadata:
   linkType: hard
 
 "@graphql-codegen/typescript@npm:^2.4.11":
-  version: 2.5.0
-  resolution: "@graphql-codegen/typescript@npm:2.5.0"
+  version: 2.5.1
+  resolution: "@graphql-codegen/typescript@npm:2.5.1"
   dependencies:
     "@graphql-codegen/plugin-helpers": ^2.4.0
     "@graphql-codegen/schema-ast": ^2.4.1
-    "@graphql-codegen/visitor-plugin-common": 2.9.0
+    "@graphql-codegen/visitor-plugin-common": 2.9.1
     auto-bind: ~4.0.0
     tslib: ~2.4.0
   peerDependencies:
     graphql: ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0 || ^16.0.0
-  checksum: cc85c3601814b8915378fff19564385964daa5ce8708452d4354a82f2a72ce395a41a06a66081b77b7c3dcb12b97f68ad2eb30945f2701b76704094f847e5fef
+  checksum: 84ceb3d1b1c3e5ab71f2a929914491dedbed20147622c79604e24804df42bd32bbf2f864536993a3154df682685aa478e06b7bc1a6a332299676ac36432622b8
   languageName: node
   linkType: hard
 
@@ -2400,13 +2400,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@graphql-codegen/visitor-plugin-common@npm:2.9.0":
-  version: 2.9.0
-  resolution: "@graphql-codegen/visitor-plugin-common@npm:2.9.0"
+"@graphql-codegen/visitor-plugin-common@npm:2.9.1":
+  version: 2.9.1
+  resolution: "@graphql-codegen/visitor-plugin-common@npm:2.9.1"
   dependencies:
     "@graphql-codegen/plugin-helpers": ^2.4.0
     "@graphql-tools/optimize": ^1.0.1
-    "@graphql-tools/relay-operation-optimizer": ^6.3.7
+    "@graphql-tools/relay-operation-optimizer": ^6.4.14
     "@graphql-tools/utils": ^8.3.0
     auto-bind: ~4.0.0
     change-case-all: 1.0.14
@@ -2416,7 +2416,7 @@ __metadata:
     tslib: ~2.4.0
   peerDependencies:
     graphql: ^0.8.0 || ^0.9.0 || ^0.10.0 || ^0.11.0 || ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0 || ^16.0.0
-  checksum: d503072b5f0b9ca28d34361f7d1d0c43f5477e45ac4013dc3464cbe7639693a1aeedf6d65745d19f14246ea785fb4381d94a8724eca91107db720d4dbcfe0570
+  checksum: e8d7e3569254f7469ef4f3cc30041735f7a60309a22dcce091fc477de07df1f797faeb38be8607a74380c2ad37806c153550910c74174785ceecceb5495f5275
   languageName: node
   linkType: hard
 
@@ -2647,7 +2647,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@graphql-tools/relay-operation-optimizer@npm:^6.3.7":
+"@graphql-tools/relay-operation-optimizer@npm:^6.3.7, @graphql-tools/relay-operation-optimizer@npm:^6.4.14":
   version: 6.4.14
   resolution: "@graphql-tools/relay-operation-optimizer@npm:6.4.14"
   dependencies:
@@ -5972,9 +5972,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 17.0.41
-  resolution: "@types/node@npm:17.0.41"
-  checksum: 67f14ed1191cce8ed6831a600ee165abfd92669b5072e7d820abe9b1165b6b654915c955b9e2cdf8cedd2e04e0a7e17160981d233b16b66868cbc1e4da39c50d
+  version: 17.0.42
+  resolution: "@types/node@npm:17.0.42"
+  checksum: be8908722e049fb598cc425fe5533e0f7885997c858022035f2f44ae2320ef4176e99193afe41e42997ba373a71b240dbd53142590fa0cbf1155d5ceb92d1ff8
   languageName: node
   linkType: hard
 
@@ -6186,11 +6186,11 @@ __metadata:
   linkType: hard
 
 "@types/uglify-js@npm:*":
-  version: 3.13.3
-  resolution: "@types/uglify-js@npm:3.13.3"
+  version: 3.16.0
+  resolution: "@types/uglify-js@npm:3.16.0"
   dependencies:
     source-map: ^0.6.1
-  checksum: f5318594d065199a274942ff4a0b28bd8c1f94915341e7a65fc229b60f1e645f1e79875f1d7f22909df61d9adef8f35c30361a8ceaf063f4369e6e0b85f2a2ed
+  checksum: 6a209f3741f379654713077fa88b1b1f7e824450816bd03b70e3e51a2faf7ad6eb045b8a6d645c9cc857e8c4823615e284f009ae4e8efeca7c28b8064b2d0b32
   languageName: node
   linkType: hard
 
@@ -10877,9 +10877,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.147":
-  version: 1.4.151
-  resolution: "electron-to-chromium@npm:1.4.151"
-  checksum: 9f0b13cbf3fe38906acf1fc9531c5602ca5c5f17334881ef0875b7937514ccedf671a71a16638dffa8871004e9670137edc260c014d322c0fa7622cf2d769cac
+  version: 1.4.152
+  resolution: "electron-to-chromium@npm:1.4.152"
+  checksum: 198493c2d6fce78a0d6da580e0cb0bef3505b0992eea432d462789cf0ef37fce9836550b4ddc226980922402a8cefaede7481e89bb677da9d678276010fd20f5
   languageName: node
   linkType: hard
 
@@ -17339,11 +17339,11 @@ __metadata:
   linkType: hard
 
 "minipass@npm:^3.0.0, minipass@npm:^3.1.1, minipass@npm:^3.1.6":
-  version: 3.2.0
-  resolution: "minipass@npm:3.2.0"
+  version: 3.2.1
+  resolution: "minipass@npm:3.2.1"
   dependencies:
     yallist: ^4.0.0
-  checksum: e4a6aba155572d1bca3b8522459dc1b7a4830437e7ae2ec99461fdf30e2d1c59380177b3e61b65579de1d540f99931833dd553f60bf0b1e50289286181e47029
+  checksum: 25f391deaecd05ac2fcddc13c39c13c16946c422cff3d2f5264dd9d5d867dc4da8c85b5eb31c911338422e021b451304ee87d3a8ec872e9a3e80a72265e85081
   languageName: node
   linkType: hard
 
@@ -22455,8 +22455,8 @@ __metadata:
   linkType: hard
 
 "terser@npm:^5.10.0, terser@npm:^5.3.4, terser@npm:^5.7.2":
-  version: 5.14.0
-  resolution: "terser@npm:5.14.0"
+  version: 5.14.1
+  resolution: "terser@npm:5.14.1"
   dependencies:
     "@jridgewell/source-map": ^0.3.2
     acorn: ^8.5.0
@@ -22464,7 +22464,7 @@ __metadata:
     source-map-support: ~0.5.20
   bin:
     terser: bin/terser
-  checksum: 996d7c860ed2b8924a0580d3f32ae13bdff3661cea00418e77b91a4e86c71169c7275a2ffdf663c15dee81682f06ad4465cc91f220add1ad6cd85c9331ceb00b
+  checksum: 645ec469e3586fe6f0c55b6a4e4c98dab6e390fcf4e7b9a41d8cd47724da7dbbfc3abbe48c8ffee3ae5a8532fa2091fe62081250676ac8dd38e15044186845ea
   languageName: node
   linkType: hard
 

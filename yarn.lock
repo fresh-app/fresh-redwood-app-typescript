@@ -12828,12 +12828,12 @@ __metadata:
   linkType: hard
 
 "formdata-node@npm:^4.3.1":
-  version: 4.3.2
-  resolution: "formdata-node@npm:4.3.2"
+  version: 4.3.3
+  resolution: "formdata-node@npm:4.3.3"
   dependencies:
     node-domexception: 1.0.0
     web-streams-polyfill: 4.0.0-beta.1
-  checksum: c3f8d5dca00dc4e1902fbacf61c1e0653746e16e973346c8cdab48e60f07c1363bc7c440947c078c082b034b97733e2ff07f68375a8600cec4990a5ec434233f
+  checksum: 8fd70c642003b40ee23a77cc312a89c39ef27ccbf0d7fad57f157aeeab944c1fabd3402f7958de2c8694d1dbd1b273aefd8423eeaddc2ab442a45ba1d78f7f48
   languageName: node
   linkType: hard
 

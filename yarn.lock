@@ -5807,12 +5807,12 @@ __metadata:
   linkType: hard
 
 "@types/jest@npm:*":
-  version: 28.1.2
-  resolution: "@types/jest@npm:28.1.2"
+  version: 28.1.3
+  resolution: "@types/jest@npm:28.1.3"
   dependencies:
     jest-matcher-utils: ^28.0.0
     pretty-format: ^28.0.0
-  checksum: c7849c50121fa6c045801a8f57da3d5b0e1ac0801ab39769217244ad45101bcde32338768b65de59e682da75ab8709b4d3e8ec68e77b236e3492785b36d4418e
+  checksum: d295db8680b5c230698345d6caae621ea9fa8720309027e2306fabfd8769679b4bd7474b4f6e03788905c934eff62105bc0a3e3f1e174feee51b4551d49ac42a
   languageName: node
   linkType: hard
 
@@ -6150,11 +6150,11 @@ __metadata:
   linkType: hard
 
 "@types/testing-library__jest-dom@npm:^5.9.1":
-  version: 5.14.4
-  resolution: "@types/testing-library__jest-dom@npm:5.14.4"
+  version: 5.14.5
+  resolution: "@types/testing-library__jest-dom@npm:5.14.5"
   dependencies:
     "@types/jest": "*"
-  checksum: 61ee404d90899499d479c6db72ad8bc886d22a3b62810d6acad70b8f59ea784117eb8fb443fca06839506f44a78e331cc0b2161e435c94b484873a862d8f984a
+  checksum: f4c82418fdc129806d413d48064049ab3b099635dad06c40be2188134d15135b0b053044de7b0e032867b1ec754e7446046d8fdf6863b9454f8f757f1cac702d
   languageName: node
   linkType: hard
 
@@ -8370,17 +8370,16 @@ __metadata:
   linkType: hard
 
 "browserslist@npm:^4.0.0, browserslist@npm:^4.12.0, browserslist@npm:^4.14.5, browserslist@npm:^4.16.6, browserslist@npm:^4.20.2, browserslist@npm:^4.20.3, browserslist@npm:^4.20.4":
-  version: 4.20.4
-  resolution: "browserslist@npm:4.20.4"
+  version: 4.21.0
+  resolution: "browserslist@npm:4.21.0"
   dependencies:
-    caniuse-lite: ^1.0.30001349
-    electron-to-chromium: ^1.4.147
-    escalade: ^3.1.1
+    caniuse-lite: ^1.0.30001358
+    electron-to-chromium: ^1.4.164
     node-releases: ^2.0.5
-    picocolors: ^1.0.0
+    update-browserslist-db: ^1.0.0
   bin:
     browserslist: cli.js
-  checksum: a5fa95920cc66997b240c9e6f9bc16f0f5775cd91115c303f88df75f68dfd88bc7230f2576816a1d02d7bc8b58ab796bddf891116296e98ffffb8f996e4941c5
+  checksum: c7f3dc24579ea2bd346280c7b6efd159391df894cde1e298b583dff876c53f25f39102772e964b0ff4fac4dad10c4dee569a8491e7251dfb0de110b0fb3f9760
   languageName: node
   linkType: hard
 
@@ -8685,10 +8684,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001349":
-  version: 1.0.30001357
-  resolution: "caniuse-lite@npm:1.0.30001357"
-  checksum: 66fcc82eaf82211a8181e4d260ffdd0037b26c13fa093888041534de5f85a227adb92ddda7564dd7b36295614181e04ff5ad1c41d00ec6555c9a9d894fcf0ebd
+"caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001358":
+  version: 1.0.30001358
+  resolution: "caniuse-lite@npm:1.0.30001358"
+  checksum: 6dcd9f64af9a80ac2b359d1e9126b2f2cbdfc2a82aa3da4014d9b9a6b6d63d973829a026d9344b6e6fc15841643cb2fad9f7f917dd2638331e57ca6f67010918
   languageName: node
   linkType: hard
 
@@ -9829,8 +9828,8 @@ __metadata:
   linkType: hard
 
 "cross-undici-fetch@npm:^0.4.0, cross-undici-fetch@npm:^0.4.2":
-  version: 0.4.7
-  resolution: "cross-undici-fetch@npm:0.4.7"
+  version: 0.4.8
+  resolution: "cross-undici-fetch@npm:0.4.8"
   dependencies:
     abort-controller: ^3.0.0
     busboy: ^1.6.0
@@ -9839,7 +9838,7 @@ __metadata:
     node-fetch: ^2.6.7
     undici: ^5.1.0
     web-streams-polyfill: ^3.2.0
-  checksum: bf7cb7d62e865bebed137f30574ea0fce6dd747d1ed148273461509864fb7c76bc2ffa5eb4185c6b0b026cbbd079fe641d4d2c298da485e90b216396041f0bcb
+  checksum: 978ed93591cfbe921a0b6dcd5e8ae728307d5733e75b647b8df42d41ff6fc411545e2c13946390e541ace1393dbd96971eb79c6547574051cf42a954faa5b6aa
   languageName: node
   linkType: hard
 
@@ -10902,10 +10901,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"electron-to-chromium@npm:^1.4.147":
-  version: 1.4.162
-  resolution: "electron-to-chromium@npm:1.4.162"
-  checksum: 4346c8e85fc5bc780f76c00b4c3f568b8d95f8ad90b47f618318b1aafa16544f72dd66ef05e453a59e931b1733c379146b98b6f5d3e19a8a711957d6399a287b
+"electron-to-chromium@npm:^1.4.164":
+  version: 1.4.164
+  resolution: "electron-to-chromium@npm:1.4.164"
+  checksum: 824deb2188e4d46c7ea84451512d1a6091d7da2b6407747828a47ca4ed7f531447eea907d5981e70cf87bafff659c5000e888a4a1f3e4f821dcbf7452cf7f325
   languageName: node
   linkType: hard
 
@@ -23436,6 +23435,20 @@ __metadata:
   version: 1.2.0
   resolution: "upath@npm:1.2.0"
   checksum: 3746f24099bf69dbf8234cecb671e1016e1f6b26bd306de4ff8966fb0bc463fa1014ffc48646b375de1ab573660e3a0256f6f2a87218b2dfa1779a84ef6992fa
+  languageName: node
+  linkType: hard
+
+"update-browserslist-db@npm:^1.0.0":
+  version: 1.0.3
+  resolution: "update-browserslist-db@npm:1.0.3"
+  dependencies:
+    escalade: ^3.1.1
+    picocolors: ^1.0.0
+  peerDependencies:
+    browserslist: ">= 4.21.0"
+  bin:
+    browserslist-lint: cli.js
+  checksum: 2fc440757a9fd5c1bad5917a602763c4d3c2368cf3db7a49ab8628903bdba604fa91e85f2323b3cc539087b18b6656c746fb7c7e7d77bd198ca53062502e7939
   languageName: node
   linkType: hard
 

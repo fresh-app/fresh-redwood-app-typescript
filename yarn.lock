@@ -8684,9 +8684,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001358":
-  version: 1.0.30001358
-  resolution: "caniuse-lite@npm:1.0.30001358"
-  checksum: 6dcd9f64af9a80ac2b359d1e9126b2f2cbdfc2a82aa3da4014d9b9a6b6d63d973829a026d9344b6e6fc15841643cb2fad9f7f917dd2638331e57ca6f67010918
+  version: 1.0.30001359
+  resolution: "caniuse-lite@npm:1.0.30001359"
+  checksum: 75c1655650155ecc859a3ea69e3496ebadc3c9e167046ddf572d4d28ea466ce714e2205fc417594e2047721a585b3156b7f9a3fe98f2612a1de406519fad6daa
   languageName: node
   linkType: hard
 
@@ -10901,9 +10901,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.164":
-  version: 1.4.168
-  resolution: "electron-to-chromium@npm:1.4.168"
-  checksum: d6cfcd5fac3bf17d304ae23ab4e9e65d84303bbbf15c49d7d6ffb798f412cb390ea5ebc64de73c7f0a8aa23506294e0ea85c370c10f253f92139dee973056bda
+  version: 1.4.170
+  resolution: "electron-to-chromium@npm:1.4.170"
+  checksum: 0d9afff3f3c8b7284c3a1055d334acba64fcc18b4a86189a43c09a9829351af18311306c7b6037e90cd61f971fc1dac11f05b73f5f9798515664fa0d38b9bbba
   languageName: node
   linkType: hard
 
@@ -17069,11 +17069,11 @@ __metadata:
   linkType: hard
 
 "memfs@npm:^3.1.2, memfs@npm:^3.2.2, memfs@npm:^3.4.3":
-  version: 3.4.6
-  resolution: "memfs@npm:3.4.6"
+  version: 3.4.7
+  resolution: "memfs@npm:3.4.7"
   dependencies:
     fs-monkey: ^1.0.3
-  checksum: 13e0d8e0e73e83425b2a2f3526286dfaac7d574ac9ae180d7bd902aa69f6de3ae5632e04c9591ce15c6a212fd70398d73870436994b90b5c78176a19bb12417f
+  checksum: 56d85a1e6f808218096c17160eb7db694559a6307b76134e48a4927b7f3a3963941f2d86bac34f681cb16fc9d5010f0b7b42523c9b647451887be285a2348ea3
   languageName: node
   linkType: hard
 

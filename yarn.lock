@@ -216,13 +216,13 @@ __metadata:
   linkType: hard
 
 "@babel/generator@npm:^7.12.11, @babel/generator@npm:^7.12.5, @babel/generator@npm:^7.14.0, @babel/generator@npm:^7.16.7, @babel/generator@npm:^7.18.6, @babel/generator@npm:^7.7.2":
-  version: 7.18.6
-  resolution: "@babel/generator@npm:7.18.6"
+  version: 7.18.7
+  resolution: "@babel/generator@npm:7.18.7"
   dependencies:
-    "@babel/types": ^7.18.6
-    "@jridgewell/gen-mapping": ^0.3.0
+    "@babel/types": ^7.18.7
+    "@jridgewell/gen-mapping": ^0.3.2
     jsesc: ^2.5.1
-  checksum: 514130800b676aada4dcb5c1a8af354514bc6af5c7eb092cc0179307f31f6bdfae4c16523750f6a014864c5bc588430ff32f06f8327db78d9c10c105b61283fc
+  checksum: ab6ea9178b07557d10bd744a6ba56afec636242b400ee3eaba25ac381ada65153e7b9c6a92fa6089b2426f437bf10774ea094f3ad7f9b201e23ed3761b35e9e6
   languageName: node
   linkType: hard
 
@@ -1955,13 +1955,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/types@npm:^7.0.0, @babel/types@npm:^7.1.6, @babel/types@npm:^7.12.11, @babel/types@npm:^7.12.7, @babel/types@npm:^7.16.7, @babel/types@npm:^7.16.8, @babel/types@npm:^7.18.6, @babel/types@npm:^7.2.0, @babel/types@npm:^7.3.0, @babel/types@npm:^7.3.3, @babel/types@npm:^7.4.4, @babel/types@npm:^7.8.3":
-  version: 7.18.6
-  resolution: "@babel/types@npm:7.18.6"
+"@babel/types@npm:^7.0.0, @babel/types@npm:^7.1.6, @babel/types@npm:^7.12.11, @babel/types@npm:^7.12.7, @babel/types@npm:^7.16.7, @babel/types@npm:^7.16.8, @babel/types@npm:^7.18.6, @babel/types@npm:^7.18.7, @babel/types@npm:^7.2.0, @babel/types@npm:^7.3.0, @babel/types@npm:^7.3.3, @babel/types@npm:^7.4.4, @babel/types@npm:^7.8.3":
+  version: 7.18.7
+  resolution: "@babel/types@npm:7.18.7"
   dependencies:
     "@babel/helper-validator-identifier": ^7.18.6
     to-fast-properties: ^2.0.0
-  checksum: 6984d0846df8c08818c767808f818ed5a883cadaf72a935e494d0bd9237c85f88e0ba1264923b61a3c6e9cfa793df72b54b5f8e5315d0abd7e6a083c99a0f9bf
+  checksum: 879d907935474f120d8279e7cea8152aa3e2a75e11cf0495c79505f189615091a486742cf7c1e2054305d33f94c22b89904d9ef5afadf867330fc815ab8d83c1
   languageName: node
   linkType: hard
 
@@ -3132,7 +3132,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@jridgewell/gen-mapping@npm:^0.3.0":
+"@jridgewell/gen-mapping@npm:^0.3.0, @jridgewell/gen-mapping@npm:^0.3.2":
   version: 0.3.2
   resolution: "@jridgewell/gen-mapping@npm:0.3.2"
   dependencies:
@@ -8379,16 +8379,16 @@ __metadata:
   linkType: hard
 
 "browserslist@npm:^4.0.0, browserslist@npm:^4.12.0, browserslist@npm:^4.14.5, browserslist@npm:^4.16.6, browserslist@npm:^4.20.2, browserslist@npm:^4.20.3, browserslist@npm:^4.21.0":
-  version: 4.21.0
-  resolution: "browserslist@npm:4.21.0"
+  version: 4.21.1
+  resolution: "browserslist@npm:4.21.1"
   dependencies:
-    caniuse-lite: ^1.0.30001358
-    electron-to-chromium: ^1.4.164
+    caniuse-lite: ^1.0.30001359
+    electron-to-chromium: ^1.4.172
     node-releases: ^2.0.5
-    update-browserslist-db: ^1.0.0
+    update-browserslist-db: ^1.0.4
   bin:
     browserslist: cli.js
-  checksum: c7f3dc24579ea2bd346280c7b6efd159391df894cde1e298b583dff876c53f25f39102772e964b0ff4fac4dad10c4dee569a8491e7251dfb0de110b0fb3f9760
+  checksum: 39e152e19f2641d8f2ad14c49bd84f1af9f8c830ec396ddd4d4a8a3419adeb1d418d9974e0694215b05cfdb49c3250336a3c130898789021afcaf154104de90b
   languageName: node
   linkType: hard
 
@@ -8693,7 +8693,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001358":
+"caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001359":
   version: 1.0.30001359
   resolution: "caniuse-lite@npm:1.0.30001359"
   checksum: 75c1655650155ecc859a3ea69e3496ebadc3c9e167046ddf572d4d28ea466ce714e2205fc417594e2047721a585b3156b7f9a3fe98f2612a1de406519fad6daa
@@ -10903,10 +10903,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"electron-to-chromium@npm:^1.4.164":
-  version: 1.4.171
-  resolution: "electron-to-chromium@npm:1.4.171"
-  checksum: b53764e9bef3e54f58b217a35080a99ddaf8453c002912eb1ff2594d827c6fc39c87072db7d03897d78f713b50b7246840e0afb204f72828c3cb5e3495f37aa0
+"electron-to-chromium@npm:^1.4.172":
+  version: 1.4.172
+  resolution: "electron-to-chromium@npm:1.4.172"
+  checksum: b0543ef0331708ccfb049f71be39edd340d9d4e8e0f7cafec9c7e3e8a7982c88d36bbc143b2e29858e42d5bccafbe394b6f389c95c23ed9f8c499e59b93ce623
   languageName: node
   linkType: hard
 
@@ -11038,12 +11038,12 @@ __metadata:
   linkType: hard
 
 "enhanced-resolve@npm:^5.9.3":
-  version: 5.9.3
-  resolution: "enhanced-resolve@npm:5.9.3"
+  version: 5.10.0
+  resolution: "enhanced-resolve@npm:5.10.0"
   dependencies:
     graceful-fs: ^4.2.4
     tapable: ^2.2.0
-  checksum: 743428030e1d627835bfd05b7a9570ee163e728ab1d55fcd69de9c4ff3e84356c0c9c9deaa8164afb3c648699681a403801ac85b94d6a343838d38f36109643c
+  checksum: 697c066552dadde9ea8ec7068677711dd5d6c49434b5ff96b2de2068a65060ffca32629abb899a86cca5fcb6b067d88119d1a69c7c2082e3a09c1165f760ad87
   languageName: node
   linkType: hard
 
@@ -17406,11 +17406,11 @@ __metadata:
   linkType: hard
 
 "minipass@npm:^3.0.0, minipass@npm:^3.1.1, minipass@npm:^3.1.6":
-  version: 3.3.3
-  resolution: "minipass@npm:3.3.3"
+  version: 3.3.4
+  resolution: "minipass@npm:3.3.4"
   dependencies:
     yallist: ^4.0.0
-  checksum: e7fcb3df9ea6efd9fca335a2952ff81834277cc02a5f37372f507650abd7bec3ee74a3c69db80ac7d6b51b92f75bf50471d25eb1bbf0d4f5596d9f440f125d25
+  checksum: 942522f16a60b651de81031a095149206ebb8647f7d029f5eb4eed23b04e4f872a93ffec5f7dceb6defb00fa80cc413dd5aa1131471a480a24d7167f8264a273
   languageName: node
   linkType: hard
 
@@ -23431,7 +23431,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"update-browserslist-db@npm:^1.0.0":
+"update-browserslist-db@npm:^1.0.4":
   version: 1.0.4
   resolution: "update-browserslist-db@npm:1.0.4"
   dependencies:

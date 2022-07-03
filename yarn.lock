@@ -8694,9 +8694,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001359":
-  version: 1.0.30001361
-  resolution: "caniuse-lite@npm:1.0.30001361"
-  checksum: 29949867d87e0b0dbf352c70fdcc4073ce9a42dfb4b34bff04e0ffaaf2a5da065f66c521c94ae4b82abd49a976dd98c7f038a6254a7b2eb617c8a0251bebdb7b
+  version: 1.0.30001362
+  resolution: "caniuse-lite@npm:1.0.30001362"
+  checksum: 7fca53280088a850f45b56ca46f5f74058cd6e2ee5cddc460c187df1408960da5f0d7121607ba3a1a6609cd19aa3084f1cc86739c10277519cf6f15343793a61
   languageName: node
   linkType: hard
 
@@ -19965,8 +19965,8 @@ __metadata:
   linkType: hard
 
 "react-docgen@npm:^5.0.0":
-  version: 5.4.2
-  resolution: "react-docgen@npm:5.4.2"
+  version: 5.4.3
+  resolution: "react-docgen@npm:5.4.3"
   dependencies:
     "@babel/core": ^7.7.5
     "@babel/generator": ^7.12.11
@@ -19980,7 +19980,7 @@ __metadata:
     strip-indent: ^3.0.0
   bin:
     react-docgen: bin/react-docgen.js
-  checksum: 08f3e6b2b61ca5d025fae45455aaf0a26001e02dc993e68123a19bf58a272a443569e855ad6f7feb86ab59db45bfa37fa6bf63a6d2dfbc69c82bfb756ba8b4df
+  checksum: c920e9611e08317f8fdae707114cf02baaa18e2f1bd23ed18f57e66b9e1042e51dc98cc9de828b03d018ccc4e26300c9a6c4f74e862fc94dc64029267c801a01
   languageName: node
   linkType: hard
 

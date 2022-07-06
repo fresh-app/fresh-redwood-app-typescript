@@ -3144,9 +3144,9 @@ __metadata:
   linkType: hard
 
 "@jridgewell/resolve-uri@npm:^3.0.3":
-  version: 3.0.8
-  resolution: "@jridgewell/resolve-uri@npm:3.0.8"
-  checksum: c2046e563c18cbd817ec8e2826484ea9e05d631e7b66e3c7d903c571cf9c52330501baf80879acac374502c2b5ef5e8cfbb8761232e6cac5f61a668f4e52cc41
+  version: 3.1.0
+  resolution: "@jridgewell/resolve-uri@npm:3.1.0"
+  checksum: 78055e2526108331126366572045355051a930f017d1904a4f753d3f4acee8d92a14854948095626f6163cffc24ea4e3efa30637417bb866b84743dec7ef6fd9
   languageName: node
   linkType: hard
 
@@ -5943,9 +5943,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 18.0.1
-  resolution: "@types/node@npm:18.0.1"
-  checksum: 07d797e3bb129c8ceb076159f33f834d8e981b3429e9c775fa58a23abca8de30adb04ef836eb557fb2bc9a578d1c1a7fed1aa0f6952c3c2c1a674ef75ee4fac4
+  version: 18.0.2
+  resolution: "@types/node@npm:18.0.2"
+  checksum: 66ca09aad77a234e510d0f1dc76c803f7740c3fa7b2ec78cedbd48a97a78df5cf32ef0ebf26e9112bb3a6ee14c3139d515413ecc3e2a634ec31e7954bb72e000
   languageName: node
   linkType: hard
 
@@ -6045,13 +6045,13 @@ __metadata:
   linkType: hard
 
 "@types/react@npm:*":
-  version: 18.0.14
-  resolution: "@types/react@npm:18.0.14"
+  version: 18.0.15
+  resolution: "@types/react@npm:18.0.15"
   dependencies:
     "@types/prop-types": "*"
     "@types/scheduler": "*"
     csstype: ^3.0.2
-  checksum: 18250834286bec2b71f2bc8cc03ff62a01c90b214935d8abc56db9787968c4ea7f99a2a23ddff63e298d8513e091a8ae22c8f3c87a24c02909e3a9528eedda73
+  checksum: 359b63de6e418dba51f54258ef09cbc434141a92d5f24e3e606cafdc0b0f23a6fb5e410c3ec6ada87eb54b9a055b94d2305c5ab90e691dbce1ed82818a99aa60
   languageName: node
   linkType: hard
 
@@ -10902,9 +10902,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.172":
-  version: 1.4.178
-  resolution: "electron-to-chromium@npm:1.4.178"
-  checksum: 9b8e3aa01b7b6b31a6987842492c39b4d186390657d1aafc38fd53757c6a3197b6ec68f27472f3ebb6583f53afe30a1122c68ce0f424e67e6c9662fc53db03c5
+  version: 1.4.180
+  resolution: "electron-to-chromium@npm:1.4.180"
+  checksum: d23348f7d028cf0306f77cc51f024c55af0f8772a338643adf28227610707d56b09872a890c7a79ee885db17cae7d7a90e29ca36ccd0e6f18b1ab3157911ddd2
   languageName: node
   linkType: hard
 
@@ -16241,9 +16241,9 @@ __metadata:
   linkType: hard
 
 "language-subtag-registry@npm:~0.3.2":
-  version: 0.3.21
-  resolution: "language-subtag-registry@npm:0.3.21"
-  checksum: 349ff5b6fbba6dcf345e8edcdce3c7a47624fed4b8f72b9215686b8de7c65067a1c44a45bdbc88282bff5396be63333e3ec67a42ffaa22027ffe6b079d3500e4
+  version: 0.3.22
+  resolution: "language-subtag-registry@npm:0.3.22"
+  checksum: d1e09971260a7cd3b9fdeb190d33af0b6e99c8697013537d9aaa15f7856d9d83aee128ba8078e219df0a7cf4b8dd18d1a0c188f6543b500d92a2689d2d114b70
   languageName: node
   linkType: hard
 

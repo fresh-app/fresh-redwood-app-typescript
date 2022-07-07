@@ -5943,9 +5943,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 18.0.2
-  resolution: "@types/node@npm:18.0.2"
-  checksum: 66ca09aad77a234e510d0f1dc76c803f7740c3fa7b2ec78cedbd48a97a78df5cf32ef0ebf26e9112bb3a6ee14c3139d515413ecc3e2a634ec31e7954bb72e000
+  version: 18.0.3
+  resolution: "@types/node@npm:18.0.3"
+  checksum: 03543d489b0747c1414aa5e3e8ca928d6ca3dfdb17d96811cc9f355da632805ca27520ed8ebfc14fb6a1b317490045fcd2d0dd3362f9b98b7f3d0ca7297ec086
   languageName: node
   linkType: hard
 
@@ -10902,9 +10902,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.172":
-  version: 1.4.180
-  resolution: "electron-to-chromium@npm:1.4.180"
-  checksum: d23348f7d028cf0306f77cc51f024c55af0f8772a338643adf28227610707d56b09872a890c7a79ee885db17cae7d7a90e29ca36ccd0e6f18b1ab3157911ddd2
+  version: 1.4.181
+  resolution: "electron-to-chromium@npm:1.4.181"
+  checksum: c75385c1434aee8f3026f4a20f62d362f4b57676b6f101eeafec2af77338fd807233a98b601fe2de47a443c899512b5bb78d30150a419aca8d1a34b51cab9b61
   languageName: node
   linkType: hard
 
@@ -13795,9 +13795,9 @@ __metadata:
   linkType: hard
 
 "headers-polyfill@npm:^3.0.4":
-  version: 3.0.7
-  resolution: "headers-polyfill@npm:3.0.7"
-  checksum: 08359a8ed582bb551d76095918d297631beb3251fa125d20183ff64cbc23d633642633646131b55b8444daf39823578ae8f4e8f114743e1adb24465c938c9857
+  version: 3.0.8
+  resolution: "headers-polyfill@npm:3.0.8"
+  checksum: 760f5512a641daa58607bf358f7ece8c5f709e3964400b3e2212f454596ec7c88300c000b03e36cbc85b6e1c0d53917ad82578221d4f7714a9fe867b123c7b06
   languageName: node
   linkType: hard
 
@@ -16123,12 +16123,12 @@ __metadata:
   linkType: hard
 
 "jsx-ast-utils@npm:^2.4.1 || ^3.0.0, jsx-ast-utils@npm:^3.2.1":
-  version: 3.3.1
-  resolution: "jsx-ast-utils@npm:3.3.1"
+  version: 3.3.2
+  resolution: "jsx-ast-utils@npm:3.3.2"
   dependencies:
     array-includes: ^3.1.5
     object.assign: ^4.1.2
-  checksum: 13cf3a730b1a53fde9cfba3aa0c96d32b1a7f89a81568eedf3be11c306697421081f0692d23f27ee6079189aa34b1572eb2fcbce3cd565880241e125b2f19679
+  checksum: 97aa29b544aafbf46574b63a2e27f172f88d2b4f6180034a4908efddeffaa1ac3108063f59af39bfb549ed6f0aa84ddbb81d21ad3f487b273dc1d08dc55d4e69
   languageName: node
   linkType: hard
 
@@ -22937,9 +22937,9 @@ __metadata:
   linkType: hard
 
 "ts-pattern@npm:^4.0.1":
-  version: 4.0.3
-  resolution: "ts-pattern@npm:4.0.3"
-  checksum: f1dd431a7e0a0e7ec32e1042b8527295e1be11e79b14a24570d793bd46b6ee2fa469ad3cca7eb66f99832d0a786bac63c1aec158d42650526abf350e62015d94
+  version: 4.0.4
+  resolution: "ts-pattern@npm:4.0.4"
+  checksum: 9fb3390f236b23ce7502e70907ec94f546f27b3a7ab339b1243ce381408f7c7ce9e78988cd8e292875d0adf00d8ded26953f2fc1a79aac76d1c996d029778023
   languageName: node
   linkType: hard
 

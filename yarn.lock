@@ -10848,9 +10848,9 @@ __metadata:
   linkType: hard
 
 "duplexer3@npm:^0.1.4":
-  version: 0.1.4
-  resolution: "duplexer3@npm:0.1.4"
-  checksum: 734e10ac7c3053b81374fa00153e884e257db27759bd63a774cb1551e1873189cdce79a8829659964d8b5113c49e45d517592ecbbb5e5201a4181b88f8ce8b0c
+  version: 0.1.5
+  resolution: "duplexer3@npm:0.1.5"
+  checksum: 02195030d61c4d6a2a34eca71639f2ea5e05cb963490e5bd9527623c2ac7f50c33842a34d14777ea9cbfd9bc2be5a84065560b897d9fabb99346058a5b86ca98
   languageName: node
   linkType: hard
 
@@ -10902,9 +10902,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.172":
-  version: 1.4.181
-  resolution: "electron-to-chromium@npm:1.4.181"
-  checksum: c75385c1434aee8f3026f4a20f62d362f4b57676b6f101eeafec2af77338fd807233a98b601fe2de47a443c899512b5bb78d30150a419aca8d1a34b51cab9b61
+  version: 1.4.183
+  resolution: "electron-to-chromium@npm:1.4.183"
+  checksum: 1c283638cd702cbee8fbbe2a23c6d10fbd48141c94062533077ba54f331f3c4895b8fb64c97bb1d385e74f73342576f68bb9df182728e0a98e6f8cb64df95330
   languageName: node
   linkType: hard
 
@@ -13795,9 +13795,9 @@ __metadata:
   linkType: hard
 
 "headers-polyfill@npm:^3.0.4":
-  version: 3.0.8
-  resolution: "headers-polyfill@npm:3.0.8"
-  checksum: 760f5512a641daa58607bf358f7ece8c5f709e3964400b3e2212f454596ec7c88300c000b03e36cbc85b6e1c0d53917ad82578221d4f7714a9fe867b123c7b06
+  version: 3.0.9
+  resolution: "headers-polyfill@npm:3.0.9"
+  checksum: fc8d1086d4b7b91d9f385232ffe6f69d52d5ae2f18a5f3ea12a07ed30f4dde88c8ab67d3d717108666ba34c2b4e209dc1349a18ba71ed09cd29230743448c9b3
   languageName: node
   linkType: hard
 

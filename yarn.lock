@@ -2382,23 +2382,23 @@ __metadata:
   linkType: hard
 
 "@graphql-codegen/typescript@npm:^2.4.11":
-  version: 2.7.0
-  resolution: "@graphql-codegen/typescript@npm:2.7.0"
+  version: 2.7.1
+  resolution: "@graphql-codegen/typescript@npm:2.7.1"
   dependencies:
     "@graphql-codegen/plugin-helpers": ^2.5.0
     "@graphql-codegen/schema-ast": ^2.5.0
-    "@graphql-codegen/visitor-plugin-common": 2.11.0
+    "@graphql-codegen/visitor-plugin-common": 2.11.1
     auto-bind: ~4.0.0
     tslib: ~2.4.0
   peerDependencies:
     graphql: ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0 || ^16.0.0
-  checksum: 50a83a31e82e4f25f915270fbe3c07461bb9fdc0a33606384d6f2de90741e6956ddfc27ed2e55de2117261e63e36c87a5f5fc3956080de0836d6e864a09bcace
+  checksum: 34a16c6468e6980d4699292d36e63e6c4d0712c70043a132f369c9ffc77cbbcb48df8a491a4069d810a7a38a76d5b3427f05f40d5f14bdef6aead1dc999cc3c1
   languageName: node
   linkType: hard
 
-"@graphql-codegen/visitor-plugin-common@npm:2.11.0":
-  version: 2.11.0
-  resolution: "@graphql-codegen/visitor-plugin-common@npm:2.11.0"
+"@graphql-codegen/visitor-plugin-common@npm:2.11.1":
+  version: 2.11.1
+  resolution: "@graphql-codegen/visitor-plugin-common@npm:2.11.1"
   dependencies:
     "@graphql-codegen/plugin-helpers": ^2.5.0
     "@graphql-tools/optimize": ^1.3.0
@@ -2412,7 +2412,7 @@ __metadata:
     tslib: ~2.4.0
   peerDependencies:
     graphql: ^0.8.0 || ^0.9.0 || ^0.10.0 || ^0.11.0 || ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0 || ^16.0.0
-  checksum: ba42defb87a0ae74bc017294aadcce5f76923fcadf7ee027c7e352e271d09c1cfdf7bb9c4b36ded0901e84d5ee54573c60253192acb2f7431952471fc6f491e7
+  checksum: 12b7fda690293c2d4fa293edcc0224de340d597361356accbb7e409fea70788327acdda6c15bb83339ca29563ad34490c717a988d0a113acc1e4ed73525e3f26
   languageName: node
   linkType: hard
 
@@ -3258,12 +3258,12 @@ __metadata:
   linkType: hard
 
 "@mswjs/cookies@npm:^0.2.0":
-  version: 0.2.1
-  resolution: "@mswjs/cookies@npm:0.2.1"
+  version: 0.2.2
+  resolution: "@mswjs/cookies@npm:0.2.2"
   dependencies:
     "@types/set-cookie-parser": ^2.4.0
     set-cookie-parser: ^2.4.6
-  checksum: 14872ab17c7ef98f9bdd8806c9f1e43c23fbd3ae141e059a09eaaa64c16e5e14b3ce24f3fdd616f15ffaae9f8ee24d245586475fbcdd8641a948d937a6e0ed7b
+  checksum: f950062538d431674d581309cf19884fc4d3f57e2a276164cac0c9a3250071d42464ba7825d13be14c703ca5a912d62a62626f4a068d8f36d1629dbb63bde740
   languageName: node
   linkType: hard
 
@@ -5363,8 +5363,8 @@ __metadata:
   linkType: hard
 
 "@testing-library/dom@npm:^8.0.0, @testing-library/dom@npm:^8.11.1":
-  version: 8.14.0
-  resolution: "@testing-library/dom@npm:8.14.0"
+  version: 8.14.1
+  resolution: "@testing-library/dom@npm:8.14.1"
   dependencies:
     "@babel/code-frame": ^7.10.4
     "@babel/runtime": ^7.12.5
@@ -5374,7 +5374,7 @@ __metadata:
     dom-accessibility-api: ^0.5.9
     lz-string: ^1.4.4
     pretty-format: ^27.0.2
-  checksum: d3429c9b9440e6a95942a428c3c87b0670715c8bea249bfbf93b385d9f0a6d64d9af8157c38803c31dc06506ba92bb2961c67515bb4d8897f908c8174076a27d
+  checksum: 6bc73f88acc2d146ad0dca357148590bcf1d689c89e1b763aaddce90ef63d06f9ec4895039e7171ba15923fb78c2f676bc5143eb6560471fd8f47b709f60987e
   languageName: node
   linkType: hard
 
@@ -8391,7 +8391,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"browserslist@npm:^4.0.0, browserslist@npm:^4.12.0, browserslist@npm:^4.14.5, browserslist@npm:^4.16.6, browserslist@npm:^4.20.2, browserslist@npm:^4.20.3, browserslist@npm:^4.21.0":
+"browserslist@npm:^4.0.0, browserslist@npm:^4.12.0, browserslist@npm:^4.14.5, browserslist@npm:^4.16.6, browserslist@npm:^4.20.2, browserslist@npm:^4.20.3, browserslist@npm:^4.21.1":
   version: 4.21.1
   resolution: "browserslist@npm:4.21.1"
   dependencies:
@@ -9617,19 +9617,19 @@ __metadata:
   linkType: hard
 
 "core-js-compat@npm:^3.18.0, core-js-compat@npm:^3.19.1, core-js-compat@npm:^3.20.0, core-js-compat@npm:^3.21.0, core-js-compat@npm:^3.22.1, core-js-compat@npm:^3.8.1":
-  version: 3.23.3
-  resolution: "core-js-compat@npm:3.23.3"
+  version: 3.23.4
+  resolution: "core-js-compat@npm:3.23.4"
   dependencies:
-    browserslist: ^4.21.0
+    browserslist: ^4.21.1
     semver: 7.0.0
-  checksum: 2f9a08e62a6abb54b5099819702b45eb1ef780845a7e2fab8a2acfc94e64d45bbb1e984bec687f98de61fa76fba9774554211478c4b3363d35b4e95996cc4407
+  checksum: 61785bc8e8602f7e76f56c15ab3659dc78f1afdc19c7f90d4ad32fda21218b259beb34afee1aee234fb437e2037a3d1ebfd4be89052f120fe47c8ccb365fa6e0
   languageName: node
   linkType: hard
 
 "core-js-pure@npm:^3.19.0, core-js-pure@npm:^3.20.2, core-js-pure@npm:^3.8.1":
-  version: 3.23.3
-  resolution: "core-js-pure@npm:3.23.3"
-  checksum: 3a0fb18f05e1025c2f2372446c2803ec5d431c04a1603ed0b436a87fc0f8a2c041123398d97cc2f0fbee3f59d48b87af770c4909ba7fb55d79ae668b9959512b
+  version: 3.23.4
+  resolution: "core-js-pure@npm:3.23.4"
+  checksum: 3106d4b65c1a84674c5078ce45f9ec52a82172f5fea1206aa6267c947c29db91d53df91069a3334071f326baa7106e02e67d0c0ce87af5c9af5de31fee33f08a
   languageName: node
   linkType: hard
 
@@ -9641,9 +9641,9 @@ __metadata:
   linkType: hard
 
 "core-js@npm:^3.0.4, core-js@npm:^3.19.0, core-js@npm:^3.6.5, core-js@npm:^3.8.2":
-  version: 3.23.3
-  resolution: "core-js@npm:3.23.3"
-  checksum: de994a19bccca7e661a0c826be6d9c5c2fb9a7ada037ff075cd5a866ca6ca50803a3984d5b9150e3739f9cfd03f5d7d4c0c151f1c87ab34b0d3c010171a6b562
+  version: 3.23.4
+  resolution: "core-js@npm:3.23.4"
+  checksum: 08e85e495f4d99df899978413dfd2e5e13233e64f9918cd8baa7fb30d82992ef9e0c6d47f7d5c25f581d9d6e7446dcb878d0c167e01344ffe6c20ab62d4bdd4c
   languageName: node
   linkType: hard
 

@@ -2075,14 +2075,14 @@ __metadata:
   linkType: hard
 
 "@envelop/parser-cache@npm:^4.0.0":
-  version: 4.4.0
-  resolution: "@envelop/parser-cache@npm:4.4.0"
+  version: 4.5.0
+  resolution: "@envelop/parser-cache@npm:4.5.0"
   dependencies:
-    tiny-lru: 7.0.6
+    lru-cache: ^6.0.0
   peerDependencies:
     "@envelop/core": ^2.4.0
     graphql: ^14.0.0 || ^15.0.0 || ^16.0.0
-  checksum: cbdd41c3684cd47900ee3b58dedc6dc6bf2be4ad1ffcd95bfc6d7ebd95c3a6803d834987b631f7457794a8883eaea12b093bb2c6215c415b2ebcaaf5dd86fd7e
+  checksum: 5e66cfa4042f5924740aea92154aeef4d9113077978a94daa7d5f90f9aef263f140b74e592d610e525744f061e63370f90a8de7f9a85da517223a38ed266c27b
   languageName: node
   linkType: hard
 
@@ -2108,14 +2108,14 @@ __metadata:
   linkType: hard
 
 "@envelop/validation-cache@npm:^4.0.0":
-  version: 4.4.0
-  resolution: "@envelop/validation-cache@npm:4.4.0"
+  version: 4.5.0
+  resolution: "@envelop/validation-cache@npm:4.5.0"
   dependencies:
-    tiny-lru: 7.0.6
+    lru-cache: ^6.0.0
   peerDependencies:
     "@envelop/core": ^2.4.0
     graphql: ^14.0.0 || ^15.0.0 || ^16.0.0
-  checksum: 19ec079bda98caa5c7394dd6865a8a26d9f5ce96f05d0e1dc882a38cce9e038c524effd518ee1728e8e829b97c1e210a919568e608f3f5902e405b8e5330679d
+  checksum: 9e865f227eaa0331fa924555cfbf14df17ca249a431182691cd29092df0241e0b2d2ba3e6626b2382b7de3a5970bc596a709c91c548e893b79f35be433e75b9f
   languageName: node
   linkType: hard
 
@@ -5363,8 +5363,8 @@ __metadata:
   linkType: hard
 
 "@testing-library/dom@npm:^8.0.0, @testing-library/dom@npm:^8.11.1":
-  version: 8.15.0
-  resolution: "@testing-library/dom@npm:8.15.0"
+  version: 8.16.0
+  resolution: "@testing-library/dom@npm:8.16.0"
   dependencies:
     "@babel/code-frame": ^7.10.4
     "@babel/runtime": ^7.12.5
@@ -5374,7 +5374,7 @@ __metadata:
     dom-accessibility-api: ^0.5.9
     lz-string: ^1.4.4
     pretty-format: ^27.0.2
-  checksum: 56338a9fe0b9ca5f6bab69dbfc9d439d847ea6a35b3bc7e58442bcb50f37254a3c895998980f17379ba71b50db8ac63dfb43e84cdeb2f07ff3d22d8362653c8e
+  checksum: 4a4b7e2ee1d3543b2935e60a0d85ac041ebe36fc6fbb3cbdf86898cd9947410ca75ad78f88e91b6eb146fb76f3ef102a1e24495761e1a5b8fe60aa82d3edd874
   languageName: node
   linkType: hard
 
@@ -10915,9 +10915,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.172":
-  version: 1.4.185
-  resolution: "electron-to-chromium@npm:1.4.185"
-  checksum: 5040f66d3a6bb7d7dee096dc133e20d105b94da5da14760abebb50f517bcdfbb3b6f3cbf8aa553887a2a77f49b8439d788fb0d66acf5b2ec43bf3cd8c5fa182a
+  version: 1.4.186
+  resolution: "electron-to-chromium@npm:1.4.186"
+  checksum: 9de781eb352693447aa67dd613a99829eb3b3374676f4b66fa94bce2e9797a9280f67247930fc57c46f718b187d3f98d1fcd92422b232915c3349c069ebbc75b
   languageName: node
   linkType: hard
 
@@ -20927,11 +20927,11 @@ __metadata:
   linkType: hard
 
 "rxjs@npm:^7.5.5":
-  version: 7.5.5
-  resolution: "rxjs@npm:7.5.5"
+  version: 7.5.6
+  resolution: "rxjs@npm:7.5.6"
   dependencies:
     tslib: ^2.1.0
-  checksum: bc84ba51aa1fffb03a2622a406d8a5d5074a543054a60a813302e39b6d3cb485d6738c4aad567e8f2f0c58839a3c3c272a336487951b44013b99eb731a0453bf
+  checksum: d8077fb4a06c05f52fcc974ab9884d163924b8085c661c92030a522920510bf0c75583caee70409ab11992320c31f562f5402afe8b81255370c09773209fec5c
   languageName: node
   linkType: hard
 

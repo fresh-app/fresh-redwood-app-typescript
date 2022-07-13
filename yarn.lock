@@ -5690,9 +5690,9 @@ __metadata:
   linkType: hard
 
 "@types/estree@npm:*":
-  version: 0.0.52
-  resolution: "@types/estree@npm:0.0.52"
-  checksum: b17e29cd6335c96d915cc4cda8c04e2c87e47bb97d9cd86094cf0465688d6caffa6e45b37fd3ce90f149af56b7ab8ca8a7947981d9749e18caeb3a56ae9be444
+  version: 1.0.0
+  resolution: "@types/estree@npm:1.0.0"
+  checksum: 4e73ff606bf7c7ccdaa66092de650c410a4ad2ecc388fdbed8242cac9dbcad72407e1ceff041b7da691babb02ff74ab885d6231fb09368fdd1eabbf1b5253d49
   languageName: node
   linkType: hard
 
@@ -8707,9 +8707,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001359":
-  version: 1.0.30001364
-  resolution: "caniuse-lite@npm:1.0.30001364"
-  checksum: 9d83fd0f76ed6b2f5cab990a4e4c147ba92469575930a7547a2028d3339126561e64ecc7933b5921ee67a6061175e983ce02bf962ee25a278c4fce401dbb82af
+  version: 1.0.30001365
+  resolution: "caniuse-lite@npm:1.0.30001365"
+  checksum: 5b7def75ff54a958397bc9bdc9c79da786909a12d0e076c514ebd15ab3396f1ed82203e1fde09bb5da5b23b95f3ad00034d22f211612b7cda0fd157f8b2e11ae
   languageName: node
   linkType: hard
 
@@ -10915,9 +10915,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.172":
-  version: 1.4.186
-  resolution: "electron-to-chromium@npm:1.4.186"
-  checksum: 9de781eb352693447aa67dd613a99829eb3b3374676f4b66fa94bce2e9797a9280f67247930fc57c46f718b187d3f98d1fcd92422b232915c3349c069ebbc75b
+  version: 1.4.187
+  resolution: "electron-to-chromium@npm:1.4.187"
+  checksum: 34f091bda07e308ca26322922a4b25399752081a384433bd47fc38c0908dd87baa38eb375932706a20e8a3af4ef43cecc01b31fc502e17b2c7cf561c793a9d2f
   languageName: node
   linkType: hard
 
@@ -13808,9 +13808,9 @@ __metadata:
   linkType: hard
 
 "headers-polyfill@npm:^3.0.4":
-  version: 3.0.9
-  resolution: "headers-polyfill@npm:3.0.9"
-  checksum: fc8d1086d4b7b91d9f385232ffe6f69d52d5ae2f18a5f3ea12a07ed30f4dde88c8ab67d3d717108666ba34c2b4e209dc1349a18ba71ed09cd29230743448c9b3
+  version: 3.0.10
+  resolution: "headers-polyfill@npm:3.0.10"
+  checksum: ee8e76106c6126de5bba3ab4e04b9319a865f00c3da2aaf89d2117b90cc95bb40d3fa7ab93d8b9366aac4ce004fc144881b721332f3af812501c597135a4b1df
   languageName: node
   linkType: hard
 
@@ -16839,9 +16839,9 @@ __metadata:
   linkType: hard
 
 "lru-cache@npm:^7.7.1":
-  version: 7.12.0
-  resolution: "lru-cache@npm:7.12.0"
-  checksum: 01a1d902c6516fb5783fa264014b1ad0cc8980463b478579ff7aeed02ae4c74e3cce0cbf7a513244b0af6ca7c0a4e5a5ba0c91a412c420eff1a41bd569562914
+  version: 7.13.0
+  resolution: "lru-cache@npm:7.13.0"
+  checksum: 1698295342e6f7f35aea417be84c4a09d95d797750e0d2696adbd891eeb022b857a32bc51c39e11f835ee281246280bd21675282b429c3c3293464268a0b7eba
   languageName: node
   linkType: hard
 
@@ -23201,9 +23201,9 @@ __metadata:
   linkType: hard
 
 "undici@npm:^5.0.0":
-  version: 5.6.1
-  resolution: "undici@npm:5.6.1"
-  checksum: 439859ef8a0b5155557766b921cb4df340e1c4f96f28e3cb2911f4439688faaa02fe11686749b971cf1a37ad1ee4de1c43b0f38d5839b241c2098848762da4c4
+  version: 5.7.0
+  resolution: "undici@npm:5.7.0"
+  checksum: 9dca72cab2a4f6ba58f5cb40666e21ed2e9664498fdea84778d24a69136066c185cc0ae4cb37912b9cd0aaabdaab66628127269bdeb0ba2e537aa37bf40d25ca
   languageName: node
   linkType: hard
 

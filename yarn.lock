@@ -10862,9 +10862,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.188":
-  version: 1.4.189
-  resolution: "electron-to-chromium@npm:1.4.189"
-  checksum: 1666ce173cf54c401624b9ccff4aabf61efba312997464c1b76f62ecf90bd46cf87391ab71b184ef7ad144cd59adcf9d9b32f3e035b62ed2262fc769102b843f
+  version: 1.4.190
+  resolution: "electron-to-chromium@npm:1.4.190"
+  checksum: 2e210eb84c187768a200bb9e60fa98063b8112ff62c546750d85ce49675aa0a08daa431a4b0439dff56c2d7aa62d85bbea793d900957803ce0afbf98e261aef3
   languageName: node
   linkType: hard
 
@@ -16755,9 +16755,9 @@ __metadata:
   linkType: hard
 
 "lru-cache@npm:^7.7.1":
-  version: 7.13.0
-  resolution: "lru-cache@npm:7.13.0"
-  checksum: 1698295342e6f7f35aea417be84c4a09d95d797750e0d2696adbd891eeb022b857a32bc51c39e11f835ee281246280bd21675282b429c3c3293464268a0b7eba
+  version: 7.13.1
+  resolution: "lru-cache@npm:7.13.1"
+  checksum: 72034557cdb0d2ae32e5c1db928ee32b6d2b3a3e7b5aae2860f4f4c7272fefd4ebc5292a9df1dde10d07a78517836c49d84d8b101df13c100343bba80839c6cf
   languageName: node
   linkType: hard
 
@@ -17658,8 +17658,8 @@ __metadata:
   linkType: hard
 
 "node-gyp@npm:latest":
-  version: 9.0.0
-  resolution: "node-gyp@npm:9.0.0"
+  version: 9.1.0
+  resolution: "node-gyp@npm:9.1.0"
   dependencies:
     env-paths: ^2.2.0
     glob: ^7.1.4
@@ -17673,7 +17673,7 @@ __metadata:
     which: ^2.0.2
   bin:
     node-gyp: bin/node-gyp.js
-  checksum: 1aa0f3a6e137ef957f1f371b6d6c9e332eef6a8791e5453bee089a056984691d5f402b168a8b054176f143e36eef290653a35b79203ba1bc40cd694bb0575590
+  checksum: 906a1ddcfadfdfcaad140bdf010bda42fe1c012b24c2176f58460fda4687a720f50753a1b9f3dd231fa25fb47abebe199d2c70ce84d3a4c134176c04bde2704d
   languageName: node
   linkType: hard
 

@@ -5965,9 +5965,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 18.0.5
-  resolution: "@types/node@npm:18.0.5"
-  checksum: 1912aa65c4811bddb1d09dce81f1e760d61b613ddd31ffb89cf6bd1aa998ca42deb3a93ec6642f201b407022df12ad1aa4f54b268d689a6930645b6f8d949962
+  version: 18.0.6
+  resolution: "@types/node@npm:18.0.6"
+  checksum: 720178d0c14aa4fc20db299f1446163fbe8b5d97ed54ab697135ab5685352e468f99735d319a081b55436bf66ed8a84ea234876317ca4b71998be9e09c1ef170
   languageName: node
   linkType: hard
 
@@ -8389,7 +8389,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"browserslist@npm:^4.0.0, browserslist@npm:^4.12.0, browserslist@npm:^4.14.5, browserslist@npm:^4.16.6, browserslist@npm:^4.20.2, browserslist@npm:^4.20.3, browserslist@npm:^4.21.1":
+"browserslist@npm:^4.0.0, browserslist@npm:^4.12.0, browserslist@npm:^4.14.5, browserslist@npm:^4.16.6, browserslist@npm:^4.20.2, browserslist@npm:^4.20.3, browserslist@npm:^4.21.2":
   version: 4.21.2
   resolution: "browserslist@npm:4.21.2"
   dependencies:
@@ -9175,11 +9175,11 @@ __metadata:
   linkType: hard
 
 "clone-response@npm:^1.0.2":
-  version: 1.0.2
-  resolution: "clone-response@npm:1.0.2"
+  version: 1.0.3
+  resolution: "clone-response@npm:1.0.3"
   dependencies:
     mimic-response: ^1.0.0
-  checksum: 96f3527ef86d0c322e0a5188d929ab78ddbc3238d47ccbb00f8abb02b02e4ef70339646ec73d657383ffbdb1f0cfef6a937062d4f701ca6f84cee7a37114007f
+  checksum: 06a2b611824efb128810708baee3bd169ec9a1bf5976a5258cd7eb3f7db25f00166c6eee5961f075c7e38e194f373d4fdf86b8166ad5b9c7e82bbd2e333a6087
   languageName: node
   linkType: hard
 
@@ -9594,19 +9594,19 @@ __metadata:
   linkType: hard
 
 "core-js-compat@npm:^3.18.0, core-js-compat@npm:^3.19.1, core-js-compat@npm:^3.20.0, core-js-compat@npm:^3.21.0, core-js-compat@npm:^3.22.1, core-js-compat@npm:^3.8.1":
-  version: 3.23.4
-  resolution: "core-js-compat@npm:3.23.4"
+  version: 3.23.5
+  resolution: "core-js-compat@npm:3.23.5"
   dependencies:
-    browserslist: ^4.21.1
+    browserslist: ^4.21.2
     semver: 7.0.0
-  checksum: 61785bc8e8602f7e76f56c15ab3659dc78f1afdc19c7f90d4ad32fda21218b259beb34afee1aee234fb437e2037a3d1ebfd4be89052f120fe47c8ccb365fa6e0
+  checksum: 43755c1363135b850c6c35ef8f7d49edf276dd4fea36ec3855d2ef4e356b950d2349a6382288d20db00fa84ec063bdf52e70c638c0522d46a5478cd1e4c88265
   languageName: node
   linkType: hard
 
 "core-js-pure@npm:^3.19.0, core-js-pure@npm:^3.20.2, core-js-pure@npm:^3.8.1":
-  version: 3.23.4
-  resolution: "core-js-pure@npm:3.23.4"
-  checksum: 3106d4b65c1a84674c5078ce45f9ec52a82172f5fea1206aa6267c947c29db91d53df91069a3334071f326baa7106e02e67d0c0ce87af5c9af5de31fee33f08a
+  version: 3.23.5
+  resolution: "core-js-pure@npm:3.23.5"
+  checksum: c63d48ba02dcb334846c34e7defa2f1472e4d67a455dcc4b574db096a6e19f8bceb79fe78ba8fe85a608516f90a8f72d572cf0131b2e2661af6d186ad84c5921
   languageName: node
   linkType: hard
 
@@ -9618,9 +9618,9 @@ __metadata:
   linkType: hard
 
 "core-js@npm:^3.0.4, core-js@npm:^3.19.0, core-js@npm:^3.6.5, core-js@npm:^3.8.2":
-  version: 3.23.4
-  resolution: "core-js@npm:3.23.4"
-  checksum: 08e85e495f4d99df899978413dfd2e5e13233e64f9918cd8baa7fb30d82992ef9e0c6d47f7d5c25f581d9d6e7446dcb878d0c167e01344ffe6c20ab62d4bdd4c
+  version: 3.23.5
+  resolution: "core-js@npm:3.23.5"
+  checksum: ab9b483ede285b3949e2411f9190d147ac589d111b0aa3a4b2999a1bf2755b3e930529c2a22ff550efd4fc154c7cfae700bee858dedff905a09f35ddbcc6425f
   languageName: node
   linkType: hard
 
@@ -14355,13 +14355,6 @@ __metadata:
   dependencies:
     loose-envify: ^1.0.0
   checksum: 5af133a917c0bcf65e84e7f23e779e7abc1cd49cb7fdc62d00d1de74b0d8c1b5ee74ac7766099fb3be1b05b26dfc67bab76a17030d2fe7ea2eef867434362dfc
-  languageName: node
-  linkType: hard
-
-"ip@npm:^1.1.5":
-  version: 1.1.8
-  resolution: "ip@npm:1.1.8"
-  checksum: ab32a5ecfa678d4c158c1381c4c6744fce89a1d793e1b6635ba79d0753c069030b672d765887b6fff55670c711dfa47475895e5d6013efbbcf04687c51cb8db9
   languageName: node
   linkType: hard
 
@@ -21501,12 +21494,12 @@ __metadata:
   linkType: hard
 
 "socks@npm:^2.6.2":
-  version: 2.6.2
-  resolution: "socks@npm:2.6.2"
+  version: 2.7.0
+  resolution: "socks@npm:2.7.0"
   dependencies:
-    ip: ^1.1.5
+    ip: ^2.0.0
     smart-buffer: ^4.2.0
-  checksum: 3a97a3fa751d43294c1861bc3519bf3e3ebccc9136e690df96ee7b496b280a42fae3ae39480928ba7d940c1644737eab126502d433af026b209c57f1ca6cb7b3
+  checksum: 5cc9ea8d0f1fae370d7ac319b5dd8973fa24bc58d0194a8140687fd10be53a1f348b1b02b97932ce67ddae0edf459e5da0fe4b13cd5dd22ce46ac4d1a83239ec
   languageName: node
   linkType: hard
 

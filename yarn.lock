@@ -10228,9 +10228,9 @@ __metadata:
   linkType: hard
 
 "date-fns@npm:^2.0.1, date-fns@npm:^2.16.1":
-  version: 2.28.0
-  resolution: "date-fns@npm:2.28.0"
-  checksum: ecdacd36326e7f5f8c4f1e78ae931a8997109f1c841f5163053b866585ca899521b0e7a114eeb48a9fe5135a550787bd4bbd8baa321cded0b4d823f847889a80
+  version: 2.29.1
+  resolution: "date-fns@npm:2.29.1"
+  checksum: 9d6eabcfd5b2c8d8179baaa37a3f7248092d3c3ab1f37994270ea3f3aaf88419991e67c4bfcea4816492ddb2b7a31e106ff70e6089ae881f153d5fd2ef80874c
   languageName: node
   linkType: hard
 
@@ -10892,9 +10892,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.188":
-  version: 1.4.197
-  resolution: "electron-to-chromium@npm:1.4.197"
-  checksum: 669398cc8243de2e288b1e73676dcb05a7778443c02541037b483f990628dd5fb38a3182c7cba075294bd6e6a4a2350b178f68e42d317cc4001cabf6f5071390
+  version: 1.4.199
+  resolution: "electron-to-chromium@npm:1.4.199"
+  checksum: 8017519c00b7b45f996602093188ebe236790e1ad2f055c9499395efc323aee0227497ba03085581a3444d6a47a6771d068bad2c927a310fe854c771214e2342
   languageName: node
   linkType: hard
 

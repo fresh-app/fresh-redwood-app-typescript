@@ -2633,10 +2633,10 @@ __metadata:
   linkType: hard
 
 "@graphql-tools/prisma-loader@npm:^7.0.6":
-  version: 7.2.4
-  resolution: "@graphql-tools/prisma-loader@npm:7.2.4"
+  version: 7.2.5
+  resolution: "@graphql-tools/prisma-loader@npm:7.2.5"
   dependencies:
-    "@graphql-tools/url-loader": 7.12.4
+    "@graphql-tools/url-loader": 7.13.0
     "@graphql-tools/utils": 8.8.0
     "@types/js-yaml": ^4.0.0
     "@types/json-stable-stringify": ^1.0.32
@@ -2658,7 +2658,7 @@ __metadata:
     yaml-ast-parser: ^0.0.43
   peerDependencies:
     graphql: ^14.0.0 || ^15.0.0 || ^16.0.0 || ^17.0.0
-  checksum: 832c5b6e52683ec5ee994bacbcac29f1dfb73b0797a6c84d5e07cb7590bf42da9eb046155aef8de356a9ae909dc2af416f12847a0c9533156e65f90ca478aab8
+  checksum: a271dd6da9c602afa070756cbf15d66138a4f1d7bd77a5409bb7865b8e9a9ed60eeae33b7a9fda8defb6d12101956b72e428c2359c0965babc202b64e7e36050
   languageName: node
   linkType: hard
 
@@ -2703,9 +2703,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@graphql-tools/url-loader@npm:7.12.4, @graphql-tools/url-loader@npm:^7.0.11, @graphql-tools/url-loader@npm:^7.9.7":
-  version: 7.12.4
-  resolution: "@graphql-tools/url-loader@npm:7.12.4"
+"@graphql-tools/url-loader@npm:7.13.0, @graphql-tools/url-loader@npm:^7.0.11, @graphql-tools/url-loader@npm:^7.9.7":
+  version: 7.13.0
+  resolution: "@graphql-tools/url-loader@npm:7.13.0"
   dependencies:
     "@graphql-tools/delegate": 8.8.0
     "@graphql-tools/utils": 8.8.0
@@ -2724,7 +2724,7 @@ __metadata:
     ws: ^8.3.0
   peerDependencies:
     graphql: ^14.0.0 || ^15.0.0 || ^16.0.0 || ^17.0.0
-  checksum: 43c39fddf9f3f6e48bfc1d41d06f1f810cd5772f74e7e28e91cc8f1f679823be8d1d991f7f90e734d4d23d4c76920ebdd7394c0508d823fbc60021eb97985ad9
+  checksum: 6d4de845455aa0dd4056f5eb8370b80b7e9f786bc4ad5b9486181b5a8940871875f29c4a5af4d2d8313c2254e9d30d63cd6deb0d1ead33e6b635ce31764ae8ee
   languageName: node
   linkType: hard
 
@@ -8720,9 +8720,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001366":
-  version: 1.0.30001368
-  resolution: "caniuse-lite@npm:1.0.30001368"
-  checksum: 663f4f56eb6d5e52239cfff3b2ffeb1ee28e4789f6f780ce35a03a7c011bf77717a1cdd49c18c8da51c4c21bed6857db5fe0f83ea5d00bff5782ff5ebdd88012
+  version: 1.0.30001369
+  resolution: "caniuse-lite@npm:1.0.30001369"
+  checksum: 04d48ac7e74cc97ade8c45765e592d0c8ada91ce5218dd1b7993947e7844704632044e698037dd8c9c6b9d692c7602d1087b213886d43ceb7496c21b8958e6aa
   languageName: node
   linkType: hard
 

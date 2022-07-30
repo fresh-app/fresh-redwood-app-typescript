@@ -4099,9 +4099,9 @@ __metadata:
   linkType: hard
 
 "@sinclair/typebox@npm:^0.24.1":
-  version: 0.24.21
-  resolution: "@sinclair/typebox@npm:0.24.21"
-  checksum: c3ebfe1e457c2ed4e082e317448ee451f491635970f8d0e39c11ab9a1ec9ca4c4b705f0080e6f0524984f8a91d307c5a25d6e2dfa8f230e6de33c41802eb25d9
+  version: 0.24.22
+  resolution: "@sinclair/typebox@npm:0.24.22"
+  checksum: 89a6dc565637e2b55ec027c24aaa592fea067b12f52577eb9e5f0e59c713df6d7e642d4c9d7617df55d8ce04b3d970e646a5a8586a07beba72049a7b3321eba1
   languageName: node
   linkType: hard
 
@@ -5948,10 +5948,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/mime@npm:^1":
-  version: 1.3.2
-  resolution: "@types/mime@npm:1.3.2"
-  checksum: 61d144e5170c6cdf6de334ec0ee4bb499b1a0fb0233834a9e8cec6d289b0e3042bedf35cbc1c995d71a247635770dae3f13a9ddae69098bb54b933429bc08d35
+"@types/mime@npm:*":
+  version: 3.0.0
+  resolution: "@types/mime@npm:3.0.0"
+  checksum: 5ae792379637a1cbe81fb874a988fb4cb2ef9416af7231263a8103b0af33bc8fd096827f3f39e8940d54f361cdce83a50d91979ff58fb27a8869b52388241de3
   languageName: node
   linkType: hard
 
@@ -6147,12 +6147,12 @@ __metadata:
   linkType: hard
 
 "@types/serve-static@npm:*, @types/serve-static@npm:^1.13.10":
-  version: 1.13.10
-  resolution: "@types/serve-static@npm:1.13.10"
+  version: 1.15.0
+  resolution: "@types/serve-static@npm:1.15.0"
   dependencies:
-    "@types/mime": ^1
+    "@types/mime": "*"
     "@types/node": "*"
-  checksum: 7f3de245cbb11f3a9d7977b6e763585c6022ebfc079fa746f8d824411bb6b343521c1cff5407edc0d5196f4b7d6fea431fb36455843f4a6717d295c235065cf2
+  checksum: 2bdf7561c74175cc57c912d360fe763af0fc77a078f67d22cb515fa5b23db937314ffe1b5f96ca77c5e9de55b9d94277b7a3d288ff07067d6b2f83d004027430
   languageName: node
   linkType: hard
 
@@ -8452,7 +8452,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"browserslist@npm:^4.0.0, browserslist@npm:^4.12.0, browserslist@npm:^4.14.5, browserslist@npm:^4.16.6, browserslist@npm:^4.20.2, browserslist@npm:^4.20.3, browserslist@npm:^4.21.2":
+"browserslist@npm:^4.0.0, browserslist@npm:^4.12.0, browserslist@npm:^4.14.5, browserslist@npm:^4.16.6, browserslist@npm:^4.20.2, browserslist@npm:^4.20.3, browserslist@npm:^4.21.3":
   version: 4.21.3
   resolution: "browserslist@npm:4.21.3"
   dependencies:
@@ -9260,9 +9260,9 @@ __metadata:
   linkType: hard
 
 "code-block-writer@npm:^11.0.0":
-  version: 11.0.2
-  resolution: "code-block-writer@npm:11.0.2"
-  checksum: e0430e442ea36010bedccb69d45bec3d479161811e8e99bf0e635deecd54664bbdb33ac8375871b1b1f7e44d0fdaaf25dcc37c6d3a76847401022ba83567bc7a
+  version: 11.0.3
+  resolution: "code-block-writer@npm:11.0.3"
+  checksum: 12fe4c02152a2b607e8913b39dcc31dcb5240f7c8933a3335d4e42a5418af409bf7ed454c80d6d8c12f9c59bb685dd88f9467874b46be62236dfbed446d03fd6
   languageName: node
   linkType: hard
 
@@ -9656,19 +9656,19 @@ __metadata:
   linkType: hard
 
 "core-js-compat@npm:^3.18.0, core-js-compat@npm:^3.19.1, core-js-compat@npm:^3.20.0, core-js-compat@npm:^3.21.0, core-js-compat@npm:^3.22.1, core-js-compat@npm:^3.8.1":
-  version: 3.24.0
-  resolution: "core-js-compat@npm:3.24.0"
+  version: 3.24.1
+  resolution: "core-js-compat@npm:3.24.1"
   dependencies:
-    browserslist: ^4.21.2
+    browserslist: ^4.21.3
     semver: 7.0.0
-  checksum: 6337b654f82046cc8ebd47365524e576d297d1e5bc8b8c7a0ba3efc520597e724585c5ec8a5916d9f55fba06ab9b731cb4c801bdbfb37544aa840da0b5285a50
+  checksum: bfabf4126c549b10f88522b11d756f3764241bb9d737ed366556d959c2b77211031de0e2b6ad36b4fa8bb2fe0181360a892d8ae9b82bfd1ce0e171cf1ccb12be
   languageName: node
   linkType: hard
 
 "core-js-pure@npm:^3.19.0, core-js-pure@npm:^3.20.2, core-js-pure@npm:^3.8.1":
-  version: 3.24.0
-  resolution: "core-js-pure@npm:3.24.0"
-  checksum: 45f316ebad961215c3fe74db25e66f36ccac72fb7767edf13552a163c7ce2c46521e9cf34ce3d8dec9eb7c52abfe5b01774affa9f9e76916b84f699b2bc7b747
+  version: 3.24.1
+  resolution: "core-js-pure@npm:3.24.1"
+  checksum: ca967226169f5ca54ee56d3be90d4f3384f9d4b80af70e679134d8e662097a3f499fe6a546e4ea4cc9546d023878dd3bd9e67586ac77144a841e3a26ad28b58b
   languageName: node
   linkType: hard
 
@@ -9680,9 +9680,9 @@ __metadata:
   linkType: hard
 
 "core-js@npm:^3.0.4, core-js@npm:^3.19.0, core-js@npm:^3.6.5, core-js@npm:^3.8.2":
-  version: 3.24.0
-  resolution: "core-js@npm:3.24.0"
-  checksum: f10ed95215a0761608caa794f41fe7a599c00fd8cfe3197b6cc472bb5001b6c94c98699c03623551c38f7e44171cf95934d495cc293ef5ca8bc655db6fcd53f9
+  version: 3.24.1
+  resolution: "core-js@npm:3.24.1"
+  checksum: 92b435dbb6dd936fc624a83f93c3e4abd61b5617f8e3c259608452cbd70e1e4be3c56c389292cb58a37554c41c6dc49f1c6401467c35a2b22a3a903798fa5246
   languageName: node
   linkType: hard
 
@@ -9702,15 +9702,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cosmiconfig-typescript-loader@npm:3.0.0":
-  version: 3.0.0
-  resolution: "cosmiconfig-typescript-loader@npm:3.0.0"
+"cosmiconfig-typescript-loader@npm:^3.1.0":
+  version: 3.1.1
+  resolution: "cosmiconfig-typescript-loader@npm:3.1.1"
   peerDependencies:
     "@types/node": "*"
     cosmiconfig: ">=7"
     ts-node: ">=10"
     typescript: ">=3"
-  checksum: 8142174335eac3f0f393aebcc90fd3b6bf00af7701b58648ffa1d488ca0bd222da51a6bbf4a6490a42f490cb1f5a3850e86c0ed9b9df2897caf874ddb63fbb88
+  checksum: 32a1a9f0e73ab1365829c675ae38417b27c2fff511e267ed1641c1f92585bc459cfa0b7d923f973b4c341f2c0688dc54a52af3728a98c1e453fad09be108b969
   languageName: node
   linkType: hard
 
@@ -10936,9 +10936,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.202":
-  version: 1.4.205
-  resolution: "electron-to-chromium@npm:1.4.205"
-  checksum: 151ab95b6723b342773d55d34bd7fd46f0ea19b06a10b925ec3df3644bba67687285e87e4e68049b225aac2abe7ff6232e886b49b5b5fe81ff37a9ff463b3c89
+  version: 1.4.206
+  resolution: "electron-to-chromium@npm:1.4.206"
+  checksum: bf5666b60c91c98e4b4646cdcd355d0dba3e01cfdc1eafd2cda5c21e903f185c985d6fc8d4928177bd19e5ab45555a3b07a162af86080297704d33f04c34c0bc
   languageName: node
   linkType: hard
 
@@ -13237,8 +13237,8 @@ __metadata:
   linkType: hard
 
 "graphql-config@npm:^4.3.1":
-  version: 4.3.2
-  resolution: "graphql-config@npm:4.3.2"
+  version: 4.3.3
+  resolution: "graphql-config@npm:4.3.3"
   dependencies:
     "@graphql-tools/graphql-file-loader": ^7.3.7
     "@graphql-tools/json-file-loader": ^7.3.7
@@ -13248,13 +13248,13 @@ __metadata:
     "@graphql-tools/utils": ^8.6.5
     cosmiconfig: 7.0.1
     cosmiconfig-toml-loader: 1.0.0
-    cosmiconfig-typescript-loader: 3.0.0
+    cosmiconfig-typescript-loader: ^3.1.0
     minimatch: 4.2.1
     string-env-interpolation: 1.0.1
     ts-node: ^10.8.1
   peerDependencies:
     graphql: ^0.11.0 || ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0 || ^16.0.0
-  checksum: d80ba82101b80057e40db0e5b1156bacb4549a047a72aefe5c1b0c82d6ff86d141f6cdde95027207cb9ea245a107d8ff13bfa1e70a90faeb24d1ae2fff310bac
+  checksum: 9628ad140e9fbe7a50116a54cf0a207c3bdab23036f5dd2752080f97c10818773679ba38ec711d35f6c099f56ce5645b44e8e1eeb71a55066a4e745d207a8b85
   languageName: node
   linkType: hard
 
@@ -20872,9 +20872,9 @@ __metadata:
   linkType: hard
 
 "secure-json-parse@npm:^2.0.0, secure-json-parse@npm:^2.1.0":
-  version: 2.4.0
-  resolution: "secure-json-parse@npm:2.4.0"
-  checksum: c6a5dd90aa41c6110ac7c6e67c12e9a5cdd4465263a012ac6682460a1f9ce907b867c1829e3948a4e2771fa3b08dbfbd9b507c6524a61b5225e6b32dc7e6b830
+  version: 2.5.0
+  resolution: "secure-json-parse@npm:2.5.0"
+  checksum: 6fccd4130bc45bfbf4ac83be3a7fa7112a51147837159782c6c95138d7cdf3e15255227a3f335274da279de2ea914a852eca2d638238c5b52f0db6b501bbf52a
   languageName: node
   linkType: hard
 

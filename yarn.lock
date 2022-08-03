@@ -2587,10 +2587,10 @@ __metadata:
   linkType: hard
 
 "@graphql-tools/prisma-loader@npm:^7.2.2":
-  version: 7.2.7
-  resolution: "@graphql-tools/prisma-loader@npm:7.2.7"
+  version: 7.2.8
+  resolution: "@graphql-tools/prisma-loader@npm:7.2.8"
   dependencies:
-    "@graphql-tools/url-loader": 7.13.2
+    "@graphql-tools/url-loader": 7.13.3
     "@graphql-tools/utils": 8.9.0
     "@types/js-yaml": ^4.0.0
     "@types/json-stable-stringify": ^1.0.32
@@ -2611,7 +2611,7 @@ __metadata:
     yaml-ast-parser: ^0.0.43
   peerDependencies:
     graphql: ^14.0.0 || ^15.0.0 || ^16.0.0 || ^17.0.0
-  checksum: 997358141541d7d8068c0bc569a88826f70b5c9e4600fa4807316bc2e5470f80c01e3b825b126b99fbca444952728df85ab38601221ea04030d8104373552d19
+  checksum: 7a3db89462b15144b4b1df941df30af966b3242c027b05dda793fe5489c73a2aadc52811eb6f336a0d3bb81b078c760be1ca960c2c0c1bf605ad424c20ab1e8a
   languageName: node
   linkType: hard
 
@@ -2656,15 +2656,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@graphql-tools/url-loader@npm:7.13.2, @graphql-tools/url-loader@npm:^7.12.1, @graphql-tools/url-loader@npm:^7.9.7":
-  version: 7.13.2
-  resolution: "@graphql-tools/url-loader@npm:7.13.2"
+"@graphql-tools/url-loader@npm:7.13.3, @graphql-tools/url-loader@npm:^7.12.1, @graphql-tools/url-loader@npm:^7.9.7":
+  version: 7.13.3
+  resolution: "@graphql-tools/url-loader@npm:7.13.3"
   dependencies:
     "@ardatan/sync-fetch": 0.0.1
     "@graphql-tools/delegate": 8.8.1
     "@graphql-tools/utils": 8.9.0
     "@graphql-tools/wrap": 8.5.1
-    "@n1ru4l/graphql-live-query": ^0.9.0
+    "@n1ru4l/graphql-live-query": ^0.10.0
     "@types/ws": ^8.0.0
     "@whatwg-node/fetch": ^0.2.4
     dset: ^3.1.2
@@ -2677,7 +2677,7 @@ __metadata:
     ws: ^8.3.0
   peerDependencies:
     graphql: ^14.0.0 || ^15.0.0 || ^16.0.0 || ^17.0.0
-  checksum: e204c2bac238bef2c4fdf66cf2ad5849495b159e8bcd905e9d115a3d4df740bdcb8719906b341da8fd6aeaae49d070f63cab564780edbd6360fb308e9caedbd8
+  checksum: 0da3682f0d9f73a8aab296119428a87d686bb6f79a3cf086d51546a406e814c7e057d22c9813e999925b10be958d58a0ab9f5df2048cc870d4100583d82e0e3f
   languageName: node
   linkType: hard
 
@@ -3244,12 +3244,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@n1ru4l/graphql-live-query@npm:^0.9.0":
-  version: 0.9.0
-  resolution: "@n1ru4l/graphql-live-query@npm:0.9.0"
+"@n1ru4l/graphql-live-query@npm:^0.10.0":
+  version: 0.10.0
+  resolution: "@n1ru4l/graphql-live-query@npm:0.10.0"
   peerDependencies:
     graphql: ^15.4.0 || ^16.0.0
-  checksum: 680383b0234b57f0237d35a78c5716821b67e2f2e8d9942b9f9cbcbca21b5d8390cb7e1b5f0b70cbc7820fd15225f922e8dbd9eac9906d7851cba6838fee44b8
+  checksum: 972bea6d6e4dcc443e15c19f2da373fc01f7e6c8d366569075dc89dc94e55da5a4029d0e8cff289d208c43edcca5e112fe286c6601717ab42d428fc3d5c2dfae
   languageName: node
   linkType: hard
 
@@ -4107,9 +4107,9 @@ __metadata:
   linkType: hard
 
 "@sinclair/typebox@npm:^0.24.1":
-  version: 0.24.25
-  resolution: "@sinclair/typebox@npm:0.24.25"
-  checksum: 792538ea0996ab4cc9a55d801eb4ac27af4aeeb69670cdb3d6d70b4a618d10a734b01eb04b9973de6602dad666c8c860f3546bbc48871e6f53e1cb0ca5cf0349
+  version: 0.24.26
+  resolution: "@sinclair/typebox@npm:0.24.26"
+  checksum: c6afcd4e1e649d9a073ecd4a246698fad199427b329a1aa3394689d3de6b629c999fa0842ea71fde7b6d8f20855ea0ec608fa8375ae813c31d82b310a7f3edcd
   languageName: node
   linkType: hard
 
@@ -10955,9 +10955,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.202":
-  version: 1.4.207
-  resolution: "electron-to-chromium@npm:1.4.207"
-  checksum: 2b502827eb9dd497f918e40c32e4404834b94ba03ea762fae2925cdd10699c8f5320b74473cbf6a2dbc6d223a04d4cdaf62aad6b2dc3126d6d76436d572e7df5
+  version: 1.4.209
+  resolution: "electron-to-chromium@npm:1.4.209"
+  checksum: 8ffa656d45657ef29754f06193f0642eee1c63c5e1cb9b85c813d3aad1be2b6d073d078bc28e20363451cc314869c9b8acb23f1b57f013949f9fdccaf69ed8d8
   languageName: node
   linkType: hard
 
@@ -12210,9 +12210,9 @@ __metadata:
   linkType: hard
 
 "fastest-levenshtein@npm:^1.0.12":
-  version: 1.0.14
-  resolution: "fastest-levenshtein@npm:1.0.14"
-  checksum: c206947d3da9de570291bbf835f317866f6080e4372846d55b5f313078fc570332d3f40be12e66ed577c724d8654d9dd6ab36a15f178a426a3d45b4f5e24a3d8
+  version: 1.0.16
+  resolution: "fastest-levenshtein@npm:1.0.16"
+  checksum: 7e3d8ae812a7f4fdf8cad18e9cde436a39addf266a5986f653ea0d81e0de0900f50c0f27c6d5aff3f686bcb48acbd45be115ae2216f36a6a13a7dbbf5cad878b
   languageName: node
   linkType: hard
 
@@ -16642,9 +16642,9 @@ __metadata:
   linkType: hard
 
 "lru-cache@npm:^7.7.1":
-  version: 7.13.1
-  resolution: "lru-cache@npm:7.13.1"
-  checksum: 72034557cdb0d2ae32e5c1db928ee32b6d2b3a3e7b5aae2860f4f4c7272fefd4ebc5292a9df1dde10d07a78517836c49d84d8b101df13c100343bba80839c6cf
+  version: 7.13.2
+  resolution: "lru-cache@npm:7.13.2"
+  checksum: 0cdd0af28c745f8ed9267b5a2445fea29340050365d4605c0aeb0ae138ebaaae5d70fffd1dcf42effe3b3cd46e21b96d78ea80cb383137d12b2b83b98131d0da
   languageName: node
   linkType: hard
 

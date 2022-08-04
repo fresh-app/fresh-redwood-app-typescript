@@ -6797,8 +6797,8 @@ __metadata:
   linkType: hard
 
 "@whatwg-node/fetch@npm:^0.2.4":
-  version: 0.2.6
-  resolution: "@whatwg-node/fetch@npm:0.2.6"
+  version: 0.2.7
+  resolution: "@whatwg-node/fetch@npm:0.2.7"
   dependencies:
     "@peculiar/webcrypto": ^1.4.0
     abort-controller: ^3.0.0
@@ -6809,7 +6809,7 @@ __metadata:
     node-fetch: ^2.6.7
     undici: ^5.8.0
     web-streams-polyfill: ^3.2.0
-  checksum: f3290dfd09d7aadaa9586dc4ab50413b7595cb8884c3c6ad98021e6c6a0b8a8a9496f96f25cd72f01d2aaf538da93e9ac84cf2c83f3654f621edef06711e01b3
+  checksum: d01473f103c4e49361862380f5588ab74564758b1759243667d352e9ab6442f5dccac5199ca4c7be616c203d66c66db3e9ee6123c2bc922ca69e9a677c72a221
   languageName: node
   linkType: hard
 
@@ -10955,9 +10955,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.202":
-  version: 1.4.209
-  resolution: "electron-to-chromium@npm:1.4.209"
-  checksum: 8ffa656d45657ef29754f06193f0642eee1c63c5e1cb9b85c813d3aad1be2b6d073d078bc28e20363451cc314869c9b8acb23f1b57f013949f9fdccaf69ed8d8
+  version: 1.4.210
+  resolution: "electron-to-chromium@npm:1.4.210"
+  checksum: b644d3bb39b23d79c77a49d364141d6fe9f2c493d03c115415459e2121f34fff52372181d7cde3e800fb535e518c47ca542a7ecbcad41f1156d4f812508c2d4e
   languageName: node
   linkType: hard
 
@@ -22999,9 +22999,9 @@ __metadata:
   linkType: hard
 
 "undici@npm:^5.0.0, undici@npm:^5.8.0":
-  version: 5.8.0
-  resolution: "undici@npm:5.8.0"
-  checksum: caa7f9eaf002b737c0549055d56afe2f52101295091e44c76462ba7761b2ba51e35d74855bd6c9a99b74c89bc04915e4ce1eeb27988447c0818b186788303911
+  version: 5.8.1
+  resolution: "undici@npm:5.8.1"
+  checksum: 9f1285950f153c28ab9b7e39cf3d4b8d1701c8e2037bde8460adc5f1fa3d3d5ab4336994310fccc9ac6679f1dacdca016b760ea2328cdab41e5e340faa684fd7
   languageName: node
   linkType: hard
 
@@ -24439,7 +24439,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"yargs-parser@npm:21.0.1, yargs-parser@npm:^21.0.0":
+"yargs-parser@npm:21.0.1":
   version: 21.0.1
   resolution: "yargs-parser@npm:21.0.1"
   checksum: 384ca19e113a053bb7858cf47f891e630c10ea6ad91f9ad7cae84ea1cdfb09b155a2d0fa97b51116ee6f01e038faaa6c46964953afecd453fa64a761bb87475f
@@ -24460,6 +24460,13 @@ __metadata:
   version: 20.2.9
   resolution: "yargs-parser@npm:20.2.9"
   checksum: 0685a8e58bbfb57fab6aefe03c6da904a59769bd803a722bb098bd5b0f29d274a1357762c7258fb487512811b8063fb5d2824a3415a0a4540598335b3b086c72
+  languageName: node
+  linkType: hard
+
+"yargs-parser@npm:^21.0.0":
+  version: 21.1.0
+  resolution: "yargs-parser@npm:21.1.0"
+  checksum: be5d83d9358ad45de74373663657c243e918f3c66ed4f14a0758cbb6bd44bf6576fd411d0b445a37bea9a59b6226f9172984af8a054fd2cd86f0fdb90cca8980
   languageName: node
   linkType: hard
 

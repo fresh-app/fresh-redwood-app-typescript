@@ -225,13 +225,13 @@ __metadata:
   linkType: hard
 
 "@babel/generator@npm:^7.12.11, @babel/generator@npm:^7.12.5, @babel/generator@npm:^7.14.0, @babel/generator@npm:^7.16.7, @babel/generator@npm:^7.18.10, @babel/generator@npm:^7.7.2":
-  version: 7.18.10
-  resolution: "@babel/generator@npm:7.18.10"
+  version: 7.18.12
+  resolution: "@babel/generator@npm:7.18.12"
   dependencies:
     "@babel/types": ^7.18.10
     "@jridgewell/gen-mapping": ^0.3.2
     jsesc: ^2.5.1
-  checksum: 67bd9aa526e1f63409aecdc83a96900de2d914cfdd7871890e309ef214ef5fc50803b4374849e6336a113926f9f8870ceb1e8d42eb8d0eba0a89dd0a74128f04
+  checksum: 0a81453f3d6f458b6eeac046cb47b897674ea12ac7c72068faed1762aedade2290fbd139fcb605c4ea8386014aa87a0c96e609d8c469b434ab5923189e075ad1
   languageName: node
   linkType: hard
 
@@ -1573,15 +1573,15 @@ __metadata:
   linkType: hard
 
 "@babel/plugin-transform-typescript@npm:^7.16.7, @babel/plugin-transform-typescript@npm:^7.18.6":
-  version: 7.18.10
-  resolution: "@babel/plugin-transform-typescript@npm:7.18.10"
+  version: 7.18.12
+  resolution: "@babel/plugin-transform-typescript@npm:7.18.12"
   dependencies:
     "@babel/helper-create-class-features-plugin": ^7.18.9
     "@babel/helper-plugin-utils": ^7.18.9
     "@babel/plugin-syntax-typescript": ^7.18.6
   peerDependencies:
     "@babel/core": ^7.0.0-0
-  checksum: b51e8dc55bbb2820253ebd15895fc26f52647eb05f3980826eede306ad0a9347e75ee289bfc9df2af936a792284d00dc5607d0ec8ba477079bf9d587b05e657e
+  checksum: 8556001803935c589e94652e3ed59e298e7d7b2394b307b69301545df2bac64d0ce06f95343046ff7d84a79d1e8bcf10a32d47ec3682ff269115a434529ba6be
   languageName: node
   linkType: hard
 
@@ -2030,13 +2030,13 @@ __metadata:
   linkType: hard
 
 "@envelop/core@npm:^2.0.0":
-  version: 2.4.1
-  resolution: "@envelop/core@npm:2.4.1"
+  version: 2.4.2
+  resolution: "@envelop/core@npm:2.4.2"
   dependencies:
-    "@envelop/types": 2.3.0
+    "@envelop/types": 2.3.1
   peerDependencies:
     graphql: ^14.0.0 || ^15.0.0 || ^16.0.0
-  checksum: a0304e0afcfaadc0a4e7899c3f602f0614d161459101fe787e7a9265c24b397462d7ebee73ae700afdcff97bbdd92b1ca588f334afd6ee6794ed46514f99e828
+  checksum: 2a71b4f75c0a2faff88113d04c1bfbcb88008e03569e0fba61cd5232df630e7c85ff84ee9c39c4f691bbcf5ee7407f312baacdabd6488a7ff0c150a543204305
   languageName: node
   linkType: hard
 
@@ -2085,23 +2085,23 @@ __metadata:
   linkType: hard
 
 "@envelop/parser-cache@npm:^4.0.0":
-  version: 4.5.1
-  resolution: "@envelop/parser-cache@npm:4.5.1"
+  version: 4.5.2
+  resolution: "@envelop/parser-cache@npm:4.5.2"
   dependencies:
     lru-cache: ^6.0.0
   peerDependencies:
-    "@envelop/core": ^2.4.1
+    "@envelop/core": ^2.4.2
     graphql: ^14.0.0 || ^15.0.0 || ^16.0.0
-  checksum: b8f26f8df1cfe08fef6486f1ebe1656c7f441e72e4c07f41d756c240168f86acb15e7fa94ee8adcc69f1a9a43186456ee7d95190fb100ba748ce436ebe9046b2
+  checksum: e85d7ab631c7c8e38331b693e2cd4c87446e9fed660cddfb0240d309c9669c7f2df39d41d2e3db18cabe05287f9957d435af8504bd543260b3ee3d95e6121aeb
   languageName: node
   linkType: hard
 
-"@envelop/types@npm:2.3.0":
-  version: 2.3.0
-  resolution: "@envelop/types@npm:2.3.0"
+"@envelop/types@npm:2.3.1":
+  version: 2.3.1
+  resolution: "@envelop/types@npm:2.3.1"
   peerDependencies:
     graphql: ^14.0.0 || ^15.0.0 || ^16.0.0
-  checksum: 74252efe278a8a626ea748fb252477b2aed5ef489e314d75d477ff56ece13a8ca08e278e2b9cf9f9541eb5fe3a347c770084ed4ddb9a66679916a8f3a78c888e
+  checksum: 37055cd03e93e1e6f7f165a6e04aeea72b65f16cce9d690d4831da45581f83ce44123700b1b5241e1751f0f068ee04f67873041da8713a9f20e21aa730ee8fde
   languageName: node
   linkType: hard
 
@@ -2118,14 +2118,14 @@ __metadata:
   linkType: hard
 
 "@envelop/validation-cache@npm:^4.0.0":
-  version: 4.5.1
-  resolution: "@envelop/validation-cache@npm:4.5.1"
+  version: 4.5.2
+  resolution: "@envelop/validation-cache@npm:4.5.2"
   dependencies:
     lru-cache: ^6.0.0
   peerDependencies:
-    "@envelop/core": ^2.4.1
+    "@envelop/core": ^2.4.2
     graphql: ^14.0.0 || ^15.0.0 || ^16.0.0
-  checksum: 274af46fabffe93563fa2819efa85045ea3fa672d29408ae1948c475d0306a07cc2dc981d0bbed74e96c957e2f1090c97c1b8da0f982bbeeae235f95e13e40ad
+  checksum: 4d586259e7eec2741a390c91ba0a5419cf5859c5fac7127ecea85bcd7d85b56f8560871b8f24fd7565b7f49c93285dac657bad13023824fda9ffefb387676332
   languageName: node
   linkType: hard
 
@@ -6306,11 +6306,11 @@ __metadata:
   linkType: hard
 
 "@types/yargs@npm:^17.0.8":
-  version: 17.0.10
-  resolution: "@types/yargs@npm:17.0.10"
+  version: 17.0.11
+  resolution: "@types/yargs@npm:17.0.11"
   dependencies:
     "@types/yargs-parser": "*"
-  checksum: eb46d2c0dc7b3e1ccbf5a06ac217dc761ec8b9817c1fe6a15474476f86e90abc29c693f33221c28b0f20fa5f3028f44a0b1f040fc9f91f0124b9a88a7d2462a7
+  checksum: 323fd7b420ddc9cb1014d11949b559bfb60c9123df882e7b84d92cc057e17e6fdd5419daa373a96c8025d82828bc05bedc72ff087aeb6a845410a0985b07e3b5
   languageName: node
   linkType: hard
 
@@ -6797,8 +6797,8 @@ __metadata:
   linkType: hard
 
 "@whatwg-node/fetch@npm:^0.2.4":
-  version: 0.2.7
-  resolution: "@whatwg-node/fetch@npm:0.2.7"
+  version: 0.2.8
+  resolution: "@whatwg-node/fetch@npm:0.2.8"
   dependencies:
     "@peculiar/webcrypto": ^1.4.0
     abort-controller: ^3.0.0
@@ -6809,7 +6809,7 @@ __metadata:
     node-fetch: ^2.6.7
     undici: ^5.8.0
     web-streams-polyfill: ^3.2.0
-  checksum: d01473f103c4e49361862380f5588ab74564758b1759243667d352e9ab6442f5dccac5199ca4c7be616c203d66c66db3e9ee6123c2bc922ca69e9a677c72a221
+  checksum: 2ca0c0ce711c968626d51ac8a91198ea0a40f7fac12c49f4a7a75155c7f80a0b6d9c4deafd2206bd748009b50788a5acce400f554e0719183fdcb9c3be6f7d34
   languageName: node
   linkType: hard
 

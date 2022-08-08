@@ -6090,13 +6090,13 @@ __metadata:
   linkType: hard
 
 "@types/react@npm:*":
-  version: 18.0.15
-  resolution: "@types/react@npm:18.0.15"
+  version: 18.0.16
+  resolution: "@types/react@npm:18.0.16"
   dependencies:
     "@types/prop-types": "*"
     "@types/scheduler": "*"
     csstype: ^3.0.2
-  checksum: 359b63de6e418dba51f54258ef09cbc434141a92d5f24e3e606cafdc0b0f23a6fb5e410c3ec6ada87eb54b9a055b94d2305c5ab90e691dbce1ed82818a99aa60
+  checksum: 06e29bd0d6116e2e29b60347d25c34eb8eda0921b0f2e83d33ab9159bea5d8c492149501ab86cae3488ca29b32c2ca458e0431e71c28688fff3c8916d008ada7
   languageName: node
   linkType: hard
 

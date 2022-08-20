@@ -5806,12 +5806,12 @@ __metadata:
   linkType: hard
 
 "@types/eslint@npm:*":
-  version: 8.4.5
-  resolution: "@types/eslint@npm:8.4.5"
+  version: 8.4.6
+  resolution: "@types/eslint@npm:8.4.6"
   dependencies:
     "@types/estree": "*"
     "@types/json-schema": "*"
-  checksum: 81d4f9920d0ef0f694555fefe8c8b5f81cd0dfe52f4455afdc63eb724bbb0e033fc19a8bc580fb5674b6fbc8be2a2a516c370f020bbd3dd0d309cb716b1c70d6
+  checksum: 0f11bc8623ec4238ad999d7a1d05d57e28c962c0b127b3e632b9f9ba72dc882f45aa84191c6b4e19db65d4f31ee46841eea6b44cad91e08ff8dfb69da4ee4b88
   languageName: node
   linkType: hard
 
@@ -6035,9 +6035,9 @@ __metadata:
   linkType: hard
 
 "@types/lodash@npm:^4.14.167":
-  version: 4.14.183
-  resolution: "@types/lodash@npm:4.14.183"
-  checksum: ec68952eb81d15b3a98be9931bd94e16902b66127f3368dfe2db8fad808a28d8ad52de53fb98f5d4cbe4f0122d1fb054e7b72dc52c24b95045e929e9b06deee2
+  version: 4.14.184
+  resolution: "@types/lodash@npm:4.14.184"
+  checksum: 35e81d477603b319179b335b839865f7bc837afcfd08b5fedfe7e01a0a0f192599f7567ffa45dbf95bfa793f1e9f9bc4666f57f47f0b00fe171e857b9178aed9
   languageName: node
   linkType: hard
 
@@ -6082,9 +6082,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 18.7.6
-  resolution: "@types/node@npm:18.7.6"
-  checksum: eab4e2c362a266ad83b58ba0c44b146ce62b6a63c3133b957b3b408667048c09b50f47f2483e25d98f5d013da502d44df1b9d10442a921ab44951dcf0863cc55
+  version: 18.7.8
+  resolution: "@types/node@npm:18.7.8"
+  checksum: ce4d37ff77ef2e1a180a2a4fc26e4df4f5b7af39f555500aa2fbb96c364e67b36f65ef100be183ef1e4f382767265ae22f1c2d8eb1b40606a9fe8d03296889b8
   languageName: node
   linkType: hard
 
@@ -6096,9 +6096,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:^14.0.10 || ^16.0.0, @types/node@npm:^14.14.20 || ^16.0.0":
-  version: 16.11.49
-  resolution: "@types/node@npm:16.11.49"
-  checksum: 34b826274a2b1de1d61d0986027a8ae87b1b1bfbdc1846e0a5183b9d0d49438a2506368c4373a8f6ed17820121be6965cb4872cb6e73c7ee9dc4ac259554c408
+  version: 16.11.51
+  resolution: "@types/node@npm:16.11.51"
+  checksum: 2413396b109e36925d281f390956b3dfb8de45b4ddff2d8ab5f0af96b3e32e319af30e1a0f8819ec73ccb814364606d194eeb6bf2b0f3ffe5c7d67f2522c48fc
   languageName: node
   linkType: hard
 
@@ -11049,9 +11049,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.202":
-  version: 1.4.224
-  resolution: "electron-to-chromium@npm:1.4.224"
-  checksum: f404f902a1aa5ba57b8bae5ddec241dfbf1f6deea1c2801696e7c757d85f238aa8a7e907d4fb2eeb1193f3dbf6bc03ad1584517f9d87227bf8e54d4912199c0b
+  version: 1.4.225
+  resolution: "electron-to-chromium@npm:1.4.225"
+  checksum: 7e288d5fc5a09951c2e07fa55cf75b2f9e252bf5e304f24e8ab82984e47e20fe78030c3c08f4c2c0757e28d19701a6d555f0e0a0157c0d3c71e2267dcf0ceb65
   languageName: node
   linkType: hard
 
@@ -12672,9 +12672,9 @@ __metadata:
   linkType: hard
 
 "flatted@npm:^3.1.0":
-  version: 3.2.6
-  resolution: "flatted@npm:3.2.6"
-  checksum: cc86d6c699de3557ede84ae31d4a23f24f7800fd40904e1a1645f9a6a8f23d0267a0661fcbde801e7f36e065a481a512cb2ed53d150280d2049abd0a876d4e8b
+  version: 3.2.7
+  resolution: "flatted@npm:3.2.7"
+  checksum: 207a87c7abfc1ea6928ea16bac84f9eaa6d44d365620ece419e5c41cf44a5e9902b4c1f59c9605771b10e4565a0cb46e99d78e0464e8aabb42c97de880642257
   languageName: node
   linkType: hard
 
@@ -12787,12 +12787,12 @@ __metadata:
   linkType: hard
 
 "formdata-node@npm:^4.3.1":
-  version: 4.3.3
-  resolution: "formdata-node@npm:4.3.3"
+  version: 4.4.0
+  resolution: "formdata-node@npm:4.4.0"
   dependencies:
     node-domexception: 1.0.0
-    web-streams-polyfill: 4.0.0-beta.1
-  checksum: 8fd70c642003b40ee23a77cc312a89c39ef27ccbf0d7fad57f157aeeab944c1fabd3402f7958de2c8694d1dbd1b273aefd8423eeaddc2ab442a45ba1d78f7f48
+    web-streams-polyfill: 4.0.0-beta.2
+  checksum: ba08edd6de14ec049a1f49a9ad2f5f109ea0c7d0afdbbcf1dd2952038a6a77bf245b4ceec0f84dbd7a8deea11eb7d11904590acc7f4b676f83729df04841f835
   languageName: node
   linkType: hard
 
@@ -13424,11 +13424,11 @@ __metadata:
   linkType: hard
 
 "graphql-ws@npm:^5.4.1":
-  version: 5.10.0
-  resolution: "graphql-ws@npm:5.10.0"
+  version: 5.10.1
+  resolution: "graphql-ws@npm:5.10.1"
   peerDependencies:
     graphql: ">=0.11 <=16"
-  checksum: 1f21af84631bbab2440deb346b9f32749c82cb5fe8ed41a67dd679342b2c993d06ab04afc485767c3fd20659d97e21500032a622735c2a5211e9ff2be4927e2b
+  checksum: 53cc27c9bcf497fe26ab5be8205ac98f3b83d40d6c413ad578329d42a0e1f8912fb4cdd6df1e5015b1f96da01ccb2a7815b6e327806f740e6b14ff267680301d
   languageName: node
   linkType: hard
 
@@ -23712,10 +23712,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"web-streams-polyfill@npm:4.0.0-beta.1":
-  version: 4.0.0-beta.1
-  resolution: "web-streams-polyfill@npm:4.0.0-beta.1"
-  checksum: 4d7243a815c403d1960c78ff29411d12233a50beb90c87f95752b0e7cde24b2ae436ba9e5675a8b66922956ef06b50b1e651da59e2df23871833d1f68d4a2d95
+"web-streams-polyfill@npm:4.0.0-beta.2":
+  version: 4.0.0-beta.2
+  resolution: "web-streams-polyfill@npm:4.0.0-beta.2"
+  checksum: 294da8568d88e266acc9b793771083ba71436eaa43de1be39bcf28a4927f2c84367364e1da59e6fd400664d25b42ac8b2046590ca62a9f350e46ea3c11e01561
   languageName: node
   linkType: hard
 

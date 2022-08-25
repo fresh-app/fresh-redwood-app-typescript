@@ -2647,10 +2647,10 @@ __metadata:
   linkType: hard
 
 "@graphql-tools/prisma-loader@npm:^7.2.2":
-  version: 7.2.14
-  resolution: "@graphql-tools/prisma-loader@npm:7.2.14"
+  version: 7.2.15
+  resolution: "@graphql-tools/prisma-loader@npm:7.2.15"
   dependencies:
-    "@graphql-tools/url-loader": 7.13.9
+    "@graphql-tools/url-loader": 7.14.0
     "@graphql-tools/utils": 8.10.0
     "@types/js-yaml": ^4.0.0
     "@types/json-stable-stringify": ^1.0.32
@@ -2671,7 +2671,7 @@ __metadata:
     yaml-ast-parser: ^0.0.43
   peerDependencies:
     graphql: ^14.0.0 || ^15.0.0 || ^16.0.0 || ^17.0.0
-  checksum: ca1cf036912a71ae26fec3ada4640e1e94ba0d685fb7364abeb4c6e1bc9007e44470f9985d257ccb547f1c2226c37835ec15c6aba569d933bd1898a91228978d
+  checksum: 8f20dd840da06179a75a4e51630a36764bf13bde709563984ce6a7fbc3ff2241664c926afff5afa711eb21199f3687763267964e37da8b55bf70541662c84080
   languageName: node
   linkType: hard
 
@@ -2730,9 +2730,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@graphql-tools/url-loader@npm:7.13.9, @graphql-tools/url-loader@npm:^7.12.1, @graphql-tools/url-loader@npm:^7.9.7":
-  version: 7.13.9
-  resolution: "@graphql-tools/url-loader@npm:7.13.9"
+"@graphql-tools/url-loader@npm:7.14.0, @graphql-tools/url-loader@npm:^7.12.1, @graphql-tools/url-loader@npm:^7.9.7":
+  version: 7.14.0
+  resolution: "@graphql-tools/url-loader@npm:7.14.0"
   dependencies:
     "@ardatan/sync-fetch": 0.0.1
     "@graphql-tools/delegate": 9.0.3
@@ -2751,7 +2751,7 @@ __metadata:
     ws: ^8.3.0
   peerDependencies:
     graphql: ^14.0.0 || ^15.0.0 || ^16.0.0 || ^17.0.0
-  checksum: d3cbc0fec767c654cd3bcdb4e236bb45f1c5daecc4e30f3a287de534416b4e20abc489436d03046b3b48a8a200cbfca7c66b721ae6ee09bc307eed8c473a844a
+  checksum: 485a0346df4cc69568c01775976dd1be1cb360043ad876da6a158b6e8ce546bfe83d7d5faac004ee46bb58219c6ae29b9757a61338656bf574405231fbade339
   languageName: node
   linkType: hard
 
@@ -5966,12 +5966,12 @@ __metadata:
   linkType: hard
 
 "@types/jest@npm:*":
-  version: 28.1.7
-  resolution: "@types/jest@npm:28.1.7"
+  version: 28.1.8
+  resolution: "@types/jest@npm:28.1.8"
   dependencies:
     expect: ^28.0.0
     pretty-format: ^28.0.0
-  checksum: 5bf9341f0c6bd9a85fd63fbe40308a87162f741f1836dd9e9fbdbc566df1d4f2fc27ee3ec1f2130981353a277d23184a66782f39d244c95bd05c8bedb29ea248
+  checksum: e69912b4285bd3a0545521425e76cdee669d89c4918b2126157c084bf496da1d0cf007366d47b99a9c7076e6567e16917b28c2790a19a6e72a80570c359e4de1
   languageName: node
   linkType: hard
 
@@ -6021,11 +6021,11 @@ __metadata:
   linkType: hard
 
 "@types/jsonwebtoken@npm:^8.5.0":
-  version: 8.5.8
-  resolution: "@types/jsonwebtoken@npm:8.5.8"
+  version: 8.5.9
+  resolution: "@types/jsonwebtoken@npm:8.5.9"
   dependencies:
     "@types/node": "*"
-  checksum: 78b614aa06cb83e6751680448b78daac36bc8f24f7f52b7922e01295ff4b6c2917973e9a359de4219fcc274813f3ae1edc864771dab6cb1de5b68ff8d3d5d611
+  checksum: 4374b0f1b5641d1dd8847fa6f50bd34ec215f3244ea045556d2caa74ed559b2571502db73526bb8fbff038a60ff7e6bf56ffa79679c0b03539b55fda32617a23
   languageName: node
   linkType: hard
 
@@ -6068,7 +6068,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/minimatch@npm:*, @types/minimatch@npm:^3.0.3":
+"@types/minimatch@npm:*":
+  version: 5.1.0
+  resolution: "@types/minimatch@npm:5.1.0"
+  checksum: 0e17d0deaf6106f19a528ddd7c33a9b708eb1040c303b446d45398bbac213fd34126b14c9d2c23198493a11b79835111c95937ac0eea8bb6dd1af0d200f732dd
+  languageName: node
+  linkType: hard
+
+"@types/minimatch@npm:^3.0.3":
   version: 3.0.5
   resolution: "@types/minimatch@npm:3.0.5"
   checksum: a1a19ba342d6f39b569510f621ae4bbe972dc9378d15e9a5e47904c440ee60744f5b09225bc73be1c6490e3a9c938eee69eb53debf55ce1f15761201aa965f97
@@ -6093,9 +6100,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 18.7.11
-  resolution: "@types/node@npm:18.7.11"
-  checksum: 25f4392b2b13dca0eac8ed1b13b70ac616ac602b5de43e4a940dafbc3f0ffe9ef79cfbe527bb587290f5ebc224746110126affe2c1ffbd0966831a864b64ed59
+  version: 18.7.13
+  resolution: "@types/node@npm:18.7.13"
+  checksum: f8d847da6e6a25c43b7029c490f12bc91d2a48b148d0b47c60f85bc786e664cfa601ee47f7e9d7707b0d4f6539c1d8787de4c91b78e9d727e5f87bf42f2f0477
   languageName: node
   linkType: hard
 
@@ -6107,9 +6114,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:^14.0.10 || ^16.0.0, @types/node@npm:^14.14.20 || ^16.0.0":
-  version: 16.11.55
-  resolution: "@types/node@npm:16.11.55"
-  checksum: 4e256c2c7f60bbea38a710b1aa7907f1635cce25bb021436bd85595568091e64b9622d539fff70eb5b6d326a680779d8a1060b5c49215b6f4af70a15e57298bc
+  version: 16.11.56
+  resolution: "@types/node@npm:16.11.56"
+  checksum: 614595db032682b92b7a4e0479b352590e830a8e08cf0c1c004af8e045ce68991c102696aaade5306beb32e29943182c475d7531adfaf7d9fe4fbe6aaf6406c6
   languageName: node
   linkType: hard
 
@@ -9780,19 +9787,19 @@ __metadata:
   linkType: hard
 
 "core-js-compat@npm:^3.18.0, core-js-compat@npm:^3.19.1, core-js-compat@npm:^3.20.0, core-js-compat@npm:^3.21.0, core-js-compat@npm:^3.22.1, core-js-compat@npm:^3.8.1":
-  version: 3.24.1
-  resolution: "core-js-compat@npm:3.24.1"
+  version: 3.25.0
+  resolution: "core-js-compat@npm:3.25.0"
   dependencies:
     browserslist: ^4.21.3
     semver: 7.0.0
-  checksum: bfabf4126c549b10f88522b11d756f3764241bb9d737ed366556d959c2b77211031de0e2b6ad36b4fa8bb2fe0181360a892d8ae9b82bfd1ce0e171cf1ccb12be
+  checksum: 09aa99d4007fcf689b22d67d25049661db0051dea319d045b7b4c740f6a0fdee585428036078185861947b3e7fa71f1a5d09134532e461c43275fd8af297cd12
   languageName: node
   linkType: hard
 
 "core-js-pure@npm:^3.19.0, core-js-pure@npm:^3.20.2, core-js-pure@npm:^3.8.1":
-  version: 3.24.1
-  resolution: "core-js-pure@npm:3.24.1"
-  checksum: ca967226169f5ca54ee56d3be90d4f3384f9d4b80af70e679134d8e662097a3f499fe6a546e4ea4cc9546d023878dd3bd9e67586ac77144a841e3a26ad28b58b
+  version: 3.25.0
+  resolution: "core-js-pure@npm:3.25.0"
+  checksum: 987639f66d06ca514fa33a0691231d31bf834dd4521c659be20dea7d4c23edb4b4e5305d78f3b45c3221c3041ea770e80f14cfddde191e4bc5ef18a87cae90a0
   languageName: node
   linkType: hard
 
@@ -9804,9 +9811,9 @@ __metadata:
   linkType: hard
 
 "core-js@npm:^3.0.4, core-js@npm:^3.19.0, core-js@npm:^3.6.5, core-js@npm:^3.8.2":
-  version: 3.24.1
-  resolution: "core-js@npm:3.24.1"
-  checksum: 92b435dbb6dd936fc624a83f93c3e4abd61b5617f8e3c259608452cbd70e1e4be3c56c389292cb58a37554c41c6dc49f1c6401467c35a2b22a3a903798fa5246
+  version: 3.25.0
+  resolution: "core-js@npm:3.25.0"
+  checksum: 471c2706eaca7aca8c9021fdc714f818c27dc9a1d8e429dbad9f4e8e41884f74d32f2862951044c7b531d99c9b4cf32829790a478ffe21bcac9100afb3222096
   languageName: node
   linkType: hard
 
@@ -11060,9 +11067,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.202":
-  version: 1.4.228
-  resolution: "electron-to-chromium@npm:1.4.228"
-  checksum: 2f0c6582fa1aa63f050b5e4f27352166627ebb5ffd3a84291520729a4129e1bbe166be23d39f13f221c5d2951aebaaa7f24d51117ba05ede9001593f71839b81
+  version: 1.4.229
+  resolution: "electron-to-chromium@npm:1.4.229"
+  checksum: f0eb9bf40bdb2cad7adf7c53e5cd38e160bb282d79e3977ae79ec1305865b1c057c60faf8a9fd9bd99dcff53533ae4301c4eb2afbc62602913af1d3769b31a2e
   languageName: node
   linkType: hard
 
@@ -22696,14 +22703,14 @@ __metadata:
   linkType: hard
 
 "tough-cookie@npm:^4.0.0":
-  version: 4.1.0
-  resolution: "tough-cookie@npm:4.1.0"
+  version: 4.1.1
+  resolution: "tough-cookie@npm:4.1.1"
   dependencies:
     psl: ^1.1.33
     punycode: ^2.1.1
     universalify: ^0.2.0
     url-parse: ^1.5.3
-  checksum: 65655de22ad0563d954589b15ef541f6ef04411b0ec712f36871b45659c80c67a26304c3dbfdb0f2132837198dea58e677cb1ccf496ab415d93eb1e96b942862
+  checksum: a6ddfa89e08e2fcd743aa88324fd5713494279cea06adbe13187ded4d93a085340cb6650374ec21d1039a994f0a47104af03fa813120a7ef1dbf7a6740a2e7d0
   languageName: node
   linkType: hard
 

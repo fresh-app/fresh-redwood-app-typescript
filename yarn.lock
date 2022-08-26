@@ -7510,9 +7510,9 @@ __metadata:
   linkType: hard
 
 "aria-query@npm:^5.0.0":
-  version: 5.0.0
-  resolution: "aria-query@npm:5.0.0"
-  checksum: d8508a793e70bc8ef793c6df0adae1b337b60cd978974931e1a405e30b1356c822355950c9ad58271ea0353608a47d3b3a317667850d9c0ce227b0e88a8b2371
+  version: 5.0.2
+  resolution: "aria-query@npm:5.0.2"
+  checksum: fe1ce894c408b58a6bc9c905c7400ccf278944b1cc67be9766124324f1a2a78afdb07b90569faa2420a4f360dca7f641d3511ef42871b857b8079ac856a3b1bd
   languageName: node
   linkType: hard
 
@@ -8899,9 +8899,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001370":
-  version: 1.0.30001382
-  resolution: "caniuse-lite@npm:1.0.30001382"
-  checksum: 62a968f4eec32e08525f090225ca0a77ca3af8a28e5924bcc2831bbe54a96ac042a9c1088866f15a7331eb0a28e0e43a9f2dbc4b05b00cf9641899cf583659a0
+  version: 1.0.30001383
+  resolution: "caniuse-lite@npm:1.0.30001383"
+  checksum: f000bb620f5688a9445bf62c922cb66ff10abd82a577746013a74b54053037c4d4416ed9395f4e5d5051cae4d6bdae9f62e13cc0af4b6599550d5f152d8b0000
   languageName: node
   linkType: hard
 
@@ -11067,9 +11067,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.202":
-  version: 1.4.229
-  resolution: "electron-to-chromium@npm:1.4.229"
-  checksum: f0eb9bf40bdb2cad7adf7c53e5cd38e160bb282d79e3977ae79ec1305865b1c057c60faf8a9fd9bd99dcff53533ae4301c4eb2afbc62602913af1d3769b31a2e
+  version: 1.4.230
+  resolution: "electron-to-chromium@npm:1.4.230"
+  checksum: b51aaf523399d4bce0a0a218f8944599928a1ae634b528f57823096ed2fa2f1c13cce2cb5a988c1e14d482f2cd6f92bfeca8ab98ba399c53ce8fb1e29ec82970
   languageName: node
   linkType: hard
 
@@ -13339,11 +13339,11 @@ __metadata:
   linkType: hard
 
 "goober@npm:^2.1.10":
-  version: 2.1.10
-  resolution: "goober@npm:2.1.10"
+  version: 2.1.11
+  resolution: "goober@npm:2.1.11"
   peerDependencies:
     csstype: ^3.0.10
-  checksum: ed6263b46d99c8579f25aaa465939a6f3ad44ab87fc1e76d8a647b2d6f6979ad5372ecf327ce0036a56c1a72729b82064ebf3ddbd5fdb34c403e2e9b8809fb69
+  checksum: 6916ddf08285153f096e0328692b57c6a24c6e8e0938addfa2ea1a879b4106c89c3f0c4f31f37bf939c2c57847cfc428ef552607c092741065989a986288cb63
   languageName: node
   linkType: hard
 
@@ -22703,14 +22703,14 @@ __metadata:
   linkType: hard
 
 "tough-cookie@npm:^4.0.0":
-  version: 4.1.1
-  resolution: "tough-cookie@npm:4.1.1"
+  version: 4.1.2
+  resolution: "tough-cookie@npm:4.1.2"
   dependencies:
     psl: ^1.1.33
     punycode: ^2.1.1
     universalify: ^0.2.0
     url-parse: ^1.5.3
-  checksum: a6ddfa89e08e2fcd743aa88324fd5713494279cea06adbe13187ded4d93a085340cb6650374ec21d1039a994f0a47104af03fa813120a7ef1dbf7a6740a2e7d0
+  checksum: 1f9d97bc9ff22b41e107eca4a146064f916e567b5557795dbfe742f098557ba1101b8f7c4e02ac785236663f7f086c37dc595a5b9813ef8fb27f8d800dc9eb9b
   languageName: node
   linkType: hard
 
@@ -23180,20 +23180,29 @@ __metadata:
   linkType: hard
 
 "unique-filename@npm:^2.0.0":
-  version: 2.0.0
-  resolution: "unique-filename@npm:2.0.0"
+  version: 2.0.1
+  resolution: "unique-filename@npm:2.0.1"
   dependencies:
-    unique-slug: ^2.0.2
-  checksum: f92e5fb99da51ea090e8445a28122c6fe0b7f5ed93bb6958e22bea83cf78ba0c3a6ea62e3feb93f475ed2b10c13aa84403b53fc6ab7f8c33e3fc6ac0e5b4cf86
+    unique-slug: ^3.0.0
+  checksum: 55d95cd670c4a86117ebc34d394936d712d43b56db6bc511f9ca00f666373818bf9f075fb0ab76bcbfaf134592ef26bb75aad20786c1ff1ceba4457eaba90fb8
   languageName: node
   linkType: hard
 
-"unique-slug@npm:^2.0.0, unique-slug@npm:^2.0.2":
+"unique-slug@npm:^2.0.0":
   version: 2.0.2
   resolution: "unique-slug@npm:2.0.2"
   dependencies:
     imurmurhash: ^0.1.4
   checksum: 9eabc51680cf0b8b197811a48857e41f1364b25362300c1ff636c0eca5ec543a92a38786f59cf0697e62c6f814b11ecbe64e8093db71246468a1f03b80c83970
+  languageName: node
+  linkType: hard
+
+"unique-slug@npm:^3.0.0":
+  version: 3.0.0
+  resolution: "unique-slug@npm:3.0.0"
+  dependencies:
+    imurmurhash: ^0.1.4
+  checksum: 617240eb921af803b47d322d75a71a363dacf2e56c29ae5d1404fad85f64f4ec81ef10ee4fd79215d0202cbe1e5a653edb0558d59c9c81d3bd538c2d58e4c026
   languageName: node
   linkType: hard
 

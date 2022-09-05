@@ -4240,9 +4240,9 @@ __metadata:
   linkType: hard
 
 "@sinclair/typebox@npm:^0.24.1":
-  version: 0.24.34
-  resolution: "@sinclair/typebox@npm:0.24.34"
-  checksum: 8d25f098377dc171b5710dc60b0738ab141df2f96ae0d76f486f6f5f002f657b205e1655ea763ee49ba9c52306d59e0a442e5e60de1302d5a9edfbdddd41f634
+  version: 0.24.35
+  resolution: "@sinclair/typebox@npm:0.24.35"
+  checksum: 3148c53ed85ce961ed057f46941f078aa650fccbee8fd62e756ab404d29b07f81c5c8aa8a875811f2aa60f92bf821b0d3c2b7c701a5d930a0680470930a1ed9e
   languageName: node
   linkType: hard
 
@@ -8954,9 +8954,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001370":
-  version: 1.0.30001388
-  resolution: "caniuse-lite@npm:1.0.30001388"
-  checksum: 5e410a50ee19dd9adfb7d9303c38e4cde1759cebfd79aa2d0e755067c8bf3517af5023a03dbf6a27bc054aea34ad6518a4a8a12f649f9ba8a9e6c4bb96078832
+  version: 1.0.30001390
+  resolution: "caniuse-lite@npm:1.0.30001390"
+  checksum: f431c705f3a3d17e594bc11e643b20a924ed8f5a352d55b1be29b7be1dab6da37761d095441878c5f2f07e908ff2239eeec75a3a0b30b6f4393f69277fd32849
   languageName: node
   linkType: hard
 

@@ -4241,9 +4241,9 @@ __metadata:
   linkType: hard
 
 "@sinclair/typebox@npm:^0.24.1":
-  version: 0.24.35
-  resolution: "@sinclair/typebox@npm:0.24.35"
-  checksum: 3148c53ed85ce961ed057f46941f078aa650fccbee8fd62e756ab404d29b07f81c5c8aa8a875811f2aa60f92bf821b0d3c2b7c701a5d930a0680470930a1ed9e
+  version: 0.24.37
+  resolution: "@sinclair/typebox@npm:0.24.37"
+  checksum: 955b62b0c1cef8a56da29e6e7032225d1e4716348b3f5ef96b1a8cbbd15cddbdcb854bc7f52664305ac746b8d2cc091f69d414736ab5c0ca2ec9f94171af4082
   languageName: node
   linkType: hard
 
@@ -21117,11 +21117,11 @@ __metadata:
   linkType: hard
 
 "selfsigned@npm:^2.0.1":
-  version: 2.0.1
-  resolution: "selfsigned@npm:2.0.1"
+  version: 2.1.1
+  resolution: "selfsigned@npm:2.1.1"
   dependencies:
     node-forge: ^1
-  checksum: 3f5d5b88f072db51d1c8184db571a466c5a60d46f888dee62b7396c9c27a10cc98c151fde5441140da29abc493a82530666911468d3a57bd8c6d81b8e6a8f830
+  checksum: 4a2509c8a5bd49c3630a799de66b317352b52746bec981133d4f8098365da35d2344f0fbedf14aacf2cd1e88682048e2df11ad9dc59331d3b1c0a5ec3e6e16ad
   languageName: node
   linkType: hard
 
@@ -22293,12 +22293,12 @@ __metadata:
   linkType: hard
 
 "supports-hyperlinks@npm:^2.0.0":
-  version: 2.2.0
-  resolution: "supports-hyperlinks@npm:2.2.0"
+  version: 2.3.0
+  resolution: "supports-hyperlinks@npm:2.3.0"
   dependencies:
     has-flag: ^4.0.0
     supports-color: ^7.0.0
-  checksum: 022677b8891c75bfdab99cf471248ddc823c666c6d5811fbee1257d502cdfb0047c5a3b3fd34854da7b688716af921470abdeabbe80fb035ae1157f457134b48
+  checksum: 4057f0d86afb056cd799602f72d575b8fdd79001c5894bcb691176f14e870a687e7981e50bc1484980e8b688c6d5bcd4931e1609816abb5a7dc1486b7babf6a1
   languageName: node
   linkType: hard
 

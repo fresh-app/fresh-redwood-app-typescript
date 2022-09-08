@@ -4241,9 +4241,9 @@ __metadata:
   linkType: hard
 
 "@sinclair/typebox@npm:^0.24.1":
-  version: 0.24.37
-  resolution: "@sinclair/typebox@npm:0.24.37"
-  checksum: 955b62b0c1cef8a56da29e6e7032225d1e4716348b3f5ef96b1a8cbbd15cddbdcb854bc7f52664305ac746b8d2cc091f69d414736ab5c0ca2ec9f94171af4082
+  version: 0.24.38
+  resolution: "@sinclair/typebox@npm:0.24.38"
+  checksum: db1317e03b4371ce593174c7156c217786a878c7b9f256b73618fcd21b1cad6e0230765b0000b60f9b55bde67004348971cae5a56b9b7f2bc86c8c899857e602
   languageName: node
   linkType: hard
 
@@ -6139,9 +6139,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 18.7.15
-  resolution: "@types/node@npm:18.7.15"
-  checksum: e9b4a79220482430cc3826b66db6b540d2a5733b07c9ec565eb82cdbaea2d699810f7fb719f1474fffb930653277c8c8f839208d0a05a96b80c17283dd451fdd
+  version: 18.7.16
+  resolution: "@types/node@npm:18.7.16"
+  checksum: fa79482f4772ec80054df492bd81f6064790ea84f99bd02faaf126caecf92673612abd33199f6c3f6fdc9b40d9d422346210821b67b3d6f678ac717c65a954a7
   languageName: node
   linkType: hard
 
@@ -6153,9 +6153,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:^14.0.10 || ^16.0.0, @types/node@npm:^14.14.20 || ^16.0.0":
-  version: 16.11.57
-  resolution: "@types/node@npm:16.11.57"
-  checksum: 6c2d1d9601586f040b9c4794dbdf7b507a8b3055e8153eb4a6031fda010079ec49612aa146d297bf7186868b05c7dcca99daf942a6e2dda4347115876d3f8f09
+  version: 16.11.58
+  resolution: "@types/node@npm:16.11.58"
+  checksum: 1f2076c1eca0c767acfa5ff7f766ed49569324567fc1db19bf11363323ee8cada13ddfa84ec8f041dc1f04f57c83f1d2ca18eb8f06bd489459a136f794ee9dd0
   languageName: node
   linkType: hard
 
@@ -9843,19 +9843,18 @@ __metadata:
   linkType: hard
 
 "core-js-compat@npm:^3.18.0, core-js-compat@npm:^3.19.1, core-js-compat@npm:^3.20.0, core-js-compat@npm:^3.21.0, core-js-compat@npm:^3.22.1, core-js-compat@npm:^3.8.1":
-  version: 3.25.0
-  resolution: "core-js-compat@npm:3.25.0"
+  version: 3.25.1
+  resolution: "core-js-compat@npm:3.25.1"
   dependencies:
     browserslist: ^4.21.3
-    semver: 7.0.0
-  checksum: 09aa99d4007fcf689b22d67d25049661db0051dea319d045b7b4c740f6a0fdee585428036078185861947b3e7fa71f1a5d09134532e461c43275fd8af297cd12
+  checksum: c95e6ec50e6abcdd77e19ddd12aa0850ce82c1a40c193e9d70282597c777e4d6c6725c0c536a3aaaf1f6d6ab01ddcc80a15013b8022febf657eba44bb2caea60
   languageName: node
   linkType: hard
 
 "core-js-pure@npm:^3.19.0, core-js-pure@npm:^3.20.2, core-js-pure@npm:^3.8.1":
-  version: 3.25.0
-  resolution: "core-js-pure@npm:3.25.0"
-  checksum: 987639f66d06ca514fa33a0691231d31bf834dd4521c659be20dea7d4c23edb4b4e5305d78f3b45c3221c3041ea770e80f14cfddde191e4bc5ef18a87cae90a0
+  version: 3.25.1
+  resolution: "core-js-pure@npm:3.25.1"
+  checksum: 8bf25eaa52045a9e8cf7602ba2b4e8af5ccbb920e36df0c479bcbf2b8c9b1048d996f1474077d82b03e8d1ede0078b9984d031af165b7aec873f9957b2cfac8f
   languageName: node
   linkType: hard
 
@@ -9867,9 +9866,9 @@ __metadata:
   linkType: hard
 
 "core-js@npm:^3.0.4, core-js@npm:^3.19.0, core-js@npm:^3.6.5, core-js@npm:^3.8.2":
-  version: 3.25.0
-  resolution: "core-js@npm:3.25.0"
-  checksum: 471c2706eaca7aca8c9021fdc714f818c27dc9a1d8e429dbad9f4e8e41884f74d32f2862951044c7b531d99c9b4cf32829790a478ffe21bcac9100afb3222096
+  version: 3.25.1
+  resolution: "core-js@npm:3.25.1"
+  checksum: 02a81cfb63726eca66ee5f8588c11b2ac55713f5956158ed57e07982296c8bb4fc0bf32394dea5b6496d2965377aade3a7f9c78aaadde907e6aa3ee2b7f58dc0
   languageName: node
   linkType: hard
 
@@ -11130,9 +11129,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.202":
-  version: 1.4.242
-  resolution: "electron-to-chromium@npm:1.4.242"
-  checksum: f9b1936bdce5e9a9fa8c3b1529d0065cb626b6fb3b8b417591fd62365c720fdebc2ae1ce63f916a046bb836b7d7e202086f841fae9515222e9cf1b58c6b8849b
+  version: 1.4.243
+  resolution: "electron-to-chromium@npm:1.4.243"
+  checksum: 4f3daad145f56998717e29129d89f6f50ee4170245ca7ae34a31c30258699084f5970fb905ac83a04a5b9418394f38c330921fac33c648067d31cd3e6d1b7da2
   languageName: node
   linkType: hard
 
@@ -21141,15 +21140,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"semver@npm:7.0.0, semver@npm:~7.0.0":
-  version: 7.0.0
-  resolution: "semver@npm:7.0.0"
-  bin:
-    semver: bin/semver.js
-  checksum: 7fd341680a967a0abfd66f3a7d36ba44e52ff5d3e799e9a6cdb01a68160b64ef09be82b4af05459effeecdd836f002c2462555d2821cd890dfdfe36a0d9f56a5
-  languageName: node
-  linkType: hard
-
 "semver@npm:^6.0.0, semver@npm:^6.1.1, semver@npm:^6.1.2, semver@npm:^6.2.0, semver@npm:^6.3.0":
   version: 6.3.0
   resolution: "semver@npm:6.3.0"
@@ -21167,6 +21157,15 @@ __metadata:
   bin:
     semver: bin/semver.js
   checksum: cffd30102de68a9f8cac9ef57b43c2173dc999da4fc5189872b421f9c9e2660f70243b8e964781ac6dc48ba2542647bb672beeb4d756c89c4a9e05e1144fa40a
+  languageName: node
+  linkType: hard
+
+"semver@npm:~7.0.0":
+  version: 7.0.0
+  resolution: "semver@npm:7.0.0"
+  bin:
+    semver: bin/semver.js
+  checksum: 7fd341680a967a0abfd66f3a7d36ba44e52ff5d3e799e9a6cdb01a68160b64ef09be82b4af05459effeecdd836f002c2462555d2821cd890dfdfe36a0d9f56a5
   languageName: node
   linkType: hard
 

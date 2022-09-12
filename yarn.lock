@@ -5995,12 +5995,12 @@ __metadata:
   linkType: hard
 
 "@types/jest@npm:*":
-  version: 29.0.0
-  resolution: "@types/jest@npm:29.0.0"
+  version: 29.0.1
+  resolution: "@types/jest@npm:29.0.1"
   dependencies:
     expect: ^29.0.0
     pretty-format: ^29.0.0
-  checksum: 86cdb71397b6c353ab8752adde6bd494a0340b22e01598e2cccfc8ce76f5824cd702188436b369457f6d9ac8b68d84d9adeabf971bbc2006ab3c62f140765d0a
+  checksum: 3b98024aa2a9e3e289cc05f549975ba25b22833a2655c0fd561bec3485df385fb2ee9a3d1de6ad9366781114106ad2c31f331951c8745a531899d91bcc45e94b
   languageName: node
   linkType: hard
 
@@ -6075,9 +6075,9 @@ __metadata:
   linkType: hard
 
 "@types/lodash@npm:^4.14.167":
-  version: 4.14.184
-  resolution: "@types/lodash@npm:4.14.184"
-  checksum: 35e81d477603b319179b335b839865f7bc837afcfd08b5fedfe7e01a0a0f192599f7567ffa45dbf95bfa793f1e9f9bc4666f57f47f0b00fe171e857b9178aed9
+  version: 4.14.185
+  resolution: "@types/lodash@npm:4.14.185"
+  checksum: 5e2bc6f2e211c43b4b52ba309c10d87e62b089291978879a29b1650873c274db4c93b282273298e435345c549cc7f2f90b97029c6149f9f294cd44c55aad13b3
   languageName: node
   linkType: hard
 
@@ -8945,9 +8945,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001370":
-  version: 1.0.30001393
-  resolution: "caniuse-lite@npm:1.0.30001393"
-  checksum: 975746e6015ecf3fcb5d937cfe1b5cb2250dda0bd65f206795edbea5b3d1a760adf78834a9ff7336f29fc6c7c9e5ca8ead930188bc4829339ac748fa54593817
+  version: 1.0.30001396
+  resolution: "caniuse-lite@npm:1.0.30001396"
+  checksum: 7214662f18741c3f48bf490ce915692daa2933f0a5fe815048df7d96905bcdd54b41ff03fbf20a5c336cc38e10df99990dedfeb933fe1956c513dc1178c89bbd
   languageName: node
   linkType: hard
 

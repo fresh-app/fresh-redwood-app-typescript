@@ -2095,13 +2095,13 @@ __metadata:
   linkType: hard
 
 "@fastify/ajv-compiler@npm:^3.1.1":
-  version: 3.3.0
-  resolution: "@fastify/ajv-compiler@npm:3.3.0"
+  version: 3.3.1
+  resolution: "@fastify/ajv-compiler@npm:3.3.1"
   dependencies:
     ajv: ^8.11.0
     ajv-formats: ^2.1.1
     fast-uri: ^2.0.0
-  checksum: 9fc7461830c9271772d8d6b72fdd6015aab5b2c0e37245a451d8f0d9f7108f6d2c86fd8fd7212eab729a4a6179a001394211fda6c8674940e5da0e2f8a4c96ab
+  checksum: 67bcac52ea56c8f89c20c12523cd1556c994c7b1bdc817fa7479f8711f684766c8d8b992398521a11e09e026564046f860cdb3fbb4163840caf79450889b1e40
   languageName: node
   linkType: hard
 
@@ -8548,7 +8548,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"browserslist@npm:^4.0.0, browserslist@npm:^4.12.0, browserslist@npm:^4.14.5, browserslist@npm:^4.16.6, browserslist@npm:^4.20.3, browserslist@npm:^4.21.3":
+"browserslist@npm:^4.0.0, browserslist@npm:^4.12.0, browserslist@npm:^4.14.5, browserslist@npm:^4.16.6, browserslist@npm:^4.20.3, browserslist@npm:^4.21.3, browserslist@npm:^4.21.4":
   version: 4.21.4
   resolution: "browserslist@npm:4.21.4"
   dependencies:
@@ -9759,25 +9759,32 @@ __metadata:
   linkType: hard
 
 "core-js-compat@npm:^3.21.0, core-js-compat@npm:^3.22.1, core-js-compat@npm:^3.25.1, core-js-compat@npm:^3.8.1":
-  version: 3.25.1
-  resolution: "core-js-compat@npm:3.25.1"
+  version: 3.25.2
+  resolution: "core-js-compat@npm:3.25.2"
   dependencies:
-    browserslist: ^4.21.3
-  checksum: c95e6ec50e6abcdd77e19ddd12aa0850ce82c1a40c193e9d70282597c777e4d6c6725c0c536a3aaaf1f6d6ab01ddcc80a15013b8022febf657eba44bb2caea60
+    browserslist: ^4.21.4
+  checksum: 3692f9c5ae04c5ed19229b8411ddd62cd40169758aa230daf03e914ba144b2ebe192472f2b3cd2a84b11e5bab3a99acc544251bfe4840fc603556ed812063ee9
   languageName: node
   linkType: hard
 
 "core-js-pure@npm:^3.20.2, core-js-pure@npm:^3.25.1, core-js-pure@npm:^3.8.1":
-  version: 3.25.1
-  resolution: "core-js-pure@npm:3.25.1"
-  checksum: 8bf25eaa52045a9e8cf7602ba2b4e8af5ccbb920e36df0c479bcbf2b8c9b1048d996f1474077d82b03e8d1ede0078b9984d031af165b7aec873f9957b2cfac8f
+  version: 3.25.2
+  resolution: "core-js-pure@npm:3.25.2"
+  checksum: da9840beba29db5e0ca29257cd526bb159b6c7bcd246a3d85fe9699b8be60221c60999c3eff4918f18fa3ba28a28e4fea2e979c63bea63c9607799a3c0878a66
   languageName: node
   linkType: hard
 
-"core-js@npm:3.25.1, core-js@npm:^3.0.4, core-js@npm:^3.22.1, core-js@npm:^3.6.5, core-js@npm:^3.8.2":
+"core-js@npm:3.25.1":
   version: 3.25.1
   resolution: "core-js@npm:3.25.1"
   checksum: 02a81cfb63726eca66ee5f8588c11b2ac55713f5956158ed57e07982296c8bb4fc0bf32394dea5b6496d2965377aade3a7f9c78aaadde907e6aa3ee2b7f58dc0
+  languageName: node
+  linkType: hard
+
+"core-js@npm:^3.0.4, core-js@npm:^3.22.1, core-js@npm:^3.6.5, core-js@npm:^3.8.2":
+  version: 3.25.2
+  resolution: "core-js@npm:3.25.2"
+  checksum: b9a8cc47f2455f1c9ac4d4292b4c1f5a4139ef6146273e20306b160fd4042d9cdd6eddd90721b136e9d093a71c91cedb42a2580d4a0cc25fe475baff0c2ae207
   languageName: node
   linkType: hard
 

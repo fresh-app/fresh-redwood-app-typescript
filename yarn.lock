@@ -5468,8 +5468,8 @@ __metadata:
   linkType: hard
 
 "@testing-library/dom@npm:^8.0.0, @testing-library/dom@npm:^8.11.1":
-  version: 8.18.0
-  resolution: "@testing-library/dom@npm:8.18.0"
+  version: 8.18.1
+  resolution: "@testing-library/dom@npm:8.18.1"
   dependencies:
     "@babel/code-frame": ^7.10.4
     "@babel/runtime": ^7.12.5
@@ -5479,7 +5479,7 @@ __metadata:
     dom-accessibility-api: ^0.5.9
     lz-string: ^1.4.4
     pretty-format: ^27.0.2
-  checksum: b0c7bc19486dd7e09c4321b2da674a3933587c1b2b6fafb21773d9ef835be5dae67c88b5274e832ec51fecf552413e516b2dd2d410058db194f623d6c6ebf6bb
+  checksum: f5423d18c02bba4f202f5d59c6e08d8a4a17bff79d1269a98604f5cdf80195e338b0dcbbf53eaa78ae1068ea000cec8834ce0b3e12cdbab43a9281b47f6fcba3
   languageName: node
   linkType: hard
 
@@ -8864,9 +8864,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001400":
-  version: 1.0.30001402
-  resolution: "caniuse-lite@npm:1.0.30001402"
-  checksum: 1d526aa0e6c63d948b2f8e8c64a1db08568e0b2c3002ed704e1fc15a7e89aced32229673c8f386bb8cd754950e91ef8de37012fb60b7da7cba96570fe7c95520
+  version: 1.0.30001406
+  resolution: "caniuse-lite@npm:1.0.30001406"
+  checksum: e5f0503e5630bd11b7907c30d4a4fc02be0cc34d594ebdf8386212937652f6edf96fa33192dff7691527f1c1572a8d26df2138a8a9c53851fb2eb458f0e055c7
   languageName: node
   linkType: hard
 
@@ -11008,9 +11008,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.251":
-  version: 1.4.254
-  resolution: "electron-to-chromium@npm:1.4.254"
-  checksum: 518ad25b68b6b13f80227316cf124c63a9c02177f92535e1138204dc01d67cf0bf5b453a467b0d0a5163fdbf63cb0eeb037409cdccd7206774ea1858f78c2eff
+  version: 1.4.255
+  resolution: "electron-to-chromium@npm:1.4.255"
+  checksum: 06b0d32bb3837f22ed3e8bacb6aec9a6cd84d26fa139d00b7f5a895c4c957c32d96ecdac3c228f54ad1ef036b31d5f5bc2591260c2b385604e85e48d46fae877
   languageName: node
   linkType: hard
 
@@ -18626,7 +18626,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"pino@npm:8.5.0, pino@npm:^8.0.0":
+"pino@npm:8.5.0":
   version: 8.5.0
   resolution: "pino@npm:8.5.0"
   dependencies:
@@ -18644,6 +18644,27 @@ __metadata:
   bin:
     pino: bin.js
   checksum: f73e539fadc4b208083b70c80d833f7f3019d1032ae128dd6981c4a825ea5c038e55c4758006378e8086f8fd856628a80308b4c0bb09828d9cba81f6c4381d88
+  languageName: node
+  linkType: hard
+
+"pino@npm:^8.0.0":
+  version: 8.6.0
+  resolution: "pino@npm:8.6.0"
+  dependencies:
+    atomic-sleep: ^1.0.0
+    fast-redact: ^3.1.1
+    on-exit-leak-free: ^2.1.0
+    pino-abstract-transport: v1.0.0
+    pino-std-serializers: ^6.0.0
+    process-warning: ^2.0.0
+    quick-format-unescaped: ^4.0.3
+    real-require: ^0.2.0
+    safe-stable-stringify: ^2.3.1
+    sonic-boom: ^3.1.0
+    thread-stream: ^2.0.0
+  bin:
+    pino: bin.js
+  checksum: ac0136b54031484c2e2cb8da9c5ac7f494d50871df9ec13e16d6da0614add3ab8be8a583e6caf8172c6d7ec02749178d35829380128ad578b07f4dde7e4ccbd8
   languageName: node
   linkType: hard
 
@@ -22786,11 +22807,11 @@ __metadata:
   linkType: hard
 
 "uglify-js@npm:^3.1.4":
-  version: 3.17.0
-  resolution: "uglify-js@npm:3.17.0"
+  version: 3.17.1
+  resolution: "uglify-js@npm:3.17.1"
   bin:
     uglifyjs: bin/uglifyjs
-  checksum: 92a4ff1a26135eb124b4fc0b0d7c18ae5115f1c11927bb3a2530f60e2d3f8f256b8ce2186dd9fe432612f980d8a6ca096c9c723dce368bd44f7b9f24a2b4c4cd
+  checksum: 2d6922b0a5e13fdacbad530e2743dc8c45af1bca9b1569c6de066dd0912508d18aebd8fabf75187be59fbbbef41b6955f77035703e9488f804c910cfa4c5a08a
   languageName: node
   linkType: hard
 

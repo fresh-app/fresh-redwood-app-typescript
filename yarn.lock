@@ -2258,8 +2258,8 @@ __metadata:
   linkType: hard
 
 "@graphql-codegen/plugin-helpers@npm:^2.6.2":
-  version: 2.7.0
-  resolution: "@graphql-codegen/plugin-helpers@npm:2.7.0"
+  version: 2.7.1
+  resolution: "@graphql-codegen/plugin-helpers@npm:2.7.1"
   dependencies:
     "@graphql-tools/utils": ^8.8.0
     change-case-all: 1.0.14
@@ -2269,7 +2269,7 @@ __metadata:
     tslib: ~2.4.0
   peerDependencies:
     graphql: ^0.8.0 || ^0.9.0 || ^0.10.0 || ^0.11.0 || ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0 || ^16.0.0
-  checksum: aadfb7abab12c739193296e4c77c2d429dffeadbc0e34ab50da2f20311b117f625798937617cd9d6123f281f200e0c2e8e98be26a1b5e79cf536ad5e2288d436
+  checksum: a20a20ce7961917a88500e8c5d082f57ec835d35bef5cae4a8e4ba1d9f51bb9ba81fee25ffa3e7307e02a52270695409cd3733ea2c108704296c6e033c352c47
   languageName: node
   linkType: hard
 
@@ -6893,19 +6893,18 @@ __metadata:
   linkType: hard
 
 "@whatwg-node/fetch@npm:^0.4.0":
-  version: 0.4.3
-  resolution: "@whatwg-node/fetch@npm:0.4.3"
+  version: 0.4.4
+  resolution: "@whatwg-node/fetch@npm:0.4.4"
   dependencies:
     "@peculiar/webcrypto": ^1.4.0
     abort-controller: ^3.0.0
     busboy: ^1.6.0
-    event-target-polyfill: ^0.0.3
     form-data-encoder: ^1.7.1
     formdata-node: ^4.3.1
     node-fetch: ^2.6.7
     undici: ^5.8.0
     web-streams-polyfill: ^3.2.0
-  checksum: b10f673a80d7ec997df2c7cf9cf51525e25513907334f1976b08c4dee9d2f1f9e70022f8b0a31a0c377f26e1a0a47a757833ed743766b4f67ac2cd98d6a3636d
+  checksum: 6fd9f5e500655cd3ca6a55d282e1b15d4746fed045f750209d900401a44c40db98110ef7fdb3258917ab17cfc57ba3add6e8a7a502d4c20d3f63ef565175bd05
   languageName: node
   linkType: hard
 
@@ -8864,9 +8863,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001400":
-  version: 1.0.30001406
-  resolution: "caniuse-lite@npm:1.0.30001406"
-  checksum: e5f0503e5630bd11b7907c30d4a4fc02be0cc34d594ebdf8386212937652f6edf96fa33192dff7691527f1c1572a8d26df2138a8a9c53851fb2eb458f0e055c7
+  version: 1.0.30001407
+  resolution: "caniuse-lite@npm:1.0.30001407"
+  checksum: 2dc970b1ee285abdcec28d942cbf3c15e5a8c68ea1d905bdbd96f3325353f732333b3d805722251c01e9919c906e82fef4a209e78e68c9a269118cbb81a694e6
   languageName: node
   linkType: hard
 
@@ -11008,9 +11007,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.251":
-  version: 1.4.255
-  resolution: "electron-to-chromium@npm:1.4.255"
-  checksum: 06b0d32bb3837f22ed3e8bacb6aec9a6cd84d26fa139d00b7f5a895c4c957c32d96ecdac3c228f54ad1ef036b31d5f5bc2591260c2b385604e85e48d46fae877
+  version: 1.4.256
+  resolution: "electron-to-chromium@npm:1.4.256"
+  checksum: b07a92771fb1ad4972021c707e1b96dc5d86ac6d633052341c002147ac706d31fe2764d2bd91f9434331eedcb3c769564f344e57d142d6b80ce6404f015d8f06
   languageName: node
   linkType: hard
 
@@ -16953,14 +16952,14 @@ __metadata:
   linkType: hard
 
 "meros@npm:^1.1.4":
-  version: 1.2.0
-  resolution: "meros@npm:1.2.0"
+  version: 1.2.1
+  resolution: "meros@npm:1.2.1"
   peerDependencies:
-    "@types/node": ">=12"
+    "@types/node": ">=13"
   peerDependenciesMeta:
     "@types/node":
       optional: true
-  checksum: 460a4df484e61937fda29acb49cd2c3134d7e34612a1d324c5c8efcce3d0a3c11ea91c4a3a266a5d64c85250af22009241c44298ca2d79ddde0a453c5810ce9b
+  checksum: f8debb9d03e89cba545b9b7d4d51f2412b33ba86e6f6b2eb0e481a3eaf9975d168e6e708887d87b9fbf5a188f9d5878b50f6fb2ded9614f4cd20feb50d452a5d
   languageName: node
   linkType: hard
 

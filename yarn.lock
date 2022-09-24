@@ -5694,11 +5694,11 @@ __metadata:
   linkType: hard
 
 "@types/babel__traverse@npm:*, @types/babel__traverse@npm:^7.0.6":
-  version: 7.18.1
-  resolution: "@types/babel__traverse@npm:7.18.1"
+  version: 7.18.2
+  resolution: "@types/babel__traverse@npm:7.18.2"
   dependencies:
     "@babel/types": ^7.3.0
-  checksum: f9bd5c16c1a178489394235826e3793da6be2f50fe9abd3ce29b6a53a554575d88d20a4a377a4d9e8cab4a25243bc4dc8b9b68d9f65dc212b8e0a7ccaf5f10e8
+  checksum: c41b3d1f24c9289af2e802ed422b1b1a7138ff7754efb09b77fcf5626d0e2a6a723b5b41cc4aac4074a23917659247d91ab5468842b72ed0b95c26ea3dd6f562
   languageName: node
   linkType: hard
 
@@ -6089,9 +6089,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 18.7.18
-  resolution: "@types/node@npm:18.7.18"
-  checksum: abc13398f25eb1cab7e1b30cda68084a94d687d517dc44e64020a3a7081471f8179efbd0eb70a824cf9fb09126f02e296918f2665e61d8047a4f183a29afe1d7
+  version: 18.7.19
+  resolution: "@types/node@npm:18.7.19"
+  checksum: 50f8862f095c9af2f57a46b2a36a4a50668e987263512eeb9de1bbdffb59e4e08784272c5a46c5eebcd1d2b21b81bf2eacd8bd17c9f59c3d029b8fab1dfeb2d0
   languageName: node
   linkType: hard
 
@@ -6103,9 +6103,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:^14.0.10 || ^16.0.0, @types/node@npm:^14.14.20 || ^16.0.0":
-  version: 16.11.59
-  resolution: "@types/node@npm:16.11.59"
-  checksum: 57c03c9783a7d93060d7b6c8b1c1eade63436faf798481d38b151f8f4eadbce7171b7fc834e7ddd9b6ff421de58e4e57fbc5bb06909e9d470f50b17007cdaf77
+  version: 16.11.60
+  resolution: "@types/node@npm:16.11.60"
+  checksum: c3868b9fb3a5d995fbfcb9d9cd7e88989e5cf2b1514bbd9ff74e6862d8bcbd6af33360dc73ea39c311c7073e12026da67828039022bc12c403d31f725676599e
   languageName: node
   linkType: hard
 
@@ -6385,11 +6385,11 @@ __metadata:
   linkType: hard
 
 "@types/yargs@npm:^17.0.8":
-  version: 17.0.12
-  resolution: "@types/yargs@npm:17.0.12"
+  version: 17.0.13
+  resolution: "@types/yargs@npm:17.0.13"
   dependencies:
     "@types/yargs-parser": "*"
-  checksum: a0ba2dde56b4e5cd9666c6119ed5c519d5efa838ef37d1ce4b5d08643c3edd827b2b584a43daf6cb09a891d9171706f61aeffc235bf81079d50f470fd73751d3
+  checksum: 5005e1e7408b9fea96c356becf19256f1a9bca02120852d3c0089ba7123528b0b6891185e9c92bac25cb5c04090a7a714b201523a6bf4a8a226852205c631208
   languageName: node
   linkType: hard
 
@@ -8619,6 +8619,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"buffer@npm:^6.0.3":
+  version: 6.0.3
+  resolution: "buffer@npm:6.0.3"
+  dependencies:
+    base64-js: ^1.3.1
+    ieee754: ^1.2.1
+  checksum: 2a905fbbcde73cc5d8bd18d1caa23715d5f83a5935867c2329f0ac06104204ba7947be098fe1317fbd8830e26090ff8e764f08cd14fefc977bb248c3487bcbd0
+  languageName: node
+  linkType: hard
+
 "builtin-status-codes@npm:^3.0.0":
   version: 3.0.0
   resolution: "builtin-status-codes@npm:3.0.0"
@@ -8863,9 +8873,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001400":
-  version: 1.0.30001409
-  resolution: "caniuse-lite@npm:1.0.30001409"
-  checksum: 63986c2290c053230cc89e7c52411808d33891de3b3287aa049b226f8ecc20631a196e92912935fb1b19c85b07d1c9b2b0dd822751ba6ba8fc8c49dfb7cebdf2
+  version: 1.0.30001410
+  resolution: "caniuse-lite@npm:1.0.30001410"
+  checksum: 81e797aa86244ec2085a8bf81755c270054972144d7e20070c3f4d43e403684776f7a9be4787ab4bbf3c14eb7e5db514701fc1b2a2380973cd03decf39b9059e
   languageName: node
   linkType: hard
 
@@ -11007,9 +11017,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.251":
-  version: 1.4.258
-  resolution: "electron-to-chromium@npm:1.4.258"
-  checksum: 5329e7925fcf65ec205fee45ecce4627e9dcc30ea77c2baaae113e4de9fa9dc29cd16cdd0a86a1cec71d188ed43e783738b7ded232fd6691c9b00faa6846e253
+  version: 1.4.259
+  resolution: "electron-to-chromium@npm:1.4.259"
+  checksum: 552467bc121dc85ec4aa9d28b07ed0abe174bf2b83236e79071539badc30336f8fe013a876430e4b6bb7b9475e7ba7c6c052937865cbb2876ad0fe1c12f86bbb
   languageName: node
   linkType: hard
 
@@ -14043,7 +14053,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ieee754@npm:^1.1.13, ieee754@npm:^1.1.4":
+"ieee754@npm:^1.1.13, ieee754@npm:^1.1.4, ieee754@npm:^1.2.1":
   version: 1.2.1
   resolution: "ieee754@npm:1.2.1"
   checksum: b0782ef5e0935b9f12883a2e2aa37baa75da6e66ce6515c168697b42160807d9330de9a32ec1ed73149aea02e0d822e572bca6f1e22bdcbd2149e13b050b17bb
@@ -14395,9 +14405,9 @@ __metadata:
   linkType: hard
 
 "is-callable@npm:^1.1.3, is-callable@npm:^1.1.4, is-callable@npm:^1.2.6":
-  version: 1.2.6
-  resolution: "is-callable@npm:1.2.6"
-  checksum: 1cbe76939c61f1d8d63332376ec1ec898ff22f075d2bfb66bc08f5847f4ce6db3bd03b72e1a1e040dcafe8ceb45c8a93bb9be7e393568ecc30660985f5960d0f
+  version: 1.2.7
+  resolution: "is-callable@npm:1.2.7"
+  checksum: ceebaeb9d92e8adee604076971dd6000d38d6afc40bb843ea8e45c5579b57671c3f3b50d7f04869618242c6cee08d1b67806a8cb8edaaaf7c0748b3720d6066f
   languageName: node
   linkType: hard
 
@@ -19963,11 +19973,14 @@ __metadata:
   linkType: hard
 
 "readable-stream@npm:^4.0.0":
-  version: 4.1.0
-  resolution: "readable-stream@npm:4.1.0"
+  version: 4.2.0
+  resolution: "readable-stream@npm:4.2.0"
   dependencies:
     abort-controller: ^3.0.0
-  checksum: dfd418ee3d2c237e433a8b661340cf62b1ab7cb62fb6487f919a59b987fa6fb985856a34eb7c0c42a226bf157f65db143bebda78e2bf50961b35c85a8003cf83
+    buffer: ^6.0.3
+    events: ^3.3.0
+    process: ^0.11.10
+  checksum: b153f9d0db659072427817f7c1e8f5b21ee3ac344000a2e561188df58606852b7744f9be14e63fe5c832b86587a25f60795f40b66e5e66c5f2d6da62149f7e5e
   languageName: node
   linkType: hard
 

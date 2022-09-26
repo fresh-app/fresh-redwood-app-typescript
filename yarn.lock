@@ -6090,9 +6090,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 18.7.20
-  resolution: "@types/node@npm:18.7.20"
-  checksum: 13e5c1179f043bbe16ea24bbd6117c8432e6410fb8ab50de504e3b3d14263e36cfec94119ab3f9336d821ad07f4e7e245bd045c21c4850a769287b693dd59b3a
+  version: 18.7.21
+  resolution: "@types/node@npm:18.7.21"
+  checksum: b2bbb2e07ebdf0df7c67ac8696706e11c98634478ae7cf1ab730221b089bcc80d7802a622fb2c1719e27d8acc3be871f8bdf5e2ddbcb45be0a5101b726c1bc28
   languageName: node
   linkType: hard
 
@@ -9769,18 +9769,18 @@ __metadata:
   linkType: hard
 
 "core-js-compat@npm:^3.21.0, core-js-compat@npm:^3.22.1, core-js-compat@npm:^3.25.1, core-js-compat@npm:^3.8.1":
-  version: 3.25.2
-  resolution: "core-js-compat@npm:3.25.2"
+  version: 3.25.3
+  resolution: "core-js-compat@npm:3.25.3"
   dependencies:
     browserslist: ^4.21.4
-  checksum: 3692f9c5ae04c5ed19229b8411ddd62cd40169758aa230daf03e914ba144b2ebe192472f2b3cd2a84b11e5bab3a99acc544251bfe4840fc603556ed812063ee9
+  checksum: 2be97b8c43e1fc755ee5bf3b6ca2fb62fafbf0b02d0969235da51f0d3d66c57e7b07adb410a48866b76741be044a8c34d1f398220158e2746fdcd64486d79f0f
   languageName: node
   linkType: hard
 
 "core-js-pure@npm:^3.20.2, core-js-pure@npm:^3.25.1, core-js-pure@npm:^3.8.1":
-  version: 3.25.2
-  resolution: "core-js-pure@npm:3.25.2"
-  checksum: da9840beba29db5e0ca29257cd526bb159b6c7bcd246a3d85fe9699b8be60221c60999c3eff4918f18fa3ba28a28e4fea2e979c63bea63c9607799a3c0878a66
+  version: 3.25.3
+  resolution: "core-js-pure@npm:3.25.3"
+  checksum: 08dc4a47208820e5285ea4be9c28f5bfc92d2c1adc0a0a8d81eb0230604f6e243b910ab241c5c8b02d166c2546412236f9a0e93b8e3558ee263ab21631078c68
   languageName: node
   linkType: hard
 
@@ -9792,9 +9792,9 @@ __metadata:
   linkType: hard
 
 "core-js@npm:^3.0.4, core-js@npm:^3.22.1, core-js@npm:^3.6.5, core-js@npm:^3.8.2":
-  version: 3.25.2
-  resolution: "core-js@npm:3.25.2"
-  checksum: b9a8cc47f2455f1c9ac4d4292b4c1f5a4139ef6146273e20306b160fd4042d9cdd6eddd90721b136e9d093a71c91cedb42a2580d4a0cc25fe475baff0c2ae207
+  version: 3.25.3
+  resolution: "core-js@npm:3.25.3"
+  checksum: c10171de55552ac8d66e5608b69bf83d91cc814cb86bc3ff949429c46e48fd7b84d33137c1946807766631bab078dba10c158627de30fd907cbb7ac7f67ba6b7
   languageName: node
   linkType: hard
 
@@ -20636,11 +20636,11 @@ __metadata:
   linkType: hard
 
 "rxjs@npm:^7.0.0, rxjs@npm:^7.5.5":
-  version: 7.5.6
-  resolution: "rxjs@npm:7.5.6"
+  version: 7.5.7
+  resolution: "rxjs@npm:7.5.7"
   dependencies:
     tslib: ^2.1.0
-  checksum: d8077fb4a06c05f52fcc974ab9884d163924b8085c661c92030a522920510bf0c75583caee70409ab11992320c31f562f5402afe8b81255370c09773209fec5c
+  checksum: 283620b3c90b85467c3549f7cda0dd768bc18719cccbbdd9aacadb0f0946827ab20d036f1a00d78066d769764e73070bfee8706091d77b8d971975598f6cbbd4
   languageName: node
   linkType: hard
 
@@ -22832,11 +22832,11 @@ __metadata:
   linkType: hard
 
 "uglify-js@npm:^3.1.4":
-  version: 3.17.1
-  resolution: "uglify-js@npm:3.17.1"
+  version: 3.17.2
+  resolution: "uglify-js@npm:3.17.2"
   bin:
     uglifyjs: bin/uglifyjs
-  checksum: 2d6922b0a5e13fdacbad530e2743dc8c45af1bca9b1569c6de066dd0912508d18aebd8fabf75187be59fbbbef41b6955f77035703e9488f804c910cfa4c5a08a
+  checksum: faa4ac74ee748384da27ba36402c00c2f52f1f21e5bc7cd50d8f885895de14f18226dc4506bb8824a2534f09ac2ef26cd2d96370f390c9cb980020b14c516e9e
   languageName: node
   linkType: hard
 

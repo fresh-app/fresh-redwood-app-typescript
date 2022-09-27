@@ -6090,9 +6090,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 18.7.21
-  resolution: "@types/node@npm:18.7.21"
-  checksum: b2bbb2e07ebdf0df7c67ac8696706e11c98634478ae7cf1ab730221b089bcc80d7802a622fb2c1719e27d8acc3be871f8bdf5e2ddbcb45be0a5101b726c1bc28
+  version: 18.7.23
+  resolution: "@types/node@npm:18.7.23"
+  checksum: dbc790c0d76ff9e8b8ee5a0e6f978fd23ae63320e26c22aff19e2d539ba5542224ff67155f2faa383d41c80ec1d9ffdd2cd0f9fd705fd32c3aba2ca4dcdd6c19
   languageName: node
   linkType: hard
 
@@ -6104,9 +6104,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:^14.0.10 || ^16.0.0, @types/node@npm:^14.14.20 || ^16.0.0":
-  version: 16.11.60
-  resolution: "@types/node@npm:16.11.60"
-  checksum: c3868b9fb3a5d995fbfcb9d9cd7e88989e5cf2b1514bbd9ff74e6862d8bcbd6af33360dc73ea39c311c7073e12026da67828039022bc12c403d31f725676599e
+  version: 16.11.62
+  resolution: "@types/node@npm:16.11.62"
+  checksum: 44f14ab6602eb98bff6c1f4a37159dbad613d7fa6a77e1c4aa8656b6dc7d1904697d4cc71b95c6839d74c4b4dbc0e8953d0ece5e29f802768886b9dd335ab89f
   languageName: node
   linkType: hard
 
@@ -6894,8 +6894,8 @@ __metadata:
   linkType: hard
 
 "@whatwg-node/fetch@npm:^0.4.0":
-  version: 0.4.4
-  resolution: "@whatwg-node/fetch@npm:0.4.4"
+  version: 0.4.5
+  resolution: "@whatwg-node/fetch@npm:0.4.5"
   dependencies:
     "@peculiar/webcrypto": ^1.4.0
     abort-controller: ^3.0.0
@@ -6905,7 +6905,7 @@ __metadata:
     node-fetch: ^2.6.7
     undici: ^5.8.0
     web-streams-polyfill: ^3.2.0
-  checksum: 6fd9f5e500655cd3ca6a55d282e1b15d4746fed045f750209d900401a44c40db98110ef7fdb3258917ab17cfc57ba3add6e8a7a502d4c20d3f63ef565175bd05
+  checksum: 7005fe1e8b83ec717d83aff23e6d3be17f70af378ef2cb1c4c5c0fbc888aab541911c90d7f074fb0bc5a28854d24395ae0aa559e5f563ae756ef2a4b00bdc4a3
   languageName: node
   linkType: hard
 
@@ -11018,9 +11018,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.251":
-  version: 1.4.261
-  resolution: "electron-to-chromium@npm:1.4.261"
-  checksum: 4dc5a04e7b6e90f378e67aecd501d48325a02080c5a7125e2bb7f0d0456499cf9eb169df5ecf7ddc8fe9eb7d261c4105c63c9b40e143298e37117961a21da15e
+  version: 1.4.263
+  resolution: "electron-to-chromium@npm:1.4.263"
+  checksum: a498ddc0e02f1fdac15d77c8dc10b2df95d7662e02c76300451d914adef839995852d70f9fd8dfdc03ab217e1139e86a5932642956e9e6f414389a48cfabd22e
   languageName: node
   linkType: hard
 
@@ -12243,8 +12243,8 @@ __metadata:
   linkType: hard
 
 "fast-json-stringify@npm:^5.0.0":
-  version: 5.3.0
-  resolution: "fast-json-stringify@npm:5.3.0"
+  version: 5.4.0
+  resolution: "fast-json-stringify@npm:5.4.0"
   dependencies:
     "@fastify/deepmerge": ^1.0.0
     ajv: ^8.10.0
@@ -12252,7 +12252,7 @@ __metadata:
     fast-deep-equal: ^3.1.3
     fast-uri: ^2.1.0
     rfdc: ^1.2.0
-  checksum: 1a06b4d0f8e21d2d058554fbdd3c0cd39893f2db326d500ede945d97f5bea1b250eb4852287bb7707e03b3cae5dc1a050839b05f754795e99bb44bf5f1e60b34
+  checksum: 1d76dd04f24e246429c6fd71825c98391cf938da534dd3c95ffd733b5761ab1944127eed349d41f21b9a7aad061f365c5913b841cf1ba72b64c59232e3d5d193
   languageName: node
   linkType: hard
 

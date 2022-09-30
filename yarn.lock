@@ -2411,9 +2411,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@graphql-tools/delegate@npm:9.0.6":
-  version: 9.0.6
-  resolution: "@graphql-tools/delegate@npm:9.0.6"
+"@graphql-tools/delegate@npm:9.0.8":
+  version: 9.0.8
+  resolution: "@graphql-tools/delegate@npm:9.0.8"
   dependencies:
     "@graphql-tools/batch-execute": 8.5.6
     "@graphql-tools/schema": 9.0.4
@@ -2423,7 +2423,7 @@ __metadata:
     value-or-promise: 1.0.11
   peerDependencies:
     graphql: ^14.0.0 || ^15.0.0 || ^16.0.0 || ^17.0.0
-  checksum: 8df84ef3b18cae622702143097ad24e25fd6ad212acf1e79ded6a8e099bfe26d6cb1a3ffe9be515b6279470df6ac85fcf34c3c6275f1efda01400a78eb20d921
+  checksum: a41ad87bba54b1bf95bdf7d23ca495d6183c26e965ac772933663a76af0c0c79ff9fb185e1bf1bb5d57671705762c98044562f571404fb565a8c5db3d8bee931
   languageName: node
   linkType: hard
 
@@ -2577,10 +2577,10 @@ __metadata:
   linkType: hard
 
 "@graphql-tools/prisma-loader@npm:^7.2.7":
-  version: 7.2.22
-  resolution: "@graphql-tools/prisma-loader@npm:7.2.22"
+  version: 7.2.24
+  resolution: "@graphql-tools/prisma-loader@npm:7.2.24"
   dependencies:
-    "@graphql-tools/url-loader": 7.16.2
+    "@graphql-tools/url-loader": 7.16.4
     "@graphql-tools/utils": 8.12.0
     "@types/js-yaml": ^4.0.0
     "@types/json-stable-stringify": ^1.0.32
@@ -2601,7 +2601,7 @@ __metadata:
     yaml-ast-parser: ^0.0.43
   peerDependencies:
     graphql: ^14.0.0 || ^15.0.0 || ^16.0.0 || ^17.0.0
-  checksum: 56d3535a38abbdc6a2d1590430d3b63c6ffad91853eb36ac3530033073708708a10d1f2b301999fcb73c1814aa968bb3b517a2647641c2474496873927dbb9c1
+  checksum: 7cf8b2675807b6cabefd659b8108b57c06c4a37c95fbb2555c153a945a72975f55c1f84d668d7f292d25970253eac0a85bd6fc92b181fb53c660e5394e39e94a
   languageName: node
   linkType: hard
 
@@ -2646,14 +2646,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@graphql-tools/url-loader@npm:7.16.2, @graphql-tools/url-loader@npm:^7.13.2, @graphql-tools/url-loader@npm:^7.9.7":
-  version: 7.16.2
-  resolution: "@graphql-tools/url-loader@npm:7.16.2"
+"@graphql-tools/url-loader@npm:7.16.4, @graphql-tools/url-loader@npm:^7.13.2, @graphql-tools/url-loader@npm:^7.9.7":
+  version: 7.16.4
+  resolution: "@graphql-tools/url-loader@npm:7.16.4"
   dependencies:
     "@ardatan/sync-fetch": 0.0.1
-    "@graphql-tools/delegate": 9.0.6
+    "@graphql-tools/delegate": 9.0.8
     "@graphql-tools/utils": 8.12.0
-    "@graphql-tools/wrap": 9.2.1
+    "@graphql-tools/wrap": 9.2.3
     "@types/ws": ^8.0.0
     "@whatwg-node/fetch": ^0.4.0
     dset: ^3.1.2
@@ -2666,7 +2666,7 @@ __metadata:
     ws: ^8.3.0
   peerDependencies:
     graphql: ^14.0.0 || ^15.0.0 || ^16.0.0 || ^17.0.0
-  checksum: e152490107f4b7960e40f23bf05c3efbafe1eb95ad0ebeb0275d3b8eecafeaa434bc86bb35cc28c6c97f00e3a0e9219681cc76997037604acec86de1859c3e82
+  checksum: a4a728cbf10dcc720f2ca0d95a232dc8e7b53d856bced33c0aaf79f3386186463208eabeaa71c4e9434fb6425e36bdb794106a41eb98364856a76d943ada1e28
   languageName: node
   linkType: hard
 
@@ -2703,18 +2703,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@graphql-tools/wrap@npm:9.2.1":
-  version: 9.2.1
-  resolution: "@graphql-tools/wrap@npm:9.2.1"
+"@graphql-tools/wrap@npm:9.2.3":
+  version: 9.2.3
+  resolution: "@graphql-tools/wrap@npm:9.2.3"
   dependencies:
-    "@graphql-tools/delegate": 9.0.6
+    "@graphql-tools/delegate": 9.0.8
     "@graphql-tools/schema": 9.0.4
     "@graphql-tools/utils": 8.12.0
     tslib: ^2.4.0
     value-or-promise: 1.0.11
   peerDependencies:
     graphql: ^14.0.0 || ^15.0.0 || ^16.0.0 || ^17.0.0
-  checksum: 5d97bc8695fea499d4bc0256c12ca239c1fa96aed38b1d955dd1168b048e66d3e2b4e666023164be8f0ff3e9bbc99c51fdef8e148e48054b65a8c00267eba816
+  checksum: a328c1e6e3f2dfe65d0b34746fb3bc22a0de0a0c8960f240c11c367cb916c442bd356ed88767f838ced7a8679719f610a9ae761174ef79e5d070120304436e1e
   languageName: node
   linkType: hard
 
@@ -2769,13 +2769,13 @@ __metadata:
   linkType: hard
 
 "@humanwhocodes/config-array@npm:^0.10.4":
-  version: 0.10.6
-  resolution: "@humanwhocodes/config-array@npm:0.10.6"
+  version: 0.10.7
+  resolution: "@humanwhocodes/config-array@npm:0.10.7"
   dependencies:
     "@humanwhocodes/object-schema": ^1.2.1
     debug: ^4.1.1
     minimatch: ^3.0.4
-  checksum: fe7aa32d9dd11091a5425c3229b066757321dd539e0750100d06c419194beaec285431296e9ff3e93d6f84f9504b3bc998c9252a637b22e11f7a8ba65acb3ad5
+  checksum: cdb384ed8c166ce231c81e4c4d3b888ab865ac89a6f874586b3b921978531d91cd4f45dd6b2512e6cddb35c21b95c6d7c9044fca3f8e9f562d0c3fee59a32516
   languageName: node
   linkType: hard
 
@@ -5945,12 +5945,12 @@ __metadata:
   linkType: hard
 
 "@types/jest@npm:*":
-  version: 29.0.3
-  resolution: "@types/jest@npm:29.0.3"
+  version: 29.1.0
+  resolution: "@types/jest@npm:29.1.0"
   dependencies:
     expect: ^29.0.0
     pretty-format: ^29.0.0
-  checksum: b380283f58abb1c8f710c4ea2d86518afa41dca24febae54b03cfe84bff97e8ccbed392033f7eb84e51b98386f26356d72c3d4e16c45b20d834af44f1381ba22
+  checksum: b86c49187bca4a585eb4e11a4eb3bbe0e7550532641a63bcf76b113036b845efaa7e085bc762cd8a7000705fe8ca4d7c1557d12cff887c58320ea5b256751c0e
   languageName: node
   linkType: hard
 
@@ -8891,9 +8891,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001400":
-  version: 1.0.30001412
-  resolution: "caniuse-lite@npm:1.0.30001412"
-  checksum: 26f95a14ae5ca1341164b0aba98eda21cfb7d913af43625f71cbccc1cd92417568cb4078bd40dc090923d139d1929f6d323dfa129e0cb3ad1931c09a9c57a063
+  version: 1.0.30001414
+  resolution: "caniuse-lite@npm:1.0.30001414"
+  checksum: ab8a2149ccb79dd76ab71e1fc3adb8b31a44669dd6d067928b154005429baa4f22df9ae068e4826c9ce3f894145181852293435af5f9cec7afe4e097edb3ae65
   languageName: node
   linkType: hard
 
@@ -10972,9 +10972,9 @@ __metadata:
   linkType: hard
 
 "dotenv@npm:^16.0.0":
-  version: 16.0.2
-  resolution: "dotenv@npm:16.0.2"
-  checksum: e9b64fa45f0b693875db50f1876c1202be8e936500aa664478247ab06b2fe8096cc1ab238919771dbdd1f65490b7efe65b61401d3cd61bcea88eab7c2bf06964
+  version: 16.0.3
+  resolution: "dotenv@npm:16.0.3"
+  checksum: 109457ac5f9e930ca8066ea33887b6f839ab24d647a7a8b49ddcd1f32662e2c35591c5e5b9819063e430148a664d0927f0cbe60cf9575d89bc524f47ff7e78f0
   languageName: node
   linkType: hard
 
@@ -11035,9 +11035,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.251":
-  version: 1.4.267
-  resolution: "electron-to-chromium@npm:1.4.267"
-  checksum: 365ab8cb239512cd648951c733f0f0b181337377ff1c62bf57ca0cad1ec0d0b88a80fa1352761974f3e0ee66373585dec050455e93b451d1b6a43335ce96e168
+  version: 1.4.269
+  resolution: "electron-to-chromium@npm:1.4.269"
+  checksum: aa6f41f774d856d60bdba677c27aba69848342f703782ee6024bc1b4d3f480edc7cc53fc83fd3c80ccce1e2f5a815d632d240ccb10de564015a5e71794173f38
   languageName: node
   linkType: hard
 

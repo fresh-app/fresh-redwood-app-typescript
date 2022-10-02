@@ -9355,6 +9355,17 @@ __metadata:
   languageName: node
   linkType: hard
 
+"cliui@npm:^8.0.1":
+  version: 8.0.1
+  resolution: "cliui@npm:8.0.1"
+  dependencies:
+    string-width: ^4.2.0
+    strip-ansi: ^6.0.1
+    wrap-ansi: ^7.0.0
+  checksum: 4bda0f09c340cbb6dfdc1ed508b3ca080f12992c18d68c6be4d9cf51756033d5266e61ec57529e610dacbf4da1c634423b0c1b11037709cc6b09045cbd815df5
+  languageName: node
+  linkType: hard
+
 "clone-deep@npm:^4.0.1":
   version: 4.0.1
   resolution: "clone-deep@npm:4.0.1"
@@ -15724,9 +15735,9 @@ __metadata:
   linkType: hard
 
 "js-sdsl@npm:^4.1.4":
-  version: 4.1.4
-  resolution: "js-sdsl@npm:4.1.4"
-  checksum: 084d96fbbb02afeaad5116d59c2083ee95f5ded664e6522f6f064b80a2afa787bd69729b1a48ac93e4a0776d7cae06549629289f13e6a8302400e5201e2023fc
+  version: 4.1.5
+  resolution: "js-sdsl@npm:4.1.5"
+  checksum: d95116180b977da36ad23a4f242a8eb96da42910a3662143e07fa12a5276663564ea9102d8570b2e6b0918fe284f2924a173082b6f84d25df29fbec3f71aa42f
   languageName: node
   linkType: hard
 
@@ -21656,11 +21667,11 @@ __metadata:
   linkType: hard
 
 "strict-event-emitter@npm:^0.2.0, strict-event-emitter@npm:^0.2.4":
-  version: 0.2.5
-  resolution: "strict-event-emitter@npm:0.2.5"
+  version: 0.2.6
+  resolution: "strict-event-emitter@npm:0.2.6"
   dependencies:
     events: ^3.3.0
-  checksum: 2424a5a3a4f281625fb6209e250c56ad2d7a510b87f1f04c041b14829302847af58fe012703a23f62abbb4d906caeb37164516fd933427afb35d3bf53b830581
+  checksum: ea7293fb9647062ac06b60653b2487990ab4e19ab34eaffeecebdcb7905dcc7c872046363fc138b5cb10e53bb32c90cf045282f64614d879fcb75b58cf23ab1c
   languageName: node
   linkType: hard
 
@@ -24381,7 +24392,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"yargs@npm:17.5.1, yargs@npm:^17.0.0, yargs@npm:^17.3.1":
+"yargs@npm:17.5.1":
   version: 17.5.1
   resolution: "yargs@npm:17.5.1"
   dependencies:
@@ -24427,6 +24438,21 @@ __metadata:
     y18n: ^5.0.5
     yargs-parser: ^20.2.2
   checksum: b1dbfefa679848442454b60053a6c95d62f2d2e21dd28def92b647587f415969173c6e99a0f3bab4f1b67ee8283bf735ebe3544013f09491186ba9e8a9a2b651
+  languageName: node
+  linkType: hard
+
+"yargs@npm:^17.0.0, yargs@npm:^17.3.1":
+  version: 17.6.0
+  resolution: "yargs@npm:17.6.0"
+  dependencies:
+    cliui: ^8.0.1
+    escalade: ^3.1.1
+    get-caller-file: ^2.0.5
+    require-directory: ^2.1.1
+    string-width: ^4.2.3
+    y18n: ^5.0.5
+    yargs-parser: ^21.0.0
+  checksum: 9f3d40f482d37df26f66f9b8d3010645ebf9485dd1c4bab6b55c87ac4e4924836bca93f52afb1a0483e178f540e5ab6fbea60d9fc56ecba10d386ecbdc9857e6
   languageName: node
   linkType: hard
 

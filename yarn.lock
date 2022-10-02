@@ -6894,8 +6894,8 @@ __metadata:
   linkType: hard
 
 "@whatwg-node/fetch@npm:^0.4.0":
-  version: 0.4.6
-  resolution: "@whatwg-node/fetch@npm:0.4.6"
+  version: 0.4.7
+  resolution: "@whatwg-node/fetch@npm:0.4.7"
   dependencies:
     "@peculiar/webcrypto": ^1.4.0
     abort-controller: ^3.0.0
@@ -6905,7 +6905,7 @@ __metadata:
     node-fetch: ^2.6.7
     undici: ^5.10.0
     web-streams-polyfill: ^3.2.0
-  checksum: 61b37fa9cea741d6933213ad96431ec4d1e67f870853f11ed2719b81f83107f1eeb4719070c721e14b54f120150f19bc9831a3c2191b6941d53489e35ed1379b
+  checksum: cdb871c2ff985d2f027673045b479fd17b3436169292b7a56c6401118f48401548dbca36532e3ffab262580a9b6805a17e9849cf6f2b78fb27caaea0e0a66c09
   languageName: node
   linkType: hard
 
@@ -9790,18 +9790,18 @@ __metadata:
   linkType: hard
 
 "core-js-compat@npm:^3.21.0, core-js-compat@npm:^3.22.1, core-js-compat@npm:^3.25.1, core-js-compat@npm:^3.8.1":
-  version: 3.25.3
-  resolution: "core-js-compat@npm:3.25.3"
+  version: 3.25.4
+  resolution: "core-js-compat@npm:3.25.4"
   dependencies:
     browserslist: ^4.21.4
-  checksum: 2be97b8c43e1fc755ee5bf3b6ca2fb62fafbf0b02d0969235da51f0d3d66c57e7b07adb410a48866b76741be044a8c34d1f398220158e2746fdcd64486d79f0f
+  checksum: 7a5fb0df0921affcc7a99720f4ff76511ccd9c2322ca2daaadbff029b11dc6db88e2fcd3bdabb96e0fcd259724abdcfc12e1dd5e02157b98cdc890100cbc4967
   languageName: node
   linkType: hard
 
 "core-js-pure@npm:^3.20.2, core-js-pure@npm:^3.25.1, core-js-pure@npm:^3.8.1":
-  version: 3.25.3
-  resolution: "core-js-pure@npm:3.25.3"
-  checksum: 08dc4a47208820e5285ea4be9c28f5bfc92d2c1adc0a0a8d81eb0230604f6e243b910ab241c5c8b02d166c2546412236f9a0e93b8e3558ee263ab21631078c68
+  version: 3.25.4
+  resolution: "core-js-pure@npm:3.25.4"
+  checksum: 85cc7eccd007fcdcd3ebdb6dec4bb6515853ce8e80ab1e8df2ccbf3cf906eaa3ef59d34b3cec6de47f6f257b68a924175aeac2d4d1150c9a1054fa1b0ff564fe
   languageName: node
   linkType: hard
 
@@ -9813,9 +9813,9 @@ __metadata:
   linkType: hard
 
 "core-js@npm:^3.0.4, core-js@npm:^3.22.1, core-js@npm:^3.6.5, core-js@npm:^3.8.2":
-  version: 3.25.3
-  resolution: "core-js@npm:3.25.3"
-  checksum: c10171de55552ac8d66e5608b69bf83d91cc814cb86bc3ff949429c46e48fd7b84d33137c1946807766631bab078dba10c158627de30fd907cbb7ac7f67ba6b7
+  version: 3.25.4
+  resolution: "core-js@npm:3.25.4"
+  checksum: f3f54a064affd3840f4807738c1712fb359addf93d66109e2358a977e77c10ddf09a65f3616b095ebbb01dd09d9987fb85ae1eb9b43b1fd54d00da7b80640bff
   languageName: node
   linkType: hard
 

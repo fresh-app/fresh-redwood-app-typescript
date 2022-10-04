@@ -6090,9 +6090,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 18.8.1
-  resolution: "@types/node@npm:18.8.1"
-  checksum: 957f6bd069d127bef690d6c60af7014bfdbefe91d72871b6d7a9f9476eb3445b0b1665adcc832aa94f25aac97ebaf97f7b082f21a5019efc8947a141eac547ef
+  version: 18.8.2
+  resolution: "@types/node@npm:18.8.2"
+  checksum: d9fd70522e6e108aa58ee806a97677809a0827a50509a8926c7a0f0fb52b4d592dc2cf19138ab848189ad6b63603ff04446f74e1bece3b6f329963ccaea388ce
   languageName: node
   linkType: hard
 
@@ -6971,7 +6971,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"abbrev@npm:1":
+"abbrev@npm:1, abbrev@npm:^1.0.0":
   version: 1.1.1
   resolution: "abbrev@npm:1.1.1"
   checksum: 3f762677702acb24f65e813070e306c61fafe25d4b2583f9dfc935131f774863f3addd5741572ed576bd69cabe473c5af18e1e108b829cb7b6b4747884f726e6
@@ -8884,9 +8884,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001400":
-  version: 1.0.30001414
-  resolution: "caniuse-lite@npm:1.0.30001414"
-  checksum: ab8a2149ccb79dd76ab71e1fc3adb8b31a44669dd6d067928b154005429baa4f22df9ae068e4826c9ce3f894145181852293435af5f9cec7afe4e097edb3ae65
+  version: 1.0.30001415
+  resolution: "caniuse-lite@npm:1.0.30001415"
+  checksum: 0d171d20b59176eaee2ff12f36da07fb2b9b453225437b2c9a94dd1cf599727d0566bab09c1de9c90ac7e984e6ebc56752fc5e11855f6dc672d478963db94a29
   languageName: node
   linkType: hard
 
@@ -17569,14 +17569,14 @@ __metadata:
   linkType: hard
 
 "node-gyp@npm:latest":
-  version: 9.1.0
-  resolution: "node-gyp@npm:9.1.0"
+  version: 9.2.0
+  resolution: "node-gyp@npm:9.2.0"
   dependencies:
     env-paths: ^2.2.0
     glob: ^7.1.4
     graceful-fs: ^4.2.6
     make-fetch-happen: ^10.0.3
-    nopt: ^5.0.0
+    nopt: ^6.0.0
     npmlog: ^6.0.0
     rimraf: ^3.0.2
     semver: ^7.3.5
@@ -17584,7 +17584,7 @@ __metadata:
     which: ^2.0.2
   bin:
     node-gyp: bin/node-gyp.js
-  checksum: 906a1ddcfadfdfcaad140bdf010bda42fe1c012b24c2176f58460fda4687a720f50753a1b9f3dd231fa25fb47abebe199d2c70ce84d3a4c134176c04bde2704d
+  checksum: 281dc8cbb7d4ecdc179b903c1b25fe4d1d5b70984744564a13892a93f24323f29aa38649a3ac569614ecf55c2f0804dff489347564f2945be29f7ddd4bb85a9c
   languageName: node
   linkType: hard
 
@@ -17653,14 +17653,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nopt@npm:^5.0.0":
-  version: 5.0.0
-  resolution: "nopt@npm:5.0.0"
+"nopt@npm:^6.0.0":
+  version: 6.0.0
+  resolution: "nopt@npm:6.0.0"
   dependencies:
-    abbrev: 1
+    abbrev: ^1.0.0
   bin:
     nopt: bin/nopt.js
-  checksum: fc5c4f07155cb455bf5fc3dd149fac421c1a40fd83c6bfe83aa82b52f02c17c5e88301321318adaa27611c8a6811423d51d29deaceab5fa158b585a61a551061
+  checksum: 837b52c330df16fcaad816b1f54fec6b2854ab1aa771d935c1603fbcf9b023bb073f1466b1b67f48ea4dce127ae675b85b9d9355700e9b109de39db490919786
   languageName: node
   linkType: hard
 

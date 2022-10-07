@@ -5901,12 +5901,12 @@ __metadata:
   linkType: hard
 
 "@types/jest@npm:*":
-  version: 29.1.1
-  resolution: "@types/jest@npm:29.1.1"
+  version: 29.1.2
+  resolution: "@types/jest@npm:29.1.2"
   dependencies:
     expect: ^29.0.0
     pretty-format: ^29.0.0
-  checksum: 2b7e492704f5df42209427edd5ee51fda2b86e4ccd0d692742984c871595d94012432467baf363e481ebda68d5dac532cbb831edf8a6cbf7010e30648283aadf
+  checksum: b67a87ccdfeffe935f97958ca2f2768a7f1a60fb85e87b08d8a702c61a4e6e49cbeaf2529382c0366296d4b6cbdeadcf86bd3a02081f2ad6c35725a85b263608
   languageName: node
   linkType: hard
 
@@ -6046,9 +6046,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 18.8.2
-  resolution: "@types/node@npm:18.8.2"
-  checksum: d9fd70522e6e108aa58ee806a97677809a0827a50509a8926c7a0f0fb52b4d592dc2cf19138ab848189ad6b63603ff04446f74e1bece3b6f329963ccaea388ce
+  version: 18.8.3
+  resolution: "@types/node@npm:18.8.3"
+  checksum: 67d837c55ae33b290ec01d8adb75d695ac7e7beddda5b7646eb53382c9f29f98c3e5307b9a4ba122cbebbef4b84d18a12cff4e4312eb9d12e7acd747cc75239a
   languageName: node
   linkType: hard
 
@@ -10972,9 +10972,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.251":
-  version: 1.4.273
-  resolution: "electron-to-chromium@npm:1.4.273"
-  checksum: 0728f9ff13a10ceae8fa2d4975bebdeaf2a3a3c2f6c4898516e671c772115d17e6f7d27376eb287f69754bfc4bd7e4be883369c305f6c40459dba52888cdaddc
+  version: 1.4.275
+  resolution: "electron-to-chromium@npm:1.4.275"
+  checksum: 7192665ccb59d55e4933001d2525b84a929daee48c2d39d481e65abd0061830680451b8f81c45fd9b49c55831100d8473f1671c3a2a85889496c856ba5a73590
   languageName: node
   linkType: hard
 
@@ -11177,8 +11177,8 @@ __metadata:
   linkType: hard
 
 "es-abstract@npm:^1.19.0, es-abstract@npm:^1.19.1, es-abstract@npm:^1.19.2, es-abstract@npm:^1.19.5, es-abstract@npm:^1.20.0, es-abstract@npm:^1.20.1":
-  version: 1.20.3
-  resolution: "es-abstract@npm:1.20.3"
+  version: 1.20.4
+  resolution: "es-abstract@npm:1.20.4"
   dependencies:
     call-bind: ^1.0.2
     es-to-primitive: ^1.2.1
@@ -11190,7 +11190,7 @@ __metadata:
     has-property-descriptors: ^1.0.0
     has-symbols: ^1.0.3
     internal-slot: ^1.0.3
-    is-callable: ^1.2.6
+    is-callable: ^1.2.7
     is-negative-zero: ^2.0.2
     is-regex: ^1.1.4
     is-shared-array-buffer: ^1.0.2
@@ -11204,7 +11204,7 @@ __metadata:
     string.prototype.trimend: ^1.0.5
     string.prototype.trimstart: ^1.0.5
     unbox-primitive: ^1.0.2
-  checksum: 30dce54c52149f9c115c31a2566b6f03f10126a5ca4a76ad41dab150a762ed358870d74f194b60ae602c1e8a57a6f2df7e20388bbc589861d5d74ebb46a9273b
+  checksum: 724a6db288e5c2596a169939eb7750d1542c1516fc5a7100b9785fcd955bac9f7f8a35010e20ab4b5c6b2bc228573b82033f4d61ad926f1081d7953f61398c2e
   languageName: node
   linkType: hard
 
@@ -12492,13 +12492,13 @@ __metadata:
   linkType: hard
 
 "find-my-way@npm:^7.0.0":
-  version: 7.2.1
-  resolution: "find-my-way@npm:7.2.1"
+  version: 7.3.0
+  resolution: "find-my-way@npm:7.3.0"
   dependencies:
     fast-deep-equal: ^3.1.3
     fast-querystring: ^1.0.0
     safe-regex2: ^2.0.0
-  checksum: 9664507e51c2ded4fac6962a6492a5916f1012387ec8969b0da79bbe4da6d7a9e50c59344e277f00abce07e653e7268c131b65df9da323bb5bf1dd046d698e18
+  checksum: 925f55ed74bc6b872e5f4cb200655c05287d1da04afb3255e353e5c5580a39aafa784b15941b65f9022f6313a44a4eac605c98ea0f683a94a55ff3f52f16da3f
   languageName: node
   linkType: hard
 
@@ -13268,8 +13268,8 @@ __metadata:
   linkType: hard
 
 "graphql-config@npm:^4.3.1":
-  version: 4.3.5
-  resolution: "graphql-config@npm:4.3.5"
+  version: 4.3.6
+  resolution: "graphql-config@npm:4.3.6"
   dependencies:
     "@graphql-tools/graphql-file-loader": ^7.3.7
     "@graphql-tools/json-file-loader": ^7.3.7
@@ -13286,7 +13286,7 @@ __metadata:
     tslib: ^2.4.0
   peerDependencies:
     graphql: ^0.11.0 || ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0 || ^16.0.0
-  checksum: 561625c9c613a5c75675a250b66edc8c856e7b66c28373e1024049092dff0f5bcc0e35991a9cbc1d0998611e4c99cbcc32b6c3a5bbd87a4e90de3ede3eae36fa
+  checksum: 92d1d575fd5801759bf82c60a71034816dda614cc999b7fbff76b696a4bba431e40dc341140e670dd11818ad983bfe5ab7be3fe00b23f00a0fc888ef302a9488
   languageName: node
   linkType: hard
 
@@ -13644,9 +13644,9 @@ __metadata:
   linkType: hard
 
 "headers-polyfill@npm:^3.1.0":
-  version: 3.1.0
-  resolution: "headers-polyfill@npm:3.1.0"
-  checksum: 2b78659bb17ce2438e86589e665b13c2f4173b8c55783d9782a186d0700fe4917565233b051c9431e8ee287f94bdf6444c0554fd2d2025ccc0fbb0b7b13894f2
+  version: 3.1.1
+  resolution: "headers-polyfill@npm:3.1.1"
+  checksum: f35f2f2ae9645af0959a355600981e171664cacc3950a0690d7912d7b055c4f17936703f563a95a3a78f3f4b45653b3b445f77ddf932aeace7df8d8f1b4cf016
   languageName: node
   linkType: hard
 
@@ -14342,7 +14342,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"is-callable@npm:^1.1.3, is-callable@npm:^1.1.4, is-callable@npm:^1.2.6":
+"is-callable@npm:^1.1.3, is-callable@npm:^1.1.4, is-callable@npm:^1.2.7":
   version: 1.2.7
   resolution: "is-callable@npm:1.2.7"
   checksum: ceebaeb9d92e8adee604076971dd6000d38d6afc40bb843ea8e45c5579b57671c3f3b50d7f04869618242c6cee08d1b67806a8cb8edaaaf7c0748b3720d6066f

@@ -8790,9 +8790,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001400":
-  version: 1.0.30001418
-  resolution: "caniuse-lite@npm:1.0.30001418"
-  checksum: 0b7165f1ea0d232676d339af875038b75af2d025ee67f1651b46ab78db1bb12021875c3fa4e533e1fa1febf373d1858672f1038426ca4a1b240138bad3297ec5
+  version: 1.0.30001419
+  resolution: "caniuse-lite@npm:1.0.30001419"
+  checksum: 67fc216820db17b39f913044ebebeb22738577e4211b20a731869eb0da89a134e248f7f7badcb851d48551c3eec6768ecbe30cbbbe7775eb9feef601362626d6
   languageName: node
   linkType: hard
 
@@ -10890,9 +10890,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.251":
-  version: 1.4.280
-  resolution: "electron-to-chromium@npm:1.4.280"
-  checksum: e696cfee721441c831e51cc9b29c1318ebe6ec9b21e312ea785461a58264967c18dcbb91bb3a0fda64dceb948116aec5176176daae4d5b340c37bb833feddf16
+  version: 1.4.282
+  resolution: "electron-to-chromium@npm:1.4.282"
+  checksum: 50bf7157eed8dbfe1c8d52d87a8d09a99f535dbaa48b2109223851697c4a30dd9a75d2dc5d483fb3a87a771185172cf52000aef0032f1fdca35e3f415c037998
   languageName: node
   linkType: hard
 
@@ -12156,9 +12156,9 @@ __metadata:
   linkType: hard
 
 "fastify-plugin@npm:^4.0.0":
-  version: 4.2.1
-  resolution: "fastify-plugin@npm:4.2.1"
-  checksum: 2c1691798b74f21ed8c1592f3d31a9b756fd08d015dbc75d8a3a01ddd9e89e9efca43482dba7396f944b1bcacf3aae618337ac0528dd3720e38e33dac1f74367
+  version: 4.3.0
+  resolution: "fastify-plugin@npm:4.3.0"
+  checksum: 5761ae923cd3ba77c0cbcf1b4e08f9445fbe14b33e6e95384b69cf158e2bdd50f579eb67dd5f250e1cb68190a3ddb129848b0bb45239e8f92b650f854414c985
   languageName: node
   linkType: hard
 
@@ -19665,9 +19665,9 @@ __metadata:
   linkType: hard
 
 "regenerator-runtime@npm:^0.13.4, regenerator-runtime@npm:^0.13.7":
-  version: 0.13.9
-  resolution: "regenerator-runtime@npm:0.13.9"
-  checksum: b0f26612204f061a84064d2f3361629eae09993939112b9ffc3680bb369ecd125764d6654eace9ef11b36b44282ee52b988dda946ea52d372e7599a30eea73ee
+  version: 0.13.10
+  resolution: "regenerator-runtime@npm:0.13.10"
+  checksum: 2990a7a998ff6bf5caf5597c5671751f447560c5060ae5628469620a7ce640131bf0744c506d63c2166783121535da4ed782c3383371f945fb9a37481598a761
   languageName: node
   linkType: hard
 
@@ -20686,9 +20686,9 @@ __metadata:
   linkType: hard
 
 "shell-quote@npm:^1.7.3":
-  version: 1.7.3
-  resolution: "shell-quote@npm:1.7.3"
-  checksum: cf997c325f49c4393a859074f1ee9ca3da7d9e1940225bab24a86f0266504c7d7e356b83f13c74932cb243d53125b5c8c57b714017c53490bf1fe10540422014
+  version: 1.7.4
+  resolution: "shell-quote@npm:1.7.4"
+  checksum: 54a9f16eee9449879290b9ab082d380ff229b9176608879087d1c21c423ad0bf954fe02941963ee80cafce6e09d629ae5b209ac7061de22cf8e1b9b3edf3e694
   languageName: node
   linkType: hard
 

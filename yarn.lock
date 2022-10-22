@@ -4219,9 +4219,9 @@ __metadata:
   linkType: hard
 
 "@sinclair/typebox@npm:^0.24.1":
-  version: 0.24.47
-  resolution: "@sinclair/typebox@npm:0.24.47"
-  checksum: 3a94c82ce7f600b68f40be4b9989df7b85c82f5069c0b9210e58de49f268c9326707aba65216bff72e971a8b066fc798dbc5fa04a2f60f4831176dcee7124f70
+  version: 0.24.48
+  resolution: "@sinclair/typebox@npm:0.24.48"
+  checksum: 60cff4c2b10faf6b48c2bf43de179a07d3927c0d57e39d50cdd05e44be3c5d0156dd9f91a0c451dcb2036f117f593916f25869882b75eeb07ce679abb405a0b1
   languageName: node
   linkType: hard
 
@@ -6299,11 +6299,11 @@ __metadata:
   linkType: hard
 
 "@types/uglify-js@npm:*":
-  version: 3.17.0
-  resolution: "@types/uglify-js@npm:3.17.0"
+  version: 3.17.1
+  resolution: "@types/uglify-js@npm:3.17.1"
   dependencies:
     source-map: ^0.6.1
-  checksum: ee6d4a8ff6b1dcc080638c0380f54fccd00fd577100a37375b7f365bc78c2f328564132abba494963bcce11d6a6a2b54c2cdb3eb31b18556d26cafa9eb223fd8
+  checksum: c19a44017a901ab15f862e6645023bf96ffb7502b7305a15ee811667693ec66a997a42d5d0ba67814de537b562dafd26230142e26c9bb9f840ee8bb7f798cbcc
   languageName: node
   linkType: hard
 
@@ -8832,9 +8832,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001400":
-  version: 1.0.30001422
-  resolution: "caniuse-lite@npm:1.0.30001422"
-  checksum: 4118fa678afd6da91364d6172a2eb2631fa6a605b454524f2eaac553c4f3e06eb1c99b856646d642271497c593aa95f59fbe973495a4dc07c5fe48e2628a24f2
+  version: 1.0.30001423
+  resolution: "caniuse-lite@npm:1.0.30001423"
+  checksum: ffed328e54af20d96ff46fac1889cf70f1e0be8588f7b79156e0bbc356eb8d1570f804e7ec09c9fb221c2f8c95796357cf1c93c0902466f1a82e864dc8916b87
   languageName: node
   linkType: hard
 

@@ -5794,12 +5794,12 @@ __metadata:
   linkType: hard
 
 "@types/eslint@npm:*":
-  version: 8.4.7
-  resolution: "@types/eslint@npm:8.4.7"
+  version: 8.4.8
+  resolution: "@types/eslint@npm:8.4.8"
   dependencies:
     "@types/estree": "*"
     "@types/json-schema": "*"
-  checksum: 8fa7cea6ec0e3a288ba5548e9d3cb8f79d2f6f9a7a176f1dd4ca92ea04de0d2a779976b2011da00dea5871183a3068849f0631f2951e80422b5feb8922935c58
+  checksum: 42b6857b9673c6e881805c130ab6730e5440a3e8bc932fc71b8a8e42ac23c64e34e74484ec3551e07e47d0eeb99cebc9e94160e36ac3c3c087e8fbaf1c2e5b56
   languageName: node
   linkType: hard
 
@@ -6190,7 +6190,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:17.0.50, @types/react@npm:^17":
+"@types/react@npm:17.0.50":
   version: 17.0.50
   resolution: "@types/react@npm:17.0.50"
   dependencies:
@@ -6198,6 +6198,17 @@ __metadata:
     "@types/scheduler": "*"
     csstype: ^3.0.2
   checksum: 2e7cf61b7319b6398c62a29922255ce335c98bfbb55bda7c3aa386f4c2693d894d26eba9f7111f3ae86be79491d471a2ee89bf54f0445177ff70d1c30ab39382
+  languageName: node
+  linkType: hard
+
+"@types/react@npm:^17":
+  version: 17.0.51
+  resolution: "@types/react@npm:17.0.51"
+  dependencies:
+    "@types/prop-types": "*"
+    "@types/scheduler": "*"
+    csstype: ^3.0.2
+  checksum: 70ec464208844a19ada6d184d4cf04fab668d6f1188967694327c486a9a9fa35b96589b208e9ca34259ee68f5a2699ed6a0251c10706df1974c295b38c88b382
   languageName: node
   linkType: hard
 
@@ -8834,9 +8845,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001400":
-  version: 1.0.30001423
-  resolution: "caniuse-lite@npm:1.0.30001423"
-  checksum: ffed328e54af20d96ff46fac1889cf70f1e0be8588f7b79156e0bbc356eb8d1570f804e7ec09c9fb221c2f8c95796357cf1c93c0902466f1a82e864dc8916b87
+  version: 1.0.30001425
+  resolution: "caniuse-lite@npm:1.0.30001425"
+  checksum: ae6c3ef46ef62fa18ca31ab049d00ce63ed84bf3c4aa8e2a723b3907eb15341b6456538cab6a52f228bd90b201deba62c105767989b35294dd8ff9188ac0a1fc
   languageName: node
   linkType: hard
 
@@ -12994,9 +13005,9 @@ __metadata:
   linkType: hard
 
 "github-slugger@npm:^1.0.0":
-  version: 1.4.0
-  resolution: "github-slugger@npm:1.4.0"
-  checksum: 849d0aa198c05e774de18bc877e42fb4589a7e68baed974480fed3a5063e4279b6dcb78881b87f7a1c6f73c592271f067d835bac6f6361c796ccbf377f4b5d1e
+  version: 1.5.0
+  resolution: "github-slugger@npm:1.5.0"
+  checksum: 116f99732925f939cbfd6f2e57db1aa7e111a460db0d103e3b3f2fce6909d44311663d4542350706cad806345b9892358cc3b153674f88eeae77f43380b3bfca
   languageName: node
   linkType: hard
 

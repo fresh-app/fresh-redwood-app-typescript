@@ -6980,9 +6980,9 @@ __metadata:
   linkType: hard
 
 "@xmldom/xmldom@npm:^0.8.3":
-  version: 0.8.3
-  resolution: "@xmldom/xmldom@npm:0.8.3"
-  checksum: 26980d70907fe478e67f5c9a9ef48bc6de13cf13e24fd42f0088eb1f8d09cbb4bfb867e35ab7fcdbe4332a72cbf96e732b230844f8155e3097fc18219d556da0
+  version: 0.8.4
+  resolution: "@xmldom/xmldom@npm:0.8.4"
+  checksum: d3e0d89f41bcf5916383ccf6f518ede2e0f2fc315bc3c61a05206f563e0f2cddbf474551a27f6c56edb827cefddb2dcce56b5c65cb4446bd40fdd9e69d5dc3be
   languageName: node
   linkType: hard
 
@@ -8880,9 +8880,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001400":
-  version: 1.0.30001426
-  resolution: "caniuse-lite@npm:1.0.30001426"
-  checksum: 5b955cc191c1d7f3fb92ccde08d3d2003f3071fe96ce416d6c17c8aa725aa50e2d1546b3a47334a435b2992e125b3d81b47641d98f6c447a5ac71aff3b858f9a
+  version: 1.0.30001427
+  resolution: "caniuse-lite@npm:1.0.30001427"
+  checksum: 22d42142299a6c42dd5975b9e4f6df821bb54edbba4c59954312ae4ce27a6dc340d68dd2b04f22af1fedc5b380ccb1ac94e42c5dc08d645622dd18d7ed389382
   languageName: node
   linkType: hard
 
@@ -16687,11 +16687,11 @@ __metadata:
   linkType: hard
 
 "memfs@npm:^3.1.2, memfs@npm:^3.2.2, memfs@npm:^3.4.3":
-  version: 3.4.8
-  resolution: "memfs@npm:3.4.8"
+  version: 3.4.9
+  resolution: "memfs@npm:3.4.9"
   dependencies:
     fs-monkey: ^1.0.3
-  checksum: 672d4da9e25ef9d8369c7eb1cc8cc775573a3fc59a0af2d48de3051d6092d22dddeee077184a737a40fc0c9b58346a84d550c0378988a2642bd29fe4fea22432
+  checksum: 76267384e08b0ec07a525b1b055576e69d9c9f0eb24e9b9fd214ca5e1c989da24e7adea61747d9b237c8c1a82c4a2103a530b0ee1fe333146bb300820916235e
   languageName: node
   linkType: hard
 

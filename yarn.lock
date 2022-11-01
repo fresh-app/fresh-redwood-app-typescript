@@ -5979,12 +5979,12 @@ __metadata:
   linkType: hard
 
 "@types/jest@npm:*":
-  version: 29.2.0
-  resolution: "@types/jest@npm:29.2.0"
+  version: 29.2.1
+  resolution: "@types/jest@npm:29.2.1"
   dependencies:
     expect: ^29.0.0
     pretty-format: ^29.0.0
-  checksum: b992f309b18b919aa25a74e7d5f9ec3d4712d5a5251ec7cb4b393ac586ca675e046cbbdff6612defc1177052150dab371777a18f208b236676d2994375315049
+  checksum: 11c85fdb2997684f317fc65a2ceb22a0ee21d351b1b58bf351e20ce065614176d6932c6358472f9dc00846d26fde3caa31b10065f0245f3e1a8d094840ab0804
   languageName: node
   linkType: hard
 
@@ -6070,9 +6070,9 @@ __metadata:
   linkType: hard
 
 "@types/lodash@npm:^4.14.167":
-  version: 4.14.186
-  resolution: "@types/lodash@npm:4.14.186"
-  checksum: 6e0c73ead3eb5073e37c9b8141004369776fba31a3876d2b647d590b78256e414b770753f767a548a70ad23408ac5cc83b174adfd5dba2bb88b833f2763c632b
+  version: 4.14.187
+  resolution: "@types/lodash@npm:4.14.187"
+  checksum: 75253cb854d4abd94cc2d339e9265031a0fd49bbf70b9ea002ce0ff896caefb4e514cd14a45fab48088fee164f73d78cfa19e6bd5c274dddfecfc8b8ab25e112
   languageName: node
   linkType: hard
 
@@ -6124,9 +6124,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 18.11.8
-  resolution: "@types/node@npm:18.11.8"
-  checksum: 694191188e0c2d56229c1f6ae453590f4bf0c073ba59b7e6ca5a38e1db931dfdd5907d192f5ef08b1cb8f0049a6b8ca0a078f1ddc6402f60d5e0b4e02c32a81f
+  version: 18.11.9
+  resolution: "@types/node@npm:18.11.9"
+  checksum: aeaa925406f841c41679b32def9391a9892171e977105e025050e9f66e2830b4c50d0d974a1af0077ead3337a1f3bdf49ee7e7f402ebf2e034a3f97d9d240dba
   languageName: node
   linkType: hard
 
@@ -8880,9 +8880,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001400":
-  version: 1.0.30001427
-  resolution: "caniuse-lite@npm:1.0.30001427"
-  checksum: 22d42142299a6c42dd5975b9e4f6df821bb54edbba4c59954312ae4ce27a6dc340d68dd2b04f22af1fedc5b380ccb1ac94e42c5dc08d645622dd18d7ed389382
+  version: 1.0.30001429
+  resolution: "caniuse-lite@npm:1.0.30001429"
+  checksum: 93058328026cd693937d0117e492fb92ff4038f47f3011f88e4179d9a731eb5dadf33ee65b3e0b55a8b7dbf08695b81a813f7902e32d6e96c42bccd09c54a227
   languageName: node
   linkType: hard
 
@@ -23573,9 +23573,9 @@ __metadata:
   linkType: hard
 
 "webpack-virtual-modules@npm:^0.4.1":
-  version: 0.4.5
-  resolution: "webpack-virtual-modules@npm:0.4.5"
-  checksum: 2a7c2dbb2e5e32b06b4ab3778609ce70d1ba4bbc05d3231a3da5219dc03131d555dda4a7d4694d100a344f87e458378ea7ba241ba2a8b81b1866e53c99af5aee
+  version: 0.4.6
+  resolution: "webpack-virtual-modules@npm:0.4.6"
+  checksum: d3ecd680289e04f6fac70f09a682385b176303cfdc69ad08f11fce6fa031f9c054b3e728cb54967da48f051cd2ebe3f0d0d02bf78d3dfc8a3a9be91ea7544bbb
   languageName: node
   linkType: hard
 

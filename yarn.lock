@@ -2672,10 +2672,10 @@ __metadata:
   linkType: hard
 
 "@graphql-tools/prisma-loader@npm:^7.2.7":
-  version: 7.2.36
-  resolution: "@graphql-tools/prisma-loader@npm:7.2.36"
+  version: 7.2.37
+  resolution: "@graphql-tools/prisma-loader@npm:7.2.37"
   dependencies:
-    "@graphql-tools/url-loader": 7.16.16
+    "@graphql-tools/url-loader": 7.16.17
     "@graphql-tools/utils": 9.1.1
     "@types/js-yaml": ^4.0.0
     "@types/json-stable-stringify": ^1.0.32
@@ -2696,7 +2696,7 @@ __metadata:
     yaml-ast-parser: ^0.0.43
   peerDependencies:
     graphql: ^14.0.0 || ^15.0.0 || ^16.0.0 || ^17.0.0
-  checksum: e5d173ab7719a8cdc7472a28fa71ec5345deda1b5648f48fb6940a1b13fe3297bc60e784703347f001bb6068a47ebc218041e57ceea980d8539ee974ad2f4136
+  checksum: 9fc4bf9656f816f972eb1d8a2c5ee1c8b7160a822974897041a9386722997a88781d1521c7a2c6228cfdfe165e25e3b0b49c231cb8c93257d835826baea623f4
   languageName: node
   linkType: hard
 
@@ -2741,9 +2741,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@graphql-tools/url-loader@npm:7.16.16, @graphql-tools/url-loader@npm:^7.13.2, @graphql-tools/url-loader@npm:^7.9.7":
-  version: 7.16.16
-  resolution: "@graphql-tools/url-loader@npm:7.16.16"
+"@graphql-tools/url-loader@npm:7.16.17, @graphql-tools/url-loader@npm:^7.13.2, @graphql-tools/url-loader@npm:^7.9.7":
+  version: 7.16.17
+  resolution: "@graphql-tools/url-loader@npm:7.16.17"
   dependencies:
     "@ardatan/sync-fetch": 0.0.1
     "@graphql-tools/delegate": 9.0.17
@@ -2751,7 +2751,7 @@ __metadata:
     "@graphql-tools/executor-http": 0.0.3
     "@graphql-tools/executor-legacy-ws": 0.0.3
     "@graphql-tools/utils": 9.1.1
-    "@graphql-tools/wrap": 9.2.13
+    "@graphql-tools/wrap": 9.2.14
     "@types/ws": ^8.0.0
     "@whatwg-node/fetch": ^0.5.0
     isomorphic-ws: 5.0.0
@@ -2760,7 +2760,7 @@ __metadata:
     ws: 8.11.0
   peerDependencies:
     graphql: ^14.0.0 || ^15.0.0 || ^16.0.0 || ^17.0.0
-  checksum: 42b36411f09b1589e6354f76ce5d5420c825f70aed9de2f361bb933eed2822f324778ada9834fbda78266e22732ad3be4483e973dd73367479f551d5cabfce43
+  checksum: 15ec643be61d6f340bdbce567d0492b48197734b77640cf918a0fff42f76c4517f1e33f957e200a0db95de78c7a6bdbafd078a11b04985eb4a957e6a45bdfb75
   languageName: node
   linkType: hard
 
@@ -2808,9 +2808,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@graphql-tools/wrap@npm:9.2.13":
-  version: 9.2.13
-  resolution: "@graphql-tools/wrap@npm:9.2.13"
+"@graphql-tools/wrap@npm:9.2.14":
+  version: 9.2.14
+  resolution: "@graphql-tools/wrap@npm:9.2.14"
   dependencies:
     "@graphql-tools/delegate": 9.0.17
     "@graphql-tools/schema": 9.0.10
@@ -2819,7 +2819,7 @@ __metadata:
     value-or-promise: 1.0.11
   peerDependencies:
     graphql: ^14.0.0 || ^15.0.0 || ^16.0.0 || ^17.0.0
-  checksum: 268c8118f35ff6193e22ce79537e40a601be0dcd613b14fadc83973268766683ce9a981f17466acc5d99a70f173376553ac4c6a4fc95ab84e04533ebf6c0b426
+  checksum: fa1c94167ac8125de9ca4ce4501b9ec1c63da74f882e25ecf5a800ebcd283fa075515fe26e2acabc18c042c789e3dc20f3c24f65979a422afe230806d94c5783
   languageName: node
   linkType: hard
 

@@ -16790,11 +16790,11 @@ __metadata:
   linkType: hard
 
 "memfs@npm:^3.1.2, memfs@npm:^3.2.2, memfs@npm:^3.4.3":
-  version: 3.4.11
-  resolution: "memfs@npm:3.4.11"
+  version: 3.4.12
+  resolution: "memfs@npm:3.4.12"
   dependencies:
     fs-monkey: ^1.0.3
-  checksum: 31792e27e6622d63e44aafccf9650d432ba51bcdfddf6ebefcf5fe7c5279da8a3d5481b1597bd21331e68f37c2040a496066c972cc66f18a5022d265c800d395
+  checksum: 60c44a3887fb02fc2f625dca0f801db5174cd9990ebb6aa5871b6800c442f2b5d1d900168db3a717c380dda76e3c891afc4623ac3a1568a2978bf05bbf727f23
   languageName: node
   linkType: hard
 

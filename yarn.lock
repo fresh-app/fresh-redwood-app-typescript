@@ -7438,12 +7438,12 @@ __metadata:
   linkType: hard
 
 "anymatch@npm:^3.0.0, anymatch@npm:^3.0.3, anymatch@npm:~3.1.2":
-  version: 3.1.2
-  resolution: "anymatch@npm:3.1.2"
+  version: 3.1.3
+  resolution: "anymatch@npm:3.1.3"
   dependencies:
     normalize-path: ^3.0.0
     picomatch: ^2.0.4
-  checksum: 900645535aee46ed7958f4f5b5e38abcbf474b5230406e913de15fc9a1310f0d5322775deb609688efe31010fa57831e55d36040b19826c22ce61d537e9b9759
+  checksum: 57b06ae984bc32a0d22592c87384cd88fe4511b1dd7581497831c56d41939c8a001b28e7b853e1450f2bf61992dfcaa8ae2d0d161a0a90c4fb631ef07098fbac
   languageName: node
   linkType: hard
 
@@ -8957,9 +8957,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001400":
-  version: 1.0.30001431
-  resolution: "caniuse-lite@npm:1.0.30001431"
-  checksum: 720e53b7e4afbb91cc7683d64037da23b98a3199b4d34cecbba3e702646910873c21df8e3aa7cea1c37095a99ca9aff24deff610dbccd61c0436907234d77e90
+  version: 1.0.30001434
+  resolution: "caniuse-lite@npm:1.0.30001434"
+  checksum: 3ebceec5ef7c5e8200a6f1ff24c40ec237f9d718838b0931bc670d42d4c47c446f52e80ccd9c05c84788d9fbe012a7c1afbb824374d4f357596789bc7dc83fd0
   languageName: node
   linkType: hard
 
@@ -15674,9 +15674,9 @@ __metadata:
   linkType: hard
 
 "js-sdsl@npm:^4.1.4":
-  version: 4.1.5
-  resolution: "js-sdsl@npm:4.1.5"
-  checksum: d95116180b977da36ad23a4f242a8eb96da42910a3662143e07fa12a5276663564ea9102d8570b2e6b0918fe284f2924a173082b6f84d25df29fbec3f71aa42f
+  version: 4.2.0
+  resolution: "js-sdsl@npm:4.2.0"
+  checksum: fe6525d84fa506d56b1a6f7754da2702119786869eaa29ec6e7bd723db1e950b5ec2f2c1890fc4d7c705fe1e8ce545a0717c76ad1d60f683a24837ce27943352
   languageName: node
   linkType: hard
 

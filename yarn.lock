@@ -2128,17 +2128,17 @@ __metadata:
   linkType: hard
 
 "@fastify/reply-from@npm:^8.0.0":
-  version: 8.3.0
-  resolution: "@fastify/reply-from@npm:8.3.0"
+  version: 8.3.1
+  resolution: "@fastify/reply-from@npm:8.3.1"
   dependencies:
     "@fastify/error": ^3.0.0
     end-of-stream: ^1.4.4
     fast-querystring: ^1.0.0
     fastify-plugin: ^4.0.0
     pump: ^3.0.0
-    tiny-lru: ^8.0.2
+    tiny-lru: ^10.0.0
     undici: ^5.5.1
-  checksum: 030a9afd423e1ee8ce032145f3d6e1edb796113ac4c030e8f4c04650e03e2473d312a32504f3ff2df5bec9cc9639cf1ea2236b11d59c563bac568dd1a1cb142c
+  checksum: d27fd54ee2b8e3cd7368712b082d7a73e32ae41475c291682198b9e80bdc2014a52c868df28e87cb82a55f2b9b0252648d5f93c47ab95c9e2e9059b5723792e5
   languageName: node
   linkType: hard
 
@@ -9254,9 +9254,9 @@ __metadata:
   linkType: hard
 
 "ci-info@npm:^3.2.0":
-  version: 3.6.1
-  resolution: "ci-info@npm:3.6.1"
-  checksum: 7d5147d627590157b340a795e97b23e20b9633ea34ccc943ef4dfae4ab5cc50b9a83b7e6c513b99f864dc5cca60b4d5fdbfc063381a02730b2bf6cd514af3949
+  version: 3.6.2
+  resolution: "ci-info@npm:3.6.2"
+  checksum: 1ed4294b0a02f69622d32247c833db73e5562776d50fda20f9a9c76fe023bf8f428f1dbddb8fe29a17cefd8eccb5a66d4c6fa762b6b0a9414af0f676d051c1ef
   languageName: node
   linkType: hard
 
@@ -11237,12 +11237,12 @@ __metadata:
   linkType: hard
 
 "enhanced-resolve@npm:^5.10.0":
-  version: 5.10.0
-  resolution: "enhanced-resolve@npm:5.10.0"
+  version: 5.11.0
+  resolution: "enhanced-resolve@npm:5.11.0"
   dependencies:
-    graceful-fs: ^4.2.4
+    graceful-fs: ^4.2.9
     tapable: ^2.2.0
-  checksum: 697c066552dadde9ea8ec7068677711dd5d6c49434b5ff96b2de2068a65060ffca32629abb899a86cca5fcb6b067d88119d1a69c7c2082e3a09c1165f760ad87
+  checksum: bf302912055e4bdd83331a50721b4487ce09e7c8e52ad681780ffaf5fa739b936474f9b1a6327d8912efdecd0f19e5d15a707fa68f587b4382654ef71332ce6e
   languageName: node
   linkType: hard
 
@@ -22151,10 +22151,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tiny-lru@npm:^8.0.2":
-  version: 8.0.2
-  resolution: "tiny-lru@npm:8.0.2"
-  checksum: 32dc73db748ae50bf43498f81150ed23922c924d7a3665ea240c7041abbbd5e8667c05328fd520ca923b4d10b89e69a4ba671365eaac221c6f7eb8b898530506
+"tiny-lru@npm:^10.0.0":
+  version: 10.0.1
+  resolution: "tiny-lru@npm:10.0.1"
+  checksum: 37cbb0419044026cf3d701734bd03e360315aba338f346736a46d8aaaafec8b4f1054c2e4e614a34ab19a5ad04673ee95fdd2d7b97e2b5e7cf9db2426f00d114
   languageName: node
   linkType: hard
 

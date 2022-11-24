@@ -6115,9 +6115,9 @@ __metadata:
   linkType: hard
 
 "@types/lodash@npm:^4.14.167":
-  version: 4.14.189
-  resolution: "@types/lodash@npm:4.14.189"
-  checksum: af4a0178e52e55682c7fc5b7376eed1e64ce3879800940b1e608e14e97566fcdc9c830bf0db3c19052bfdf17129062fa02044ed4b8a30381fe16384de6ca307e
+  version: 4.14.190
+  resolution: "@types/lodash@npm:4.14.190"
+  checksum: 512ce560e96bf1090c80bacfcb1b472311a549283efd6009b96c7b9284d8cfaed3950489d0e6ea136930d590dcef65869fe4e9ea94437b2753502fa77fcfd2e6
   languageName: node
   linkType: hard
 
@@ -6474,11 +6474,11 @@ __metadata:
   linkType: hard
 
 "@types/yargs@npm:^17.0.8":
-  version: 17.0.13
-  resolution: "@types/yargs@npm:17.0.13"
+  version: 17.0.14
+  resolution: "@types/yargs@npm:17.0.14"
   dependencies:
     "@types/yargs-parser": "*"
-  checksum: 5005e1e7408b9fea96c356becf19256f1a9bca02120852d3c0089ba7123528b0b6891185e9c92bac25cb5c04090a7a714b201523a6bf4a8a226852205c631208
+  checksum: e7a5980bfcee2087a81af7e1dd0b561fe7837051c579aa644e09abc798c6a7456a56062d52cf3217d30e715156ce696b6eaf66539ea56d276e15ee7522a4bf40
   languageName: node
   linkType: hard
 
@@ -11237,12 +11237,12 @@ __metadata:
   linkType: hard
 
 "enhanced-resolve@npm:^5.10.0":
-  version: 5.11.0
-  resolution: "enhanced-resolve@npm:5.11.0"
+  version: 5.12.0
+  resolution: "enhanced-resolve@npm:5.12.0"
   dependencies:
-    graceful-fs: ^4.2.9
+    graceful-fs: ^4.2.4
     tapable: ^2.2.0
-  checksum: bf302912055e4bdd83331a50721b4487ce09e7c8e52ad681780ffaf5fa739b936474f9b1a6327d8912efdecd0f19e5d15a707fa68f587b4382654ef71332ce6e
+  checksum: 5738924cfe3641d04b89c2856fee3d109d7bd71bbe234fb7f54843dda65f293e5f3eee6d5970ced70dbb09016085b961e60d1eb26cac72a21044479954b6cdfd
   languageName: node
   linkType: hard
 
@@ -19127,7 +19127,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier@npm:2.7.1, prettier@npm:^2.6.2":
+"prettier@npm:2.7.1":
   version: 2.7.1
   resolution: "prettier@npm:2.7.1"
   bin:
@@ -19142,6 +19142,15 @@ __metadata:
   bin:
     prettier: bin-prettier.js
   checksum: b9f434af2f25a37aad0b133894827e980885eb8bf317444c9dde0401ed2c7f463f9996d691f5ee5a0a4450ab46a894cd6557516b561e2522821522ce1f4c6668
+  languageName: node
+  linkType: hard
+
+"prettier@npm:^2.6.2":
+  version: 2.8.0
+  resolution: "prettier@npm:2.8.0"
+  bin:
+    prettier: bin-prettier.js
+  checksum: bfb843c82d74e4f79945b7f29c9d5de483bc0f1de8c9f41bbafd7e08dbe71f81e446cbe293681edea60ebec6609d8d0c7e7b7dff52972b54e77784eb687dad1a
   languageName: node
   linkType: hard
 
@@ -20996,11 +21005,11 @@ __metadata:
   linkType: hard
 
 "simple-update-notifier@npm:^1.0.7":
-  version: 1.0.7
-  resolution: "simple-update-notifier@npm:1.0.7"
+  version: 1.0.8
+  resolution: "simple-update-notifier@npm:1.0.8"
   dependencies:
     semver: ~7.0.0
-  checksum: a1c536a037818f45128cbeb96e89d11c8a241f13eb2a301b95c4b78a563e1b652a7d2213d3c111383babac2bcbef7b04e6b33e7ae48023d5f660f4d44e7ecfbe
+  checksum: 5690b0defe17934780247aba17435b8a6249afd29209639d3f9a019fea84e179c6ce451f43c436b1b5868328fe51645c0d73e3f1b1e95e8b0217e42523e8a7c5
   languageName: node
   linkType: hard
 

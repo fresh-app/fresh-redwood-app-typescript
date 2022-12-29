@@ -20537,9 +20537,9 @@ __metadata:
   linkType: hard
 
 "safe-stable-stringify@npm:^2.3.1":
-  version: 2.4.1
-  resolution: "safe-stable-stringify@npm:2.4.1"
-  checksum: 391dbab34964be0d0e63b91bc996ca23ef8daae440b18cb4132f7c3db1af206f88d047af1149ef7ea69db6b6cdb49472166bb35e43fe82db53a9a3ed315aab79
+  version: 2.4.2
+  resolution: "safe-stable-stringify@npm:2.4.2"
+  checksum: 9120fb0576693a3d04fc39fec594df446ad9975a5b8c0771d1adcad164c64810996880328c0092550764d094f33a58dc823fc85204f2f1ee40b040e24f106335
   languageName: node
   linkType: hard
 

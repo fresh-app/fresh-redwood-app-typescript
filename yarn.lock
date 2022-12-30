@@ -6548,11 +6548,11 @@ __metadata:
   linkType: hard
 
 "@types/yargs@npm:^17.0.8":
-  version: 17.0.17
-  resolution: "@types/yargs@npm:17.0.17"
+  version: 17.0.18
+  resolution: "@types/yargs@npm:17.0.18"
   dependencies:
     "@types/yargs-parser": "*"
-  checksum: 4a95d254292c7a688685afed4d75f6e99826ccb08a669e8fc9867b2d97342a696fc9bdb874b8631311a0d8c42d0b12ed7f5bd994aa75cd916ec88183985c2092
+  checksum: bbc5cb5ce68c547f1c5349d1352f6dbfef3a963e223b82f17d53771a689f879ee427042be57ec3aa35a10af643bd4e603aa6e35d1bd8b5bcf80396226c9c9c7b
   languageName: node
   linkType: hard
 
@@ -9904,18 +9904,18 @@ __metadata:
   linkType: hard
 
 "core-js-compat@npm:^3.25.1, core-js-compat@npm:^3.8.1":
-  version: 3.27.0
-  resolution: "core-js-compat@npm:3.27.0"
+  version: 3.27.1
+  resolution: "core-js-compat@npm:3.27.1"
   dependencies:
     browserslist: ^4.21.4
-  checksum: 0efd4565a0b1d92f10eb7f9440a79a08a6e716c8e5926b654ba4d73bb26a8f9d00c69a9cd3bbdc64c05a00cdf697f5abfe7764135d6ad0ad67d32e1b1bfec612
+  checksum: 635ffcc3f40ca4cb45b10ea805ebf57bbba69873014c89bec96ae09f15cbd3012bd5102bdf87551ef2f1c629e279837632200c4888428035cf822f6e40dc383b
   languageName: node
   linkType: hard
 
 "core-js-pure@npm:^3.23.3, core-js-pure@npm:^3.25.1":
-  version: 3.27.0
-  resolution: "core-js-pure@npm:3.27.0"
-  checksum: 8bf25d490b3b6a41c1e75e603a822c2df517d24638aac9389df30004b5b8b97f6a05349e612bd316570123dd1bafb05de36611af82d9d33f6840c6c8af6394c1
+  version: 3.27.1
+  resolution: "core-js-pure@npm:3.27.1"
+  checksum: c1da3f6ce09544a43fd01e24ae15e248882fa102e6ac19454e46f4f3587e3bf2e00ad2596c8dbe691cb3a4c4cf31c72195e48904be830f541be70a90f8531085
   languageName: node
   linkType: hard
 
@@ -9927,9 +9927,9 @@ __metadata:
   linkType: hard
 
 "core-js@npm:^3.0.4, core-js@npm:^3.26.0, core-js@npm:^3.6.5, core-js@npm:^3.8.2":
-  version: 3.27.0
-  resolution: "core-js@npm:3.27.0"
-  checksum: b205fc8771436a316ab1d3bce74e531a1927b93508d65579cafea5b0bc09401c8115cbe74f320546036940db50171af410d0730e3e44b01017ab02ee76fa59b7
+  version: 3.27.1
+  resolution: "core-js@npm:3.27.1"
+  checksum: 39bb23f4ab38df2b51f0967b5e398759565e38a92540019a9c2ee7e747b4c833296ef139c8be9db3e16024c450eff1d09be43c3c5c26e0547a004866fe86dadb
   languageName: node
   linkType: hard
 

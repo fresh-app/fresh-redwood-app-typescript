@@ -5996,13 +5996,13 @@ __metadata:
   linkType: hard
 
 "@types/express-serve-static-core@npm:*, @types/express-serve-static-core@npm:^4.17.31":
-  version: 4.17.31
-  resolution: "@types/express-serve-static-core@npm:4.17.31"
+  version: 4.17.32
+  resolution: "@types/express-serve-static-core@npm:4.17.32"
   dependencies:
     "@types/node": "*"
     "@types/qs": "*"
     "@types/range-parser": "*"
-  checksum: c24f28f77413e16e1eea765c530ee8dc4797379a44323e9788f92fabb29c2c31beab17c4e64dec8eb8166f8d2abd40e45bd8bc876e55de271a5688b603ae1162
+  checksum: 283024a1d8247e4d39ca0f9ff23bbd3b88799dbd508c52b7ea479b21d326a2d0a9c362ec4b91d621d2cb7c5e961eb5a094d79702aeae25b295c6f2a70271c13e
   languageName: node
   linkType: hard
 
@@ -6120,7 +6120,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/jest@npm:*, @types/jest@npm:29.2.4":
+"@types/jest@npm:*":
+  version: 29.2.5
+  resolution: "@types/jest@npm:29.2.5"
+  dependencies:
+    expect: ^29.0.0
+    pretty-format: ^29.0.0
+  checksum: df7a21f93d1c6dbe520b2bd735a51dc1675bdc32090d421ea742a320a9ea0126680a3abe66321b0944941061dda698b1e775dcde2d16c44f19e24a94f7ef7020
+  languageName: node
+  linkType: hard
+
+"@types/jest@npm:29.2.4":
   version: 29.2.4
   resolution: "@types/jest@npm:29.2.4"
   dependencies:
@@ -6523,11 +6533,11 @@ __metadata:
   linkType: hard
 
 "@types/ws@npm:^8.0.0, @types/ws@npm:^8.5.1":
-  version: 8.5.3
-  resolution: "@types/ws@npm:8.5.3"
+  version: 8.5.4
+  resolution: "@types/ws@npm:8.5.4"
   dependencies:
     "@types/node": "*"
-  checksum: af36857b804e6df615b401bacf34e9312f073ed9dbeda35be16ee3352d18a4449f27066169893166a6ec17ae51557c3adf8d232ac4a4a0226aafb3267e1f1b39
+  checksum: dd8bde7d69296037b5053d9c644ce3a86a988e6cb8a632e36f5040e9e274c8879a10c13ac7fe163e4eb11a85f5b8c46fe6ce5f257b80cc93118494336f4e26c6
   languageName: node
   linkType: hard
 
@@ -7041,7 +7051,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@whatwg-node/fetch@npm:0.5.3, @whatwg-node/fetch@npm:^0.5.0":
+"@whatwg-node/fetch@npm:0.5.3":
   version: 0.5.3
   resolution: "@whatwg-node/fetch@npm:0.5.3"
   dependencies:
@@ -7071,6 +7081,22 @@ __metadata:
     undici: ^5.8.0
     web-streams-polyfill: ^3.2.0
   checksum: 9acb9e1c598c3917256b44ce820dd5196d5e430f214eebcf9f9930e56a7ff7e764dcd9ebc9310a324f2759b5fcde65eb4bc6494b7d1dd7a8c32fc90f7bf528b8
+  languageName: node
+  linkType: hard
+
+"@whatwg-node/fetch@npm:^0.5.0":
+  version: 0.5.4
+  resolution: "@whatwg-node/fetch@npm:0.5.4"
+  dependencies:
+    "@peculiar/webcrypto": ^1.4.0
+    abort-controller: ^3.0.0
+    busboy: ^1.6.0
+    form-data-encoder: ^1.7.1
+    formdata-node: ^4.3.1
+    node-fetch: ^2.6.7
+    undici: ^5.12.0
+    web-streams-polyfill: ^3.2.0
+  checksum: 08b5b7d37d2c15777ee919c0de03986083763cd467cb025a7bce0601f7ed2e50cd1374a1467a8511820cb84b6833ab5225ac88b98f15157d7429a9632b9149fe
   languageName: node
   linkType: hard
 
@@ -15792,13 +15818,13 @@ __metadata:
   linkType: hard
 
 "json5@npm:^1.0.1":
-  version: 1.0.1
-  resolution: "json5@npm:1.0.1"
+  version: 1.0.2
+  resolution: "json5@npm:1.0.2"
   dependencies:
     minimist: ^1.2.0
   bin:
     json5: lib/cli.js
-  checksum: 7f75dd797151680a4e14c4224c1343b32a43272aa6e6333ddec2b0822df4ea116971689b251879a1248592da24f7929902c13f83d7390c3f3d44f18e8e9719f5
+  checksum: 9ee316bf21f000b00752e6c2a3b79ecf5324515a5c60ee88983a1910a45426b643a4f3461657586e8aeca87aaf96f0a519b0516d2ae527a6c3e7eed80f68717f
   languageName: node
   linkType: hard
 

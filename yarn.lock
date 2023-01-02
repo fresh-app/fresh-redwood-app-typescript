@@ -10968,9 +10968,9 @@ __metadata:
   linkType: hard
 
 "dom-accessibility-api@npm:^0.5.6, dom-accessibility-api@npm:^0.5.9":
-  version: 0.5.14
-  resolution: "dom-accessibility-api@npm:0.5.14"
-  checksum: fbeacecad9acb15c723bd2c6d946578cff861d2bd622e7483c06b0f3641b435f4f4f37b6e1df65ea410462c72a0e9ec7d96e0a106becfcc51ba54cfaa7ff669b
+  version: 0.5.15
+  resolution: "dom-accessibility-api@npm:0.5.15"
+  checksum: 5995ee3ca77c536312a3938075d9124175223be563b94189c133679bd04b0a6e4fde0a6d3714e53b9e00980798291e761995a1e6a6023ac88031c49cfea7fe65
   languageName: node
   linkType: hard
 
@@ -12370,11 +12370,11 @@ __metadata:
   linkType: hard
 
 "fastq@npm:^1.6.0, fastq@npm:^1.6.1":
-  version: 1.14.0
-  resolution: "fastq@npm:1.14.0"
+  version: 1.15.0
+  resolution: "fastq@npm:1.15.0"
   dependencies:
     reusify: ^1.0.4
-  checksum: 11d27499021965f51db44f258085d84686920318f9a7f778567b097729c01a8e96ecd2ccfca33f1dbc0e01e26a4e48188a2d772c789071abd43d3ad96cdac3ec
+  checksum: 5ce4f83afa5f88c9379e67906b4d31bc7694a30826d6cc8d0f0473c966929017fda65c2174b0ec89f064ede6ace6c67f8a4fe04cef42119b6a55b0d465554c24
   languageName: node
   linkType: hard
 
@@ -12558,13 +12558,13 @@ __metadata:
   linkType: hard
 
 "find-my-way@npm:^7.3.0":
-  version: 7.3.1
-  resolution: "find-my-way@npm:7.3.1"
+  version: 7.4.0
+  resolution: "find-my-way@npm:7.4.0"
   dependencies:
     fast-deep-equal: ^3.1.3
     fast-querystring: ^1.0.0
     safe-regex2: ^2.0.0
-  checksum: 8042821816b5dcbd45e8d8a41ac04015ed24a99add382968ba9ae20cc6c7ce5b1c0596828db21959056ad976dd1ca11ba447f70a122403971cebd5bdb88e4340
+  checksum: cfdb3bdf8df0a65e4b955aeef37874a363e775d687880203dbdeb3ec4c933e04903653b39470a1a2a4581ca4fa0b102028288680c131eb55a4556c4c26f77f82
   languageName: node
   linkType: hard
 
@@ -19838,14 +19838,14 @@ __metadata:
   linkType: hard
 
 "readable-stream@npm:^4.0.0":
-  version: 4.2.0
-  resolution: "readable-stream@npm:4.2.0"
+  version: 4.3.0
+  resolution: "readable-stream@npm:4.3.0"
   dependencies:
     abort-controller: ^3.0.0
     buffer: ^6.0.3
     events: ^3.3.0
     process: ^0.11.10
-  checksum: b153f9d0db659072427817f7c1e8f5b21ee3ac344000a2e561188df58606852b7744f9be14e63fe5c832b86587a25f60795f40b66e5e66c5f2d6da62149f7e5e
+  checksum: c74b8bfdfa09b0295e3cf031c17358ce6638e04498299c9c85ff922cd786e44b4098e79961d0c7ac9aa5a8279b335b8eb2f97d41fb0661bebce643be0ec3f49b
   languageName: node
   linkType: hard
 

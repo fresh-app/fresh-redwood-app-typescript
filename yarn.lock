@@ -9031,9 +9031,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001400":
-  version: 1.0.30001441
-  resolution: "caniuse-lite@npm:1.0.30001441"
-  checksum: 4b91bfc03cdbb9cf54225bbc36c2c568879d05ff8f2a34bdafbd7e5acc578d913b2d169bab4bf8a0992678e308779cd5603be0928d6552acefebfc52ded73aa1
+  version: 1.0.30001442
+  resolution: "caniuse-lite@npm:1.0.30001442"
+  checksum: 02d10a1d6a83cc88771a42ea5aa0c98f5768180c69badeec2bf40d269bbcbd0239a3c197af5e5dce51d0bd5d04e069394cbe611f489082c8244ab95f597e1842
   languageName: node
   linkType: hard
 
@@ -10645,15 +10645,17 @@ __metadata:
   linkType: hard
 
 "deep-equal@npm:^2.0.5":
-  version: 2.1.0
-  resolution: "deep-equal@npm:2.1.0"
+  version: 2.2.0
+  resolution: "deep-equal@npm:2.2.0"
   dependencies:
     call-bind: ^1.0.2
     es-get-iterator: ^1.1.2
     get-intrinsic: ^1.1.3
     is-arguments: ^1.1.1
+    is-array-buffer: ^3.0.1
     is-date-object: ^1.0.5
     is-regex: ^1.1.4
+    is-shared-array-buffer: ^1.0.2
     isarray: ^2.0.5
     object-is: ^1.1.5
     object-keys: ^1.1.1
@@ -10662,8 +10664,8 @@ __metadata:
     side-channel: ^1.0.4
     which-boxed-primitive: ^1.0.2
     which-collection: ^1.0.1
-    which-typed-array: ^1.1.8
-  checksum: dbe6bdf8bcddc0e5f91d79601bc563bf615bcae4fc385068ad8ce8f911c347b7097fd57137b0a9b465fdb0ca2a08af705d5be3e10342366cef671dc3a5b41b6e
+    which-typed-array: ^1.1.9
+  checksum: 31de99f3c1b516ef67ba82cbe54fdc1691cdd93ab8ede561eee94f7f8baff6594ddc0860c48707f6cd12e4efd5421e3450e20c40ca71906a9d0abe9017944cd3
   languageName: node
   linkType: hard
 
@@ -11477,12 +11479,13 @@ __metadata:
   linkType: hard
 
 "es-set-tostringtag@npm:^2.0.0":
-  version: 2.0.0
-  resolution: "es-set-tostringtag@npm:2.0.0"
+  version: 2.0.1
+  resolution: "es-set-tostringtag@npm:2.0.1"
   dependencies:
     get-intrinsic: ^1.1.3
+    has: ^1.0.3
     has-tostringtag: ^1.0.0
-  checksum: 7b16abf786579fcce899c4a780bafc97fdc04cf4ae58e369d2c2cd48952485bf6a9a2698b7d9eda9371d6604ba63063083dac5795b9c54db7c90ffc1c031363a
+  checksum: 9af096365e3861bb29755cc5f76f15f66a7eab0e83befca396129090c1d9737e54090278b8e5357e97b5f0a5b0459fca07c40c6740884c2659cbf90ef8e508cc
   languageName: node
   linkType: hard
 
@@ -14378,13 +14381,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"is-array-buffer@npm:^3.0.0":
-  version: 3.0.0
-  resolution: "is-array-buffer@npm:3.0.0"
+"is-array-buffer@npm:^3.0.0, is-array-buffer@npm:^3.0.1":
+  version: 3.0.1
+  resolution: "is-array-buffer@npm:3.0.1"
   dependencies:
     call-bind: ^1.0.2
     get-intrinsic: ^1.1.3
-  checksum: 61064154041918215b80926b279a63e6a3f743d08c92499a4d1f6541f96627e9bcba869a269e081f02fb2fe9afa76d5906c3f3bdbceb57ba7cbab926aa93712b
+    is-typed-array: ^1.1.10
+  checksum: a20fc6be40c2efa9465f56274d4ad9c13b84b5f7efe76ec4897609817f079d5e86f3b392c3a78e12d96e0151bcf23389946b0721bd00a09fc9c14905fd7edb1b
   languageName: node
   linkType: hard
 
@@ -23900,7 +23904,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"which-typed-array@npm:^1.1.2, which-typed-array@npm:^1.1.8, which-typed-array@npm:^1.1.9":
+"which-typed-array@npm:^1.1.2, which-typed-array@npm:^1.1.9":
   version: 1.1.9
   resolution: "which-typed-array@npm:1.1.9"
   dependencies:

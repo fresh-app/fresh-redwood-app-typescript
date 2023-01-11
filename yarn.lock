@@ -11409,11 +11409,12 @@ __metadata:
   linkType: hard
 
 "es-abstract@npm:^1.19.0, es-abstract@npm:^1.20.4":
-  version: 1.21.0
-  resolution: "es-abstract@npm:1.21.0"
+  version: 1.21.1
+  resolution: "es-abstract@npm:1.21.1"
   dependencies:
+    available-typed-arrays: ^1.0.5
     call-bind: ^1.0.2
-    es-set-tostringtag: ^2.0.0
+    es-set-tostringtag: ^2.0.1
     es-to-primitive: ^1.2.1
     function-bind: ^1.1.1
     function.prototype.name: ^1.1.5
@@ -11426,7 +11427,7 @@ __metadata:
     has-proto: ^1.0.1
     has-symbols: ^1.0.3
     internal-slot: ^1.0.4
-    is-array-buffer: ^3.0.0
+    is-array-buffer: ^3.0.1
     is-callable: ^1.2.7
     is-negative-zero: ^2.0.2
     is-regex: ^1.1.4
@@ -11444,7 +11445,7 @@ __metadata:
     typed-array-length: ^1.0.4
     unbox-primitive: ^1.0.2
     which-typed-array: ^1.1.9
-  checksum: 70e259e377d86de283c7182743ce5032899cb414ec698466e700494dc2c99d189698bb72e8cbbaa091211be851f4c50a6cdf585d99eace3df8a6013bf31d8734
+  checksum: f05b7c6a0c2ff951bb358e252daa3b059de6aad2222d1338352a104c252824e9eeba7c18961b7e56b9d1bfb39f99580469144b39f05ec44af170b10dd69d4221
   languageName: node
   linkType: hard
 
@@ -11478,7 +11479,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"es-set-tostringtag@npm:^2.0.0":
+"es-set-tostringtag@npm:^2.0.1":
   version: 2.0.1
   resolution: "es-set-tostringtag@npm:2.0.1"
   dependencies:
@@ -14381,7 +14382,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"is-array-buffer@npm:^3.0.0, is-array-buffer@npm:^3.0.1":
+"is-array-buffer@npm:^3.0.1":
   version: 3.0.1
   resolution: "is-array-buffer@npm:3.0.1"
   dependencies:
@@ -19497,9 +19498,9 @@ __metadata:
   linkType: hard
 
 "punycode@npm:^2.1.0, punycode@npm:^2.1.1":
-  version: 2.1.1
-  resolution: "punycode@npm:2.1.1"
-  checksum: 83815ca9b9177f055771f31980cbec7ffaef10257d50a95ab99b4a30f0404846e85fa6887ee1bbc0aaddb7bad6d96e2fa150a016051ff0f6b92be4ad613ddca8
+  version: 2.2.0
+  resolution: "punycode@npm:2.2.0"
+  checksum: c4c67082ab53d4304e7f2bb0635290db5baa84758cd4ade4219f24c16ecd803dd5022054186e9c778a4df851cc989b02201a35eaed6b08cb9cabec8b8e2d8332
   languageName: node
   linkType: hard
 
@@ -20724,9 +20725,9 @@ __metadata:
   linkType: hard
 
 "secure-json-parse@npm:^2.4.0, secure-json-parse@npm:^2.5.0":
-  version: 2.6.0
-  resolution: "secure-json-parse@npm:2.6.0"
-  checksum: b59511c9659b40484e6cfb719e4d78285739db8675511087cd6e1bffea617502dcb0049023aaa76ebec3dae37ee12d96bf6b65cbc796f337e00bc5601e743cef
+  version: 2.7.0
+  resolution: "secure-json-parse@npm:2.7.0"
+  checksum: f57eb6a44a38a3eeaf3548228585d769d788f59007454214fab9ed7f01fbf2e0f1929111da6db28cf0bcc1a2e89db5219a59e83eeaec3a54e413a0197ce879e4
   languageName: node
   linkType: hard
 

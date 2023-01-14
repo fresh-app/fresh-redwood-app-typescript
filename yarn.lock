@@ -9088,9 +9088,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001400":
-  version: 1.0.30001443
-  resolution: "caniuse-lite@npm:1.0.30001443"
-  checksum: ba0317d8e3b354ec0fc4ed7686d534591d174ffd3a4a166d80919062b309a9ac1fae6555c319dced486d86e525efb669b5b240046728b2fa94046f7ba443d513
+  version: 1.0.30001444
+  resolution: "caniuse-lite@npm:1.0.30001444"
+  checksum: 86b4ccc9c6b84220ac4195c6cd83c7813822184f1f62cf86f292ab22edc834f47a779f7c94568f5d3529d074d66a04556bf511b8478237426e459e6968621edc
   languageName: node
   linkType: hard
 
@@ -11514,18 +11514,19 @@ __metadata:
   linkType: hard
 
 "es-get-iterator@npm:^1.0.2, es-get-iterator@npm:^1.1.2":
-  version: 1.1.2
-  resolution: "es-get-iterator@npm:1.1.2"
+  version: 1.1.3
+  resolution: "es-get-iterator@npm:1.1.3"
   dependencies:
     call-bind: ^1.0.2
-    get-intrinsic: ^1.1.0
-    has-symbols: ^1.0.1
-    is-arguments: ^1.1.0
+    get-intrinsic: ^1.1.3
+    has-symbols: ^1.0.3
+    is-arguments: ^1.1.1
     is-map: ^2.0.2
     is-set: ^2.0.2
-    is-string: ^1.0.5
+    is-string: ^1.0.7
     isarray: ^2.0.5
-  checksum: 76a832b3bfd85941c556287cd50a3ad612f5193264b761e2011503f311dfa20aa52b9ebd701d3f16022d4cb56a7130a4cfb50186427d3aecd0d4e547a471f68e
+    stop-iteration-iterator: ^1.0.0
+  checksum: ebd11effa79851ea75d7f079405f9d0dc185559fd65d986c6afea59a0ff2d46c2ed8675f19f03dce7429d7f6c14ff9aede8d121fbab78d75cfda6a263030bac0
   languageName: node
   linkType: hard
 
@@ -13099,7 +13100,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"get-intrinsic@npm:^1.0.2, get-intrinsic@npm:^1.1.0, get-intrinsic@npm:^1.1.1, get-intrinsic@npm:^1.1.3":
+"get-intrinsic@npm:^1.0.2, get-intrinsic@npm:^1.1.1, get-intrinsic@npm:^1.1.3":
   version: 1.1.3
   resolution: "get-intrinsic@npm:1.1.3"
   dependencies:
@@ -13598,7 +13599,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"has-symbols@npm:^1.0.1, has-symbols@npm:^1.0.2, has-symbols@npm:^1.0.3":
+"has-symbols@npm:^1.0.2, has-symbols@npm:^1.0.3":
   version: 1.0.3
   resolution: "has-symbols@npm:1.0.3"
   checksum: e6922b4345a3f37069cdfe8600febbca791c94988c01af3394d86ca3360b4b93928bbf395859158f88099cb10b19d98e3bbab7c9ff2c1bd09cf665ee90afa2c3
@@ -14430,7 +14431,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"is-arguments@npm:^1.0.4, is-arguments@npm:^1.1.0, is-arguments@npm:^1.1.1":
+"is-arguments@npm:^1.0.4, is-arguments@npm:^1.1.1":
   version: 1.1.1
   resolution: "is-arguments@npm:1.1.1"
   dependencies:
@@ -17510,7 +17511,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"node-fetch@npm:2.6.7, node-fetch@npm:^2.6.1, node-fetch@npm:^2.6.7":
+"node-fetch@npm:2.6.7":
   version: 2.6.7
   resolution: "node-fetch@npm:2.6.7"
   dependencies:
@@ -17521,6 +17522,20 @@ __metadata:
     encoding:
       optional: true
   checksum: fcae80f5ac52fbf5012f5e19df2bd3915e67d3b3ad51cb5942943df2238d32ba15890fecabd0e166876a9f98a581ab50f3f10eb942b09405c49ef8da36b826c7
+  languageName: node
+  linkType: hard
+
+"node-fetch@npm:^2.6.1, node-fetch@npm:^2.6.7":
+  version: 2.6.8
+  resolution: "node-fetch@npm:2.6.8"
+  dependencies:
+    whatwg-url: ^5.0.0
+  peerDependencies:
+    encoding: ^0.1.0
+  peerDependenciesMeta:
+    encoding:
+      optional: true
+  checksum: 4e3cfdeb3e5e0e6d1192be08942d6530d74b0ac4fe6d8fc1cbcc3e7f274807b4f662ff1218393ba9e5e0e0c15c66365128726ed5400585feda707c31234d1f16
   languageName: node
   linkType: hard
 
@@ -21545,6 +21560,15 @@ __metadata:
   version: 1.5.0
   resolution: "statuses@npm:1.5.0"
   checksum: e433900956357b3efd79b1c547da4d291799ac836960c016d10a98f6a810b1b5c0dcc13b5a7aa609a58239b5190e1ea176ad9221c2157d2fd1c747393e6b2940
+  languageName: node
+  linkType: hard
+
+"stop-iteration-iterator@npm:^1.0.0":
+  version: 1.0.0
+  resolution: "stop-iteration-iterator@npm:1.0.0"
+  dependencies:
+    internal-slot: ^1.0.4
+  checksum: c4158d6188aac510d9e92925b58709207bd94699e9c31186a040c80932a687f84a51356b5895e6dc72710aad83addb9411c22171832c9ae0e6e11b7d61b0dfb9
   languageName: node
   linkType: hard
 

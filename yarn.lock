@@ -9088,9 +9088,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001400":
-  version: 1.0.30001444
-  resolution: "caniuse-lite@npm:1.0.30001444"
-  checksum: 86b4ccc9c6b84220ac4195c6cd83c7813822184f1f62cf86f292ab22edc834f47a779f7c94568f5d3529d074d66a04556bf511b8478237426e459e6968621edc
+  version: 1.0.30001445
+  resolution: "caniuse-lite@npm:1.0.30001445"
+  checksum: 626f3e5054f646d516ba6d96d23807080cc87013fd850558997ca05e6d3cf2c395df1952f7722e101b6782d9a82a21ae5e2943c1d45d59895f8e428030762b53
   languageName: node
   linkType: hard
 
@@ -20925,11 +20925,11 @@ __metadata:
   linkType: hard
 
 "serialize-javascript@npm:^6.0.0":
-  version: 6.0.0
-  resolution: "serialize-javascript@npm:6.0.0"
+  version: 6.0.1
+  resolution: "serialize-javascript@npm:6.0.1"
   dependencies:
     randombytes: ^2.1.0
-  checksum: 73104922ef0a919064346eea21caab99de1a019a1f5fb54a7daa7fcabc39e83b387a2a363e52a889598c3b1bcf507c4b2a7b26df76e991a310657af20eea2e7c
+  checksum: 1af427f4fee3fee051f54ffe15f77068cff78a3c96d20f5c1178d20630d3ab122d8350e639d5e13cde8111ef9db9439b871305ffb185e24be0a2149cec230988
   languageName: node
   linkType: hard
 
@@ -22711,9 +22711,9 @@ __metadata:
   linkType: hard
 
 "type-fest@npm:^3.0.0":
-  version: 3.5.1
-  resolution: "type-fest@npm:3.5.1"
-  checksum: fb19d8a6f08eb010e0b0f71a7d77ac1f30b86d1a7d5f3d9bc8ed70ded54ec7303a6da8f3d082cc0e366e99eaf13405ad5d9530a59e1b25eb059a5177ad345d39
+  version: 3.5.2
+  resolution: "type-fest@npm:3.5.2"
+  checksum: 4d15398a91bc2e732fb9f97fcdb19d4b45d5710222c0701296e7b37099a6886db929e5ba271ba96c6d275d5a236d7c02cc6bdff375493a417788a972c23c0260
   languageName: node
   linkType: hard
 

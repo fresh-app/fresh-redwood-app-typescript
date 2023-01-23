@@ -3492,8 +3492,8 @@ __metadata:
   linkType: hard
 
 "@mswjs/interceptors@npm:^0.17.5":
-  version: 0.17.6
-  resolution: "@mswjs/interceptors@npm:0.17.6"
+  version: 0.17.7
+  resolution: "@mswjs/interceptors@npm:0.17.7"
   dependencies:
     "@open-draft/until": ^1.0.3
     "@types/debug": ^4.1.7
@@ -3503,7 +3503,7 @@ __metadata:
     outvariant: ^1.2.1
     strict-event-emitter: ^0.2.4
     web-encoding: ^1.1.5
-  checksum: 8fca3bde13adc0d94aaed615609a387be53f857089b87cc264402da1b28ef1aa5c5476b83b031358e41f6c3cfce762ef2fb6b853e25030bd6f3c9277a1ed1f68
+  checksum: 4f5dac86c0a938a23fded7b4582d5f7bb380d8ce310de2104d040de121396ffdca1daaaff9baa4fe8287d8cc89df972c2c325266550aec92b6e1d68778f1c604
   languageName: node
   linkType: hard
 
@@ -22769,9 +22769,9 @@ __metadata:
   linkType: hard
 
 "ua-parser-js@npm:^0.7.30":
-  version: 0.7.32
-  resolution: "ua-parser-js@npm:0.7.32"
-  checksum: 5311835284fada204adf1d1eed88b291abeb1e1d65e08a57b348cfe7e7647db7f0d024cf400d2182298b77c81aa9e486c81d1faa8299ed7d88bc322354c7e9cd
+  version: 0.7.33
+  resolution: "ua-parser-js@npm:0.7.33"
+  checksum: d58bf54c91e3e80e6e086b6215fa15266791e23e6e403039179c020129940168634a5b931f65ce70c6550b05d0d62c7c944bf7378b6b42133cd4a7ccb07f1948
   languageName: node
   linkType: hard
 
@@ -22827,11 +22827,11 @@ __metadata:
   linkType: hard
 
 "undici@npm:^5.12.0, undici@npm:^5.5.1, undici@npm:^5.8.0":
-  version: 5.15.1
-  resolution: "undici@npm:5.15.1"
+  version: 5.15.2
+  resolution: "undici@npm:5.15.2"
   dependencies:
     busboy: ^1.6.0
-  checksum: b175c3241b0ccd30226820562453657d3dcd1a8080bb9e019eb59ab6f02ae265fd6ba9aebb4295b32ec75fab308316844c4539a86737dbd18b545be82f4eb083
+  checksum: ea247fe8d3b0a9d8c28eef62caebe19e615fe4218a74ee55565c4e689b4bd74d1162a35353eb2b962435f74a934c2300225f547117098b8542cf7b60315c3ab2
   languageName: node
   linkType: hard
 

@@ -6020,13 +6020,13 @@ __metadata:
   linkType: hard
 
 "@types/express-serve-static-core@npm:*, @types/express-serve-static-core@npm:^4.17.31":
-  version: 4.17.32
-  resolution: "@types/express-serve-static-core@npm:4.17.32"
+  version: 4.17.33
+  resolution: "@types/express-serve-static-core@npm:4.17.33"
   dependencies:
     "@types/node": "*"
     "@types/qs": "*"
     "@types/range-parser": "*"
-  checksum: 283024a1d8247e4d39ca0f9ff23bbd3b88799dbd508c52b7ea479b21d326a2d0a9c362ec4b91d621d2cb7c5e961eb5a094d79702aeae25b295c6f2a70271c13e
+  checksum: 68f21adeb8cb7085014692daa8fd75b33be2cbb91f954f42fef4804e04cb34abbe8020918d7656243afec4882949ce0c4e8074eaf5a5f8dfbef704690799724a
   languageName: node
   linkType: hard
 
@@ -6040,14 +6040,14 @@ __metadata:
   linkType: hard
 
 "@types/express@npm:*, @types/express@npm:^4.17.13":
-  version: 4.17.15
-  resolution: "@types/express@npm:4.17.15"
+  version: 4.17.16
+  resolution: "@types/express@npm:4.17.16"
   dependencies:
     "@types/body-parser": "*"
     "@types/express-serve-static-core": ^4.17.31
     "@types/qs": "*"
     "@types/serve-static": "*"
-  checksum: a230500a0bcf47d090a6a254873325145ad29fb7513c1688aa7376d3ac3cddf4e6478e77e7c0273349260f26b2767ff403368b8ec4e3e72a6dc17159ba1bddb2
+  checksum: af82be5759cf2d8f12d454d78a3efe7a9963ddce2bb1fa5029ad50b912b41b9df3e21e2099212942bd8502d4ba629252b9933b9c93f19e7b34895d23fcffca36
   languageName: node
   linkType: hard
 
@@ -7292,11 +7292,11 @@ __metadata:
   linkType: hard
 
 "acorn@npm:^8.0.4, acorn@npm:^8.1.0, acorn@npm:^8.4.1, acorn@npm:^8.5.0, acorn@npm:^8.7.1, acorn@npm:^8.8.0, acorn@npm:^8.8.1":
-  version: 8.8.1
-  resolution: "acorn@npm:8.8.1"
+  version: 8.8.2
+  resolution: "acorn@npm:8.8.2"
   bin:
     acorn: bin/acorn
-  checksum: 9fd00e3373ecd6c7e8f6adfb3216f5bc9ac050e6fc4ef932f03dbd1d45ccc08289ae16fc9eec10c5de8f1ca65b5f70c02635e1e9015d109dae96fdede340abf5
+  checksum: b5c54e736af5ed753911c6752fafd02d0a74cf4d55be606bd81fe71faba4f986dc090952329931ac2aba165803fd0005c59eeef08f9c6c689e8dc420031f3df0
   languageName: node
   linkType: hard
 
@@ -8052,9 +8052,9 @@ __metadata:
   linkType: hard
 
 "axe-core@npm:^4.2.0, axe-core@npm:^4.4.3":
-  version: 4.6.2
-  resolution: "axe-core@npm:4.6.2"
-  checksum: 5b8e7a15ec01b87a725bc80d7ca7f7b4bf9054a72df9975704ae55202e036622e213e815ee801a5b26ee35555f94b3248a5a96296e03946f0f81ec819cfbae8a
+  version: 4.6.3
+  resolution: "axe-core@npm:4.6.3"
+  checksum: b26ee77b5c1f9c399a4ed5dadf82c5302fd70326f36b68f5023a57b7ec213d5db126aade0a2cd2866b9563e213192f4257bc5dc35edebb10a73f90155baa39da
   languageName: node
   linkType: hard
 
@@ -9082,9 +9082,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001400":
-  version: 1.0.30001446
-  resolution: "caniuse-lite@npm:1.0.30001446"
-  checksum: 07af2c24ecf86bda64c8483ccc5b1f73b570ea262af22e795092d8fb4c0968214a3ba6897666be944b8380c8c83d992a58d7613d2f91d9e17e3e8d3eb51807b8
+  version: 1.0.30001447
+  resolution: "caniuse-lite@npm:1.0.30001447"
+  checksum: 9fe2001b201e048a3f8c29144ce60bbdbc1eccbbd5172585b6fdaeecb34e62cc3437818c8c2ba3327aaf10687cb4934fbf17f4adfd391b6d056b58755ae764ae
   languageName: node
   linkType: hard
 
@@ -22827,11 +22827,11 @@ __metadata:
   linkType: hard
 
 "undici@npm:^5.12.0, undici@npm:^5.5.1, undici@npm:^5.8.0":
-  version: 5.15.2
-  resolution: "undici@npm:5.15.2"
+  version: 5.16.0
+  resolution: "undici@npm:5.16.0"
   dependencies:
     busboy: ^1.6.0
-  checksum: ea247fe8d3b0a9d8c28eef62caebe19e615fe4218a74ee55565c4e689b4bd74d1162a35353eb2b962435f74a934c2300225f547117098b8542cf7b60315c3ab2
+  checksum: f4a6b0f67b4beeeec38e7be401922fa093ecd9f1d05dcd5318997aa53a16fbe092df55170a450b3c28f01f19f05f952b8b589ceebe2e236b813325c49ba8ca13
   languageName: node
   linkType: hard
 

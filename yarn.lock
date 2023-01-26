@@ -6,9 +6,9 @@ __metadata:
   cacheKey: 8c0
 
 "@adobe/css-tools@npm:^4.0.1":
-  version: 4.0.2
-  resolution: "@adobe/css-tools@npm:4.0.2"
-  checksum: 97fbe4ba0624063388be5b484dfbcccf3b02c20b0bd8169b9ffeead1f666118367ecb74ed5fa1a6cd75ada9e3853b56634d4b050d96461f80f0c5c7b0bbf85ab
+  version: 4.1.0
+  resolution: "@adobe/css-tools@npm:4.1.0"
+  checksum: d73a3da47d81732bb69854bc298e7e72d96acdc7ee1765ae6c365a6a5ad0ec86a4f2aaaa3004334a7438eea5c3142e83d5a6b76234757149f64beb778daae219
   languageName: node
   linkType: hard
 
@@ -6145,12 +6145,12 @@ __metadata:
   linkType: hard
 
 "@types/jest@npm:*":
-  version: 29.2.6
-  resolution: "@types/jest@npm:29.2.6"
+  version: 29.4.0
+  resolution: "@types/jest@npm:29.4.0"
   dependencies:
     expect: ^29.0.0
     pretty-format: ^29.0.0
-  checksum: f52c3824c972902e25ed1b3d05086260ef088828168b60bab427dcffc83ddbc95fec82000eecbdae26a0c05da3b65073b88553ce328e71a2ffbaa5e7fd560548
+  checksum: db1c148e8acf30247e39c6d7db9dadb7dad15f71f22f41cbee5f8037f939b090839e45e5ca506167db3b8a8dd9c850f788d9b41ec8082bc0036cce65fd6c2ff7
   languageName: node
   linkType: hard
 
@@ -9099,9 +9099,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001400":
-  version: 1.0.30001447
-  resolution: "caniuse-lite@npm:1.0.30001447"
-  checksum: 9fe2001b201e048a3f8c29144ce60bbdbc1eccbbd5172585b6fdaeecb34e62cc3437818c8c2ba3327aaf10687cb4934fbf17f4adfd391b6d056b58755ae764ae
+  version: 1.0.30001448
+  resolution: "caniuse-lite@npm:1.0.30001448"
+  checksum: 2fc6ffe35fe7471443ad31f9b833760e08ba13357d522f60f28f3c41c39f99488b97d6315298b141021c16645a22bbf65ee823a73486e56a7eacfd8868d7ec08
   languageName: node
   linkType: hard
 

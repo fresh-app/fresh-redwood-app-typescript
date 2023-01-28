@@ -133,9 +133,9 @@ __metadata:
   linkType: hard
 
 "@babel/compat-data@npm:^7.17.7, @babel/compat-data@npm:^7.20.1, @babel/compat-data@npm:^7.20.5":
-  version: 7.20.10
-  resolution: "@babel/compat-data@npm:7.20.10"
-  checksum: 5394197084af5118287e20ea8e4942c43bb4047943ddb12cb19d44c19eeeaf038459b087adb2e6b7d46780543d10b3a1a415441fc8fb98f6dc9d7e902a19e325
+  version: 7.20.14
+  resolution: "@babel/compat-data@npm:7.20.14"
+  checksum: b35587fe2f90dbf4e07d33fcaaa49fa117313eeb892591fede7679b21f7aff4235735a709fdb771a9a33b9e57d5cebed522108ad1364f6a1abf91cf16ffde1e4
   languageName: node
   linkType: hard
 
@@ -236,13 +236,13 @@ __metadata:
   linkType: hard
 
 "@babel/generator@npm:^7.12.11, @babel/generator@npm:^7.12.5, @babel/generator@npm:^7.14.0, @babel/generator@npm:^7.18.13, @babel/generator@npm:^7.20.5, @babel/generator@npm:^7.20.7, @babel/generator@npm:^7.7.2":
-  version: 7.20.7
-  resolution: "@babel/generator@npm:7.20.7"
+  version: 7.20.14
+  resolution: "@babel/generator@npm:7.20.14"
   dependencies:
     "@babel/types": ^7.20.7
     "@jridgewell/gen-mapping": ^0.3.2
     jsesc: ^2.5.1
-  checksum: b22032867dfad3115404ea74fd063079883428cf838ec490a1f64d2e5e4dd82f94f77df90eb95a57740fb387a115b5ffe655e768cb50862832c6f9f6ffb4be79
+  checksum: 4b0159f2175cf002a902e0aaa1c3c2af9c98d309394e685bc556cd2c34ccc4ace38a91b919f62effc7e067fadd2ded6cda8630b7c11367a303a2bd67862989b5
   languageName: node
   linkType: hard
 
@@ -1139,13 +1139,13 @@ __metadata:
   linkType: hard
 
 "@babel/plugin-transform-block-scoping@npm:^7.0.0, @babel/plugin-transform-block-scoping@npm:^7.12.12, @babel/plugin-transform-block-scoping@npm:^7.20.2":
-  version: 7.20.11
-  resolution: "@babel/plugin-transform-block-scoping@npm:7.20.11"
+  version: 7.20.14
+  resolution: "@babel/plugin-transform-block-scoping@npm:7.20.14"
   dependencies:
     "@babel/helper-plugin-utils": ^7.20.2
   peerDependencies:
     "@babel/core": ^7.0.0-0
-  checksum: 3840c342c5ef6c53c750bf3801c30b3770b016516b4589d164e227688ed2dd0aa86496ac340b0735b9fa0cee30ff5338f1e291b2a91df5cce17e585298674e8b
+  checksum: 1ca3aac0f958af66f9a41127b43441f0dbb3bb20bb45f5fada632498242e22e57765edabe5c5fe054f6bad36dcbd8e2088cd80dfd0d286b4648ccb37b1f87b9f
   languageName: node
   linkType: hard
 
@@ -9099,9 +9099,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001400":
-  version: 1.0.30001448
-  resolution: "caniuse-lite@npm:1.0.30001448"
-  checksum: 2fc6ffe35fe7471443ad31f9b833760e08ba13357d522f60f28f3c41c39f99488b97d6315298b141021c16645a22bbf65ee823a73486e56a7eacfd8868d7ec08
+  version: 1.0.30001449
+  resolution: "caniuse-lite@npm:1.0.30001449"
+  checksum: 8db990ce9aad1c7b46d3a46886348d640b00204bf1284042eb2ae792732ba8a011cde1ca8d2cab64eda696daec0554424f3fc3435620709e62774b27f43a7aa6
   languageName: node
   linkType: hard
 
@@ -14003,9 +14003,9 @@ __metadata:
   linkType: hard
 
 "http-cache-semantics@npm:^4.0.0, http-cache-semantics@npm:^4.1.0":
-  version: 4.1.0
-  resolution: "http-cache-semantics@npm:4.1.0"
-  checksum: abe115ddd9f24914a49842f2745ecc8380837bbe30b59b154648c76ebc1bd3d5f8bd05c1789aaa2ae6b79624c591d13c8aa79104ff21078e117140a65ac20654
+  version: 4.1.1
+  resolution: "http-cache-semantics@npm:4.1.1"
+  checksum: ce1319b8a382eb3cbb4a37c19f6bfe14e5bb5be3d09079e885e8c513ab2d3cd9214902f8a31c9dc4e37022633ceabfc2d697405deeaf1b8f3552bb4ed996fdfc
   languageName: node
   linkType: hard
 

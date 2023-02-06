@@ -7337,15 +7337,15 @@ __metadata:
   linkType: hard
 
 "@whatwg-node/fetch@npm:^0.6.0":
-  version: 0.6.6
-  resolution: "@whatwg-node/fetch@npm:0.6.6"
+  version: 0.6.7
+  resolution: "@whatwg-node/fetch@npm:0.6.7"
   dependencies:
     "@peculiar/webcrypto": ^1.4.0
-    "@whatwg-node/node-fetch": 0.0.2
+    "@whatwg-node/node-fetch": 0.0.3
     busboy: ^1.6.0
     urlpattern-polyfill: ^6.0.2
     web-streams-polyfill: ^3.2.1
-  checksum: 6f31ba787bf19198fef2ba655a1d8a967988543dedc6682d0b92803a612067f3cad3ab991137975ee6a46d5c3308c4a6d268d9bb83459bb6da60ad3925af7466
+  checksum: c5961962b5985b6684d0b5798f3f117d5539526cd85295dafb2c96715b82d346fc0e2dec32e3ab00f3d7de73d554490ab43dec06177ebfdf0de55e4e40f609cb
   languageName: node
   linkType: hard
 
@@ -7362,16 +7362,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@whatwg-node/node-fetch@npm:0.0.2":
-  version: 0.0.2
-  resolution: "@whatwg-node/node-fetch@npm:0.0.2"
+"@whatwg-node/node-fetch@npm:0.0.3":
+  version: 0.0.3
+  resolution: "@whatwg-node/node-fetch@npm:0.0.3"
   dependencies:
     "@whatwg-node/events": 0.0.2
     busboy: 1.6.0
     tslib: ^2.3.1
   peerDependencies:
     "@types/node": ^18.0.6
-  checksum: 9e38d4a069f583dd151133a892c4068c3c23d27a3ee907635780511967e21730e89f4ba66e3c5388966e0907f5ce864e920b293ce5ce6407518fc27de598ea95
+  checksum: 74a21c114ac6e602eb9fc1a37f719e625610b281370617258fbdacbcad91c77ca01b6f400e4d524b5eec0cb5129277ea9f01b4612e3df1c63614fa279844374a
   languageName: node
   linkType: hard
 
@@ -17412,9 +17412,9 @@ __metadata:
   linkType: hard
 
 "minipass@npm:^4.0.0":
-  version: 4.0.1
-  resolution: "minipass@npm:4.0.1"
-  checksum: 65a2cf253153d09efd29a07bf49690266a71d2650b4c2ea5eda0e94649213cf6e098e252027277dfcf77555312e78360abd51a749b5be6be06c5a59d27f44532
+  version: 4.0.2
+  resolution: "minipass@npm:4.0.2"
+  checksum: fa50cc44b47d2ca071002a611f94f215acdbaee97e69a070d67782bf7d3fab537a2e54f776dff502ff4a293e040130987c914a541a44c22eb182cd7fad0e964b
   languageName: node
   linkType: hard
 
@@ -21794,9 +21794,9 @@ __metadata:
   linkType: hard
 
 "strict-event-emitter@npm:^0.4.3":
-  version: 0.4.4
-  resolution: "strict-event-emitter@npm:0.4.4"
-  checksum: 1d73c4db48d3b3b861c0f9d1720269ecd8156834abb2e5b5a32064d49f2f402925da54aee8a6a66e6f70c5ca7b4b4cf4a9162e244e564410069cabb4fcecec50
+  version: 0.4.6
+  resolution: "strict-event-emitter@npm:0.4.6"
+  checksum: d0231ef081cb1937b1445da59a1ec202d1c097d825c504f398600532490a4104e200b0dce4137467a8eaac5f8f9718d01c99869687afad78cad3b14c4b2e6a39
   languageName: node
   linkType: hard
 
